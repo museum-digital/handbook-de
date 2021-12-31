@@ -1,0 +1,6 @@
+[book]
+authors = ["Joshua Ramon Enslin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "museum-digital:handbuch"
