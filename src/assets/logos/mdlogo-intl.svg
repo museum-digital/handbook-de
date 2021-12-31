@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1016"
+   height="1016"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mdlogo-intl.svg"
+   inkscape:export-filename="/home/jrenslin/Nextcloud/museum-digital/Icons/mdlogo/international/mdlogo-16px.png"
+   inkscape:export-xdpi="1.53"
+   inkscape:export-ydpi="1.53">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="0"
+     inkscape:zoom="1.4"
+     inkscape:cx="382.46668"
+     inkscape:cy="500.5047"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3680"
+     inkscape:window-height="1929"
+     inkscape:window-x="80"
+     inkscape:window-y="150"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(8,-44.362183)">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2993-3"
+       width="1000"
+       height="1000"
+       x="0"
+       y="52.362183"
+       ry="500"
+       rx="500" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:14.63981819;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2993-7"
+       width="931.36017"
+       height="931.36017"
+       x="34.319908"
+       y="86.682106"
+       ry="465.68008"
+       rx="465.68008" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2993"
+       width="852.59821"
+       height="852.59821"
+       x="73.70089"
+       y="126.06305"
+       ry="426.2991"
+       rx="426.2991" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3763"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3765"
+         style="font-family:sans-serif"><rect
+           id="rect3767"
+           width="1008.1323"
+           height="1000.051"
+           x="-6.0609155"
+           y="50.290859"
+           style="font-family:sans-serif;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara3769"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;line-height:0%;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style Semi-Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="498.92267"
+       y="648.0545"
+       id="text3771"><tspan
+         sodipodi:role="line"
+         id="tspan3773"
+         x="498.92264"
+         y="648.0545"
+         style="font-size:367.6237793px;line-height:10">md</tspan></text>
+  </g>
+</svg>

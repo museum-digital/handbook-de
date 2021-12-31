@@ -1,6 +1,19 @@
 [book]
 authors = ["Joshua Ramon Enslin"]
-language = "en"
+language = "de"
 multilingual = false
 src = "src"
 title = "museum-digital:handbuch"
+description = "Deutschsprachiges Hanbuch zu museum-digital"
+
+[preprocessor.index]
+
+[preprocessor.links]
+
+[output.html.print]
+enable = true
+
+[output.html.fold]
+enable = false
+level = 0
+
