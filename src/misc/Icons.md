@@ -8,7 +8,7 @@ visualisiert. Hierfür verwenden wir die folgenden Icons.
 
 Bei Karten erscheinen die Icons in einem Marker. Dieser basiert auf dem
 Marker-Icon von
-[SimpleIcon](https://www.flaticon.com/packs/simpleicon-places) (CC-BY).
+SimpleIcon (CC-BY).
 Die Icons sind unter CC-BY unten verfügbar. Attribuiert werden können
 sie auf \"Joshua R. Enslin / museum-digital\". Erstellt wurden sie
 mithilfe von [Inkscape](https://inkscape.org/).

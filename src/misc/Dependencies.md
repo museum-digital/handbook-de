@@ -2,7 +2,7 @@
 
 An dieser Stelle werden die für die verschiedenen Programme von museum-digital gebrauchten Bibliotheken aufgelistet.
 
-Alle Programme von museum-digital sind für eine klassischen LAMP-Umgebung geschrieben. Wir verwenden hierbei [PHP 8](http://php.net/).
+Alle Programme von museum-digital sind für eine klassischen LAMP-Umgebung geschrieben. Wir verwenden hierbei [PHP 8](https://www.php.net).
 
 Ausgabe
 -------

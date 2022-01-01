@@ -64,7 +64,7 @@ Logo für internationale Instanzen
 
 Auch das Logo für internationale Versionen ist auf
 Mehrfachverwendbarkeit ausgelegt. Abseits der [ungarischen
-Instanz](https://hu.museum-digital.de/portal/), die ein eigenes Logo
+Instanz](https://hu.museum-digital.org), die ein eigenes Logo
 hat, werden die folgenden Hintergrundfarben für die Logos der
 internationalen Instanzen verwendet.
 
