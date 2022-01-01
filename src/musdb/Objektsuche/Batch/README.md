@@ -29,11 +29,11 @@ Nutzer:innen, die mindestens die Nutzerrolle „Museumsdirektor" haben,
 aktivieren die Funktion, indem sie im Menüband ganz oben auf ihren Namen
 klicken und dann den Haken bei „Globales Ändern" durch Anklicken setzen.
 
-![](../../assets/musdb/objects-list/persoenliche_Einstellungen_bearbeiten.png){width="1300"
+![](../../../assets/musdb/objects-list/persoenliche_Einstellungen_bearbeiten.png){width="1300"
 height="541"}
 
-![](../../assets/musdb/objects-list/globales_aendern_aktivieren.png){width="1300"
-height="533"}![](persoenliche_Einstellungen_bearbeiten.png)
+![](../../../assets/musdb/objects-list/globales_aendern_aktivieren.png)
+![](../../../assets/musdb/objects-list/persoenliche_Einstellungen_bearbeiten.png)
 
 Inhalte mit „Globales Ändern" bearbeiten
 ----------------------------------------
@@ -44,31 +44,29 @@ gewünschten Objekten, im Beispiel zum Beispiel alle Objekte, die im
 Volltext das Wort „Bügeleisen" enthalten.
 
 [**\> Hier wird erklärt, wie man den Filter
-benutzt!**](?lan=de&q=musdb/Objektdaten/Arbeiten%20mit%20Filtern)
+benutzt!**](../../Objektsuche/Filtern.md)
 
-![](../../assets/musdb/objects-list/filtern_Buegeleisen_Volltext.png)
+![](../../../assets/musdb/objects-list/filtern_Buegeleisen_Volltext.png)
 
 Scrollt man dann ganz nach unten, so findet man beim Filterbereich ganz
 unten nun die Funktion „Globales Ändern". Ein Klick darauf öffnet diese.
 
- ![](../../assets/musdb/objects-list/globales_aendern_1.png)
-
- 
+ ![](../../../assets/musdb/objects-list/globales_aendern_1.png)
 
 Zunächst kann man nun das Feld auswählen, in dem Änderungen vorgenommen
 werden sollen. Im Beispiel soll der Standort bei den beiden ausgewählten
 Objekten im Feld „Aktueller Aufenthalt" von „Außendepot, Raum 1" zu
 „Außendepot, Raum 2" geändert werden.
 
-![](../../assets/musdb/objects-list/globales_aendern_2.png)
+![](../../../assets/musdb/objects-list/globales_aendern_2.png)
 
 Weiter nach unten zum richtigen Feld scrollen.
 
-![](../../assets/musdb/objects-list/globales_aendern_3.png)
+![](../../../assets/musdb/objects-list/globales_aendern_3.png)
 
 Die Änderungen müssen in der Maske eingegeben werden.
 
-![](../../assets/musdb/objects-list/globales_aendern_4.png)
+![](../../../assets/musdb/objects-list/globales_aendern_4.png)
 
 Beim Klick auf „Abschicken" erscheint noch einmal eine Warnung mit dem
 Hinweis, wie viele Datensätze geändert werden.
@@ -76,8 +74,8 @@ Hinweis, wie viele Datensätze geändert werden.
 > **Achtung! Wer jetzt auf „So sei es!" klickt, der ändert die
 > Datensätze unwiederbringlich!**
 
-![](../../assets/musdb/objects-list/globales_aendern_5.png)
+![](../../../assets/musdb/objects-list/globales_aendern_5.png)
 
 Die Kontrolle zeigt: Der Eintrag wurde bei beiden Datensätzen geändert.
 
-![](../../assets/musdb/objects-list/feld_aktueller_aufenthalt.png)
+![](../../../assets/musdb/objects-list/feld_aktueller_aufenthalt.png)

@@ -96,9 +96,9 @@ Konsequenzen:
 -   Die verwendete Software muss sehr einfach zu bedienen sein.
     Mitarbeiter müssen sie ohne teure IT-Schulung benutzen können.
 -   Die verwendete Software muss weitestgehend kostenfrei sein. Längst
-    nicht jedes Museum kann sich die oft sehr teueren Lizenzen von
+    nicht jedes Museum kann sich die oft sehr teuren Lizenzen von
     Museums-Softwareproduktion gewinnorientierter Firmen leisten.
-    Museum-digital basiert auf frei verfügbarer Software (mysql, php).
+    Museum-digital basiert auf freier Software (MySQL, PHP).
 -   Das System muss sehr flexibel sein. Es gibt in den verschiedenen
     Museen verschiedene Traditionen des Formulierens von
     Objektinformationen. Als Beispiel sei auf Zeitangaben verwiesen, wo
@@ -154,25 +154,22 @@ museum-digital ist keine Einbahnstraße und kein Selbstzweck! Museen, die
 Informationen zu ihren Objekten bei museum-digital publizieren haben von
 hier aus zahlreiche einfach nutzbare Möglichkeiten:
 
--   Museum-digital verfügt einen leicht zu bedienenden Exportmechanismus
+-   museum-digital verfügt einen leicht zu bedienenden Exportmechanismus
     mit dem sich jedes Museum eine Exportdatei für ausgewählte Objekte
     erstellen kann. Diese Exportdatei ist im LIDO-Datenaustauschformat
     gehalten und kann einfach an Portale weitergegeben werden. Etliche
     Museen haben auf diese Weise bereits ihre Informationen an die
     \"europeana\" oder die \"ddb\" (Deutsche Digitale Bibliothek)
     weitergereicht. Mehr zu den Exportmöglichkeiten finden Sie unter
-    [Ausgabe/Export](?lan=de&q=Ausgabe/Export).
+    [Ausgabe/Export](../musdb/Objektsuche/Export.md).
 -   Jedes Museum kann seine eigenen Objektinformationen auch in die
     eigene Internetseite einbinden. Dafür gibt es den einfachen Weg über
-    einen iframe (mehr dazu unter
-    [Ausgabe/Einbinden](?lan=de&q=Ausgabe/Einbinden)) oder über eine API
-    (mehr dazu unter [Ausgabe/APIs](?lan=de&q=Ausgabe/APIs)).
+    einen iframe oder über eine [API](../Ausgabe/API/README.md).
 -   Eine weitere Möglichkeit, die eigenen Daten selbst zu nutzen, bietet
-    das einfache Themen-Erstellungsprogramm von museum-digital. Hiermit
+    das einfache [Themen-Erstellungsprogramm von museum-digital](../Themator/README.md). Hiermit
     können die Objekte in Form einer kleinen digitalen Ausstellung
     gruppiert, annotiert und (als Gruppe) beschrieben, vor allem aber
-    präsentiert werden (Mehr dazu unter
-    [Ausgabe/Themen](?lan=de&q=Ausgabe/Themen)).
+    präsentiert werden.
 
 Transparenz
 -----------

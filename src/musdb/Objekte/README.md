@@ -8,8 +8,7 @@ Das Erfassen von Objektinformationen geschieht bei museum-digital in
 zwei Stufen. In einem ersten Schritt werden Grundinformationen zu einem
 Objekt erfasst, die dann in einem zweiten Schritt vervollständigt
 werden. Dieser zweite Schritt entspricht der Bearbeitung von
-Objektinformationen. Mehr zur Erfassung der Grundinformationen finden
-Sie [hier](Objekte%20erfassen).
+Objektinformationen.
 
 Bearbeitung
 -----------
@@ -29,18 +28,6 @@ aber auch möglich sich die Registerkarte \"Leihverkehr\" anzuschalten,
 auf der eine wesentlich feinere Dokumentation von Leihvorgängen möglich
 ist. Ein Protokoll (auf der Registerkarte \"Datensatz\") gibt Auskunft,
 wer wann etwas geändert hat.
-
-Eine Einführung in die Nutzung der standardmäßig ausgewählen
-Registerkarten findet sich
-[hier](?lan=de&q=musdb/Objektdaten/Objekte%20bearbeiten%20(1)).
-
-Eine Einführung in die Nutzung der ergänzenden oder zusätzlichen
-Registerkarten findet sich [an dieser
-Stelle](?lan=de&q=musdb/Objektdaten/Objekte%20bearbeiten%20(2)).
-
-Daneben gibt es noch die Möglichkeit sich seine Registerkarte selbst
-zusammenzustellen. Mehr dazu
-[hier](?lan=de&q=musdb/Objektdaten/Objekte%20bearbeiten%20(3)).
 
 Exporte und Weitergabe
 ----------------------

@@ -40,9 +40,7 @@ hierbei um Körperschaften. Angaben zu \"Akteuren\" werden im Katalog
 \"Personen-Institutionen\" gespeichert, redaktionell überarbeitet und
 mit Verweisen zu Normdatenrepositorien (meist als Linked Open Data - LOD
 zugänglich) angereichert. Solche Anreicherungen können nur bei
-individualisierten Personen und Körperschaften geschehen. Mehr zu den
-Anreicherungen findet sich in der Sektion
-\"[Normdaten](?lan=de&q=Normdaten/Anreicherung#2)\". In Anreicherungen,
+individualisierten Personen und Körperschaften geschehen. In Anreicherungen,
 wie in Namensformen orientiert sich museum-digital weitgehend an den in
 der Bibliothekswelt üblichen Standards.
 

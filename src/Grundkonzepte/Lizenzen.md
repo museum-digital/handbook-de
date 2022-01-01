@@ -19,7 +19,7 @@ BY-NC-SA\". Diese Lizenz ist standardmäßig bei jedem Museum für
 Objektdarstellungen (Abbildungen) und Metadaten voreingestellt. Wenn
 ein\*e Dateneingeber\*in keine andere Lizenz auswählt, wird also
 automatisch die Lizenz \"CC BY-NC-SA\" verwendet. [In den
-Museumseinstellungen](?lan=de&q=musdb/Einstellungen/Einstellungen%20(Museum))
+Museumseinstellungen](../musdb/Museum/Einstellungen.md)
 lässt sich diese automatische Voreinstellung ändern, beispielsweise auf
 eine \"CC0\" oder \"RR-R\"-Lizenz. Außerdem lassen sich in den
 Museumseinstellungen die Rechte für bereits hochgeladene Abbildungen

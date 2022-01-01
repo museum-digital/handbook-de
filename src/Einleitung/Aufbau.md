@@ -72,14 +72,13 @@ Modul: \"nodac\"
 Eine Vorbedingung für qualitätvolle Information ist die Verwendung
 kontextualisierter und angereicherter Normdaten. Für die Verwaltung,
 Anreicherung und Hierarchisierung dieser Normdaten steht das zentrale
-Modul \"nodac\" zur Verfügung. Weil alle beteiligten Museen den gleichen
+Modul ["nodac"](../nodac/README.md) zur Verfügung. Weil alle beteiligten Museen den gleichen
 Normdatenpool verwenden und es, dürften alle alles überschreiben,
 schnell zu widersprüchlichen Angaben käme, ist die Benutzung des Moduls
 für museum-digital der zentralen Normdatenredaktion vorbehalten (die
 internationalen Version haben stets eine eigene Redaktion). Das Modul
 \"nodac\" kann auch unabhängig von museum-digital benutzt werden, um
-z.B. Thesauri in koopertativer Umgebung zu erstellen. Mehr über das
-Modul \"nodac\" findet sich [hier](?lan=de&q=Normdaten/Verwaltung).
+z.B. Thesauri in koopertativer Umgebung zu erstellen.
 
 Modul: \"md:term\"
 ------------------
@@ -94,12 +93,12 @@ zur Verfügung. Die verschiedenen Versionen von museum-digital nutzen
 diese Zugriffsmöglichkeit. Zusätzlich werden über \"md:term\" auch
 externe Thesauri und Vokabulare zugänglich gemacht, etwa die
 \"[Hessische
-Systematik](../term/hesys/tag/tag.php?nodac_version=hesys&tagnum=2771)\",
+Systematik](https://term.museum-digital.de/hesys/tag/tag.php?nodac_version=hesys&tagnum=2771)\",
 der \"[Thesaurus des Technikmuseums in
-Wien](../term/technikthesaurus/tag/tag.php?nodac_version=technikthesaurus&tagnum=7002)\"
+Wien](https://term.museum-digital.de/technikthesaurus/tag/tag.php?nodac_version=technikthesaurus&tagnum=7002)\"
 oder die
-\"[Hornbostel-Sachs-Systematik](../term/hornbostel/tag/tag.php?nodac_version=hornbostel&tagnum=84)\".
-Mehr über \"md:term\" findet sich [hier](?lan=de&q=Normdaten/Nutzung).
+\"[Hornbostel-Sachs-Systematik](https://term.museum-digital.de/hornbostel/tag/tag.php?nodac_version=hornbostel&tagnum=84)\".
+Mehr über \"md:term\" findet sich [hier](../md-term/README.md).
 
 Modul: \"importer\"
 -------------------
@@ -110,14 +109,12 @@ können Museen (noch) nicht direkt importieren. Das Import-Modul gibt
 ihnen aber die Möglichkeit die zu importierenden Daten vorzubereiten um
 den eigentliche Import zu erleichtern. Mehr zu den Möglichkeiten des
 Datenimports findet sich
-[hier](?lan=de&q=Erfassung%20und%20Bearbeitung/Erfassung/Importieren).
+[hier](../import/README.md).
 
 Modul: \"themator\"
 -------------------
 
-Der Themator ist ein Modul zum Erstellen von Themenportalen (oder
-digitaler Ausstellungen). Das Modul ist eigenständig, kann also auch
+Der [Themator](../Themator/README.md) ist ein Modul zum Erstellen von Themenportalen (oder digitaler Ausstellungen). Das Modul ist eigenständig, kann also auch
 unabhängig von museum-digital verwendet werden - am effektivsten ist es
 jedoch wenn die programmierten Querbezüge zu museum-digital genutzt
-werden. Mehr zum \"Themator\" findet sich
-[hier](?lan=de&q=Ausgabe/Themen).
+werden.

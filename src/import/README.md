@@ -55,55 +55,54 @@ bei notwendigen Anpassungen, damit der Import reibungslos funktioniert.
 Welche Daten können nicht importiert werden?
 --------------------------------------------
 
-[Daten von händisch geführten, analogen Listen oder Karteikarten können
+Daten von händisch geführten, analogen Listen oder Karteikarten können
 nicht automatisiert importiert werden. Sie müssen zuerst in ein
 Tabellenprogramm übertragen werden. Dabei entspricht eine Spalte einem
 Datenfeld in museum-digital. Eine Zeile entspricht einem Datensatz. Wenn
 in einem Tabellenprogramm inventarisiert wurde, dürfen Zellen nicht
 miteinander verbunden sein. Spalten und Zeilen dürfen nicht ausgeblendet
-sein.]{style="font-size: 18.4px;"}
+sein.
 
-[Wenn eine Tabelle wie ein Formular verwendet wurde, d. h. mit
+Wenn eine Tabelle wie ein Formular verwendet wurde, d.h. mit
 verbundenen Zellen und unterschiedlichen Informationen in einer Spalte,
 dann müssen diese Daten zuerst händisch korrigiert werden, bevor sie
-importiert werden können.]
+importiert werden können.
 
-[![](../assets/imports/verbundene_zellen.png){width="1279"
-height="268"}]{style="font-size: 18.4px;"}
+![](../assets/imports/verbundene_zellen.png)
 
-[Auf diesem Bild sieht man, dass in Spalte A zwei verschiedene Arten von
+Auf diesem Bild sieht man, dass in Spalte A zwei verschiedene Arten von
 Informationen erfasst werden, die eigentlich in zwei verschiedene
 Spalten gehören. Das sind \"Datum (Ankauf)\" und \"Beschreibung\".
 Außerdem wurden für das Feld \"Beschreibung\" mehrere Zellen miteinander
 verbunden. Die Daten dieses Beispiels können daher nicht importiert
-werden.]{style="font-size: 18.4px;"}
+werden.
 
-[![](../assets/imports/nicht_verbundene_Zellen.png)
+![](../assets/imports/nicht_verbundene_Zellen.png)
 
-[In dieser Tabelle enthält jede Spalte nur eine Art von Informationen.
+In dieser Tabelle enthält jede Spalte nur eine Art von Informationen.
 Es gibt keine verbundenen Zellen. Mit dieser Tabelle kann nun
-weitergearbeitet werden.]
+weitergearbeitet werden.
 
 
 Import von Bildern
 ------------------
 
-[Das massenhafte Hochladen von Bildern zu bereits bestehenden
+Das massenhafte Hochladen von Bildern zu bereits bestehenden
 Datensätzen ist nicht programmiert, das gleichzeitige Hochladen von
 Bildern und zu importierenden Datensätzen ist leicht möglich. Bilder im
 Internet benötigen allerdings immer Angaben zu den
-Bildrechten.]{style="font-size: 18.4px;"}
+Bildrechten.
 
-[Auf der im Folgenden verlinkten Seite finden sich die Titel für die
+Auf der im Folgenden verlinkten Seite finden sich die Titel für die
 entsprechenden Spalten der vorzubereitenden CSV-Tabelle im Bereich
 „Abbildungen". Man muss dort in der Spalte den tatsächlichen Bildnamen
 eintragen, also „123456.jpg" und nicht den Pfad (z.B.
 „c:\\\\123456.jpg") und der Import funktioniert auch nur mit
 jpg-Dateien. Zudem müssen die jpg-Dateien die Mindestgröße von 540 Pixel
-für die kurze Seite haben.]
+für die kurze Seite haben.
 
 **[[ \> Hier geht es zur CSV-Vorlage sowie zum
-Prüfassistenten.]](http://www.museum-digital.de/csvxml)**
+Prüfassistenten.]](https://csvxml.imports.museum-digital.org/)**
 
 Importe für große Museen
 ------------------------

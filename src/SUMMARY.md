@@ -18,7 +18,7 @@
 # Ausgabe
   
 - [Ausgabe: Einleitung]() <!---./Ausgabe/README.md--->
-  - [Suche](./Ausgabe/3-1-Suche.md)
+  - [Suche](./Ausgabe/Suche.md)
   - [API](./Ausgabe/API/README.md)
   - [Benutzeroberfläche](./Ausgabe/UI/README.md)
     - [Sprachsteuerung](./Ausgabe/UI/Sprachsteuerung.md)

@@ -30,56 +30,6 @@ Alle konzeptuellen Änderungen (z.B. Aufnahme privater Sammlungen in das
 Verzeichnis) werden in der AG Digitalisierung des Museumsverbandes
 Sachsen-Anhalt diskutiert und entschieden.
 
-Ansprechpartner:innen
----------------------
-
-### Agrargeschichte
-
--   Dr. Jürgen Weisser (j.weisser\@uni-hohenheim.de)
-
-### Baden-Württemberg
-
--   Dina Sonntag (sontag\@landesstelle.de)
--   Frank Lang (<emailbox@frank-lang.de>)
-
-### Brandenburg
-
--   Arne Lindemann (lindemann\@museen-brandenburg.de)
-
-### Bremen
-
--   Frank von Hagel (<f.v.hagel@museum-digital.de>)
-
-### Mecklenburg-Vorpommern
-
--   Dr. Bernd Lukasch (info\@lilienthal-museum.de)
-
-### Rheinland-Pfalz
-
--   Miriam Anders (anders\@museumsverband-rlp.de)
-
-### Sachsen
-
--   Johanna Jahn (Johanna.Jahn\@skd.museum)
-
-### Sachsen-Anhalt
-
--   Dr. Elisabeth Böhm (boehm\@mv-sachsen-anhalt.de)
-
-### Westfalen und Ostwestfalen-Lippe
-
--   Manfred Hartmann (Manfred.Hartmann\@lwl.org)
-
-### Andere Versionen und Koordination
-
--   Dr. Stefan Rohde-Enslin (s.rohde-enslin\@museum-digital.de)
-
-###  Technisches
-
--   Joshua Enslin (<joshua@museum-digital.de>)
-
- 
-
 [**\> Hier geht es zur aktuelle
 Kontakteliste.**](https://nat.museum-digital.de/index.php?t=kontakt)
 

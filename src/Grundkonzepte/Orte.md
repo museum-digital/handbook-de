@@ -6,7 +6,7 @@ gespeichert, redaktionell überarbeitet, in eine Hierarchie eingepasst
 und mit Verweisen zu international genutzten Normdatenrepositorien (die
 als Linked Open Data - LOD zugänglich sind) angereichert. Mehr zu den
 Anreicherungen findet sich in der Sektion
-\"[Normdaten](?lan=de&q=Normdaten/Anreicherung)\".
+\"[Normdaten](./Normdaten.md)\".
 
 Ortsangaben werden bei museum-digital stets mit Koordinaten erfasst,
 jeder Ort wird einem Ortstyp zugewiesen. Die kleinste Einheit (oder der

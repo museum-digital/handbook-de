@@ -44,7 +44,7 @@ Manufaktur stattgefunden haben (die KPM produzierte in der
 Nachkriegszeit in Selb) und das Geschehen wird zu einer bestimmten Zeit
 stattgefunden haben, beispielsweise \"1803\" (=Ereignis-Zeit).
 
-![](files/ereignis.JPG){width="1116" height="380"}
+![](../assets/chapter_2/ereignis.JPG)
 
  Jedes Objekt lässt sich mit beliebig vielen Ereignissen verknüpfen.
 Wenn beispielsweise bekannt ist, dass jemand Bestimmter
@@ -77,7 +77,7 @@ die in Berlin hergestellt wurden\" oder \"Alle Objekte, die 1832 in
 Berlin hergestellt wurden\", \... geben kann, ist es nötig, den
 \"Ereignistyp\" zu kontrollieren. Im Augenblick gibt es 43 verschiedene
 \"Ereignistypen\" bei museum-digital. Eine Liste findet sich
-[hier](?lan=de&q=Struktur/Ereignistypen).
+[hier](./Ereignistypen.md).
 
 ### Akteure
 
@@ -87,7 +87,7 @@ beschriebenen) Beziehung zu einem Objekt stehen. Der Akteur wird bei
 museum-digital als separate Einheit erfasst (d.h. unabhängig von
 Objekten oder Beziehungen). Der gleiche Akteur kann über viele
 Ereignisse zu vielen Objekten in Beziehung gesetzt werden. Mehr über den
-Umgang mit Akteuren findet sich [hier](?lan=de&q=Struktur/Akteure).
+Umgang mit Akteuren findet sich [hier](./Akteure.md).
 
 ### Orte
 
@@ -97,7 +97,7 @@ wird dabei nicht eine Ortschaft verstanden, sondern ein Platz im Raum:
 Es ist sowohl möglich Regionen zu benennen (\"Westerwald\") als auch -
 sofern bekannt - \"hausnummergenau\" (Beispiel: \"Berlin-Charlottenburg,
 Weygelystraße 1\") zu erfassen. Mehr über den Umgang mit Orten findet
-sich [hier](?lan=de&q=Struktur/Orte).
+sich [hier](./Orte.md).
 
 ### Zeiten
 
@@ -108,9 +108,8 @@ jedoch einen Stil, der in verschienen Regionen zu verschiedenen Zeiten
 ausgeprägt war, selbst \"Jungsteinzeit\" oder \"Tertiär\" sind keine
 eindeutigen Begriffe weil die Fachwissenschaftler häufiger deren Anfang
 oder Ende neu definieren und sich ohnedies nicht einig sind. Es mussten
-deshalb Regeln für den Umgang mit Zeitangaben bei museum-digital
-eingeführt werden. Die Regeln finden sich
-[hier](?lan=de&q=Struktur/Zeiten).
+deshalb [Regeln für den Umgang mit Zeitangaben bei museum-digital
+eingeführt werden](./Zeiten.md).
 
 Bezüge
 ------
@@ -130,8 +129,7 @@ Museum und Sammlung(en)
 
 Jedes Objekt kann - muss aber nicht - zu einer oder mehreren Sammlungen
 gehören. In den meisten Fällen wird ein Objekt genau einer Sammlung
-zugeordnet, aber das Datenmodell von
-m![](files/mso_zuordnungen.JPG){width="800" height="441"}useum-digital
+zugeordnet, aber das Datenmodell von museum-digital
 ist flexibel - es gibt Museen, die traditionell ihre Objekte mehreren
 Sammlungen zuordnen und es gibt Museen, die ganz auf
 Sammlungszuordnungen verzichten. Jede Sammlung wiederrum kann weitere
@@ -141,6 +139,8 @@ Malerei\", \"Flämische Malerei\", \... enthalten. Ein zu einer
 Teilsammlung gehörendes Objekt kann - muss aber nicht - der
 übergeordneten Sammlung ebenfalls zugewiesen werden.  Jede Sammlung
 muss, wie schon die Objekte, einer Institution zugeordnet werden.
+
+![](../assets/chapter_2/mso_zuordnungen.JPG)
 
 Abbildungen etc.
 ----------------
@@ -253,5 +253,4 @@ Singular sein und es sollte sich um Allgemeinbegriffe (Nomen) handeln.
 Personen und Körperschaften (\"Akteure\"), Orte und Zeiten werden nicht
 als Schlagworte behandelt, sie sollten wenn möglich über Ereignisse
 (s.o.) oder - bei einer allgemeinen Beziehung zum Objekt - als Bezüge
-(s.o.) behandelt werden. Mehr zum Umgang mit Schlagworten findet sich
-[hier](?lan=de&q=Struktur/Schlagworte).
+(s.o.) behandelt werden.

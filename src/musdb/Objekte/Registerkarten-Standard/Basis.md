@@ -11,7 +11,7 @@ Verknüpfen von Abbildungen oder ähnlichen Ressoucen.
 
 Sobald Sie die Registerkarte \"Ansicht\" aktivieren (im Menu
 \"Persönliche Einstellungen - Erläuterung:
-[hier](?lan=de&q=musdb/Benutzeroberfl%C3%A4che/Navigationsleiste)),
+[hier](../../UI/Navigationsleiste.md)),
 verschwindet die Leiste für Abbildungen etc. und ist fortan über diese
 Registerkarte erreichbar. In der Standardeinstellung ist die
 Registerkarte \"Ansicht\" aktiviert und die Registerkarte \"Basis\" hat
@@ -29,7 +29,7 @@ ihr Museum erfassten Sammlungen, die beispielsweise so aussehen kann:
 
 (Sollte die Sammlung, der das Objekt zugeordnet werden soll noch nicht
 existieren muss diese zunächst angelegt werden. Das wird
-[hier](?lan=de&q=musdb/Sammlungsdaten) erklärt.)
+[hier](../../Sammlungen/README.md) erklärt.)
 
 Durch einfaches Anklicken des Namens einer Sammlung erstellen Sie eine
 Zuordnung zwischen dem Objekt und der ausgewählten Sammlung. Sie
@@ -58,7 +58,7 @@ seine Herstellung oder sein Auffinden beispielsweise. Ereignisse
 enthalten Antworten auf die Fragen was, durch wen, wo und wann mit dem
 Objekt geschah. Grundlegendes zu \"Ereignissen\" bei museum-digital
 findet sich unter \"Struktur\" (oben) erläutert
-([hier](?lan=de&q=Struktur)). Um ein \"Ereignis\" mit einem Objekt
+([hier](../../../Grundkonzepte/Konzepte.md)). Um ein \"Ereignis\" mit einem Objekt
 verknüpfen zu können muss dieses zunächst erfasst werden, das geschieht
 durch Anklicken der Zeile \"Verknüpfung mit Ereignis hinzufügen\". Das
 Anklicken führt zu einer Auswahlliste, mit der das \"WAS\" des
@@ -68,7 +68,7 @@ Ereignisses festgehalten wird.
 
 Aktuell stehen 43 solcher Typen von Ereignissen zur Verfügung (eine
 vollständige Auflistung aller vorhandenen Ereignistypen finden sie
-[hier](?lan=de&q=Struktur/Ereignistypen).) Ausgehend vom Eintrag im Feld
+[hier](../../../Grundkonzepte/Ereignistypen.md).) Ausgehend vom Eintrag im Feld
 \"Objektart\" (im Beispiel: \"Fotografie (Lichtbild)\") ermittelt das
 Programm Vorschläge der zu wählenden Ereignistypen, die aber in keiner
 Weise zwingend sind. Sobald Sie den Ereignistyp durch Anklicken
@@ -114,7 +114,7 @@ mit dem falschen \"Otto Müller\" verknüpft wird. Ist Ihnen der Akteur
 unbekannt, so tragen Sie bitte nicht \"unbekannt\" oder ähnliches ein,
 verzichten Sie in diesem Fall einfach darauf, eine Person oder
 Institution anzugeben (Mehr zur Erfassung bisher unbekannter Akteure
-siehe [hier](?lan=de&q=Normdaten#21))
+siehe [hier](../../../Grundkonzepte/Normdaten.md))
 
 Egal, ob Sie einen Akteur im Ereignis ausgewählt oder neu erfasst haben,
 Sie gelangen im Anschluß automatisch zur Vervollständigung der
@@ -208,7 +208,7 @@ gefunden wird, vor allem aber, wenn Sie es für Sich und andere in
 museum-digital bei einem bestimmten Begriff finden möchten, so fügen Sie
 den Begriff als Schlagwort oder Bezug ein. Schlagworte sind bei
 museum-digital immer Substantive im Singular, mehr zu Schlagworten
-finden Sie [hier](?lan=de&q=Struktur/Schlagworte). Wichtig vielleicht
+finden Sie [hier](../../../Grundkonzepte/Schlagworte.md). Wichtig vielleicht
 noch zu erwähnen, dass alle Suchen bei museum-digital \"inklusiv\"
 arbeiten, wer \"Sessel\" sucht, der findet auch \"Ohrensessel\" und wer
 \"Kleidung\" sucht, der findet auch \"Trachtenjacke\". Es ist deshalb

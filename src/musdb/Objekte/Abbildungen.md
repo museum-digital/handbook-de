@@ -19,7 +19,7 @@ erreicht werden:
 
 1\) Sie steht immer zur Verfügung im Menu: \"Mehr\"
 
-![](mehr_menu.jpg)![](../../assets/musdb/objects-edit/mehr_menu.jpg)
+![](../../assets/musdb/objects-edit/mehr_menu.jpg)
 
 Wenn Sie die drei Punkte im Symbolmenu überfahren können Sie im
 erscheinenden Untermenu den Punkt \"Abbildungen\" anklicken.
@@ -150,7 +150,6 @@ Die Funktionen des \"Prepare for download\"-Werkzeugs erlauben es im
 Arbeitsspeicher des Servers eine temporäre veränderte Kopie der
 Abbildung zu erzeugen und sich diese dann herunter zu laden.
 
-![](../../assets/musdb/objects-edit/gretchen)
 ![](../../assets/musdb/objects-edit/gretchen.jpg)
 
 Die temporäre Kopie kann in der Größe (durch Verändern der Breite

@@ -12,8 +12,6 @@ Hat der \"Museumsdirektor\" den Punkt \"Einstellungen (Museum)\"
 ausgewählt, so erscheint das entsprechende Eingabefenster mit mehreren
 Optionen:
 
- 
-
 Rechteangaben für Objektdarstellungen
 -------------------------------------
 
@@ -27,7 +25,7 @@ Rechtesituation dieser Ressource. Die dort erscheinenden Eingabeschlitze
 sind jeweils vorausgefüllt mit den hier gesetzten Vorgabewerten. In den
 meisten Fällen ist der Rechteinhaber an den Abbildungen von Objekten das
 Museum selbst, deshalb ist hier der Museumsname vorausgefüllt. Die am
-häufigsten verwendete [Rechtsform](?lan=de&q=musdb/Rechtsformen) ist
+häufigsten verwendete [Rechtsform](../../Grundkonzepte/Lizenzen.md) ist
 \"CC BY-NC-SA\" (Namensnennung - keine kommerzielle Verwendung -
 Weitergabe unter gleichen Bedingungen), auch dieses ist hier
 standardmäßig vorgegeben. Beide Werte können jedoch verändert werden, um
@@ -129,10 +127,8 @@ Dienste
 Diese Sektion bietet einen Link zum Export-Dialog-System von museum-digital. Im
 Export-Dialog kann ausgewählt werden, welche Informationen zu welchen
 Objekten in welchem Format exportiert werden sollen. Mehr über das
-Export-Dialog-System findet sich [hier](?lan=de&q=Ausgabe/Export).
+Export-Dialog-System findet sich [hier](../Objektsuche/Export.md).
 
 Darüber hinaus gibt es hier die Möglichkeit einen Katalog aller Objekte
 des Museums zu erstellen. Aus technischen Gründen werden dabei jeweils
 Teil-Kataloge aus 50 Objekten erzeugt.
-
- 

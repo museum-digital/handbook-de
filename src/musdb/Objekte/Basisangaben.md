@@ -4,9 +4,8 @@ Sobald die Grundinformationen zu einem Objekt erfasst sin, gelangen Sie
 automatisch in den Objektbearbeitungsmodus. Um der Fülle von möglichen
 weiteren Informationen über das Objekt etwas Struktur zu geben, sind
 einzelne Informationen auf Registerkarten zusammengefasst. Diese
-Registerkarten Sie sich im Menu \"Persönliche Einstellungen\" selbst an-
-oder abschalten (Erläuterung finden sie
-[hier](?lan=de&q=musdb/Benutzeroberfl%C3%A4che/Navigationsleiste)).
+Registerkarten Sie sich im Menu ["Persönliche Einstellungen"](../UI/Navigationsleiste.md) selbst an- oder abschalten.
+
 Museum-digital ist flexibel einsetzbar, wer es nur zur Veröffentlichung
 von Objektinformationen verwenden möchte, der wird andere Informationen
 erfassen als jener, der museum-digital vornehmlich als
@@ -23,8 +22,7 @@ erlauben zusätzliche Informationen zu erfassen, die - das ist abhängig
 von der im Museum vorhandenen Art der Objekte - nur möglicherweise
 vorhanden sein können (Ein Omnibus hat keine \"Transkription\" -
 Fahrzeugmuseen werden die entsprechende Registerkarte wahrscheinlich
-nicht aktivieren). Mehr zu den \"Zusatzreitern\" finden sie
-[hier](?lan=de&q=musdb/Objektdaten/Objekte%20bearbeiten%20(2)).
+nicht aktivieren).
 
 ![](../../assets/musdb/objects-edit/registerkartenleiste.jpg)
 
@@ -47,4 +45,3 @@ Objektverwaltung, die nicht veröffentlicht werden können. Die
 Registerkarte \"Datensatz\" informiert darüber, wer wann was erfasst
 oder geändert hat - auch diese Registerkarte dient nur der internen
 Information.
- 

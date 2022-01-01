@@ -14,5 +14,5 @@ die Datenschutzvereinbarung zur Benutzung von musdb akzeptiert und sich
 ein Passwort gibt.
 
 Bei neuen Benutzern sind ihre Rechte standardmäßig entsprechend [ihrer
-Benutzerrolle](?lan=de&q=musdb:%20Erfassung%20und%20Bearbeitung/Zugang%20erhalten/Nutzerrollen%20und%20-Rechte "Nutzerrollen- und Rechte")
+Benutzerrolle](../Benutzerkonto/Berechtigungen.md)
 vergeben. Sie können im Nachhinein angepasst werden.
