@@ -9,7 +9,7 @@ Verknüpfen von Abbildungen oder ähnlichen Ressoucen.
 
 ![](../../../assets/musdb/objects-edit/registerbasis1.jpg)
 
-Sobald Sie die Registerkarte \"Ansicht\" aktivieren (im Menu
+Sobald Sie die Registerkarte \"Ansicht\" aktivieren (im Menü
 \"Persönliche Einstellungen - Erläuterung:
 [hier](../../UI/Navigationsleiste.md)),
 verschwindet die Leiste für Abbildungen etc. und ist fortan über diese
@@ -77,7 +77,7 @@ eines Ereignisses:
 
 ![](../../../assets/musdb/objects-edit/ereigniserfassung1.jpg)
 
-Im links erscheinenden Aufklappmenu kann der Ereignistyp geändert
+Im links erscheinenden Aufklappmenü kann der Ereignistyp geändert
 werden. Im rechts erscheinenden Feld \"Kürzlich verwendet\" erscheinen
 Akteure, Orte oder Zeitangaben, die Sie kürzlich verwendet haben. Ein
 Klick auf die entsprechenden Einträge in diesem Feld ersetzt die Angaben
@@ -254,7 +254,7 @@ Es kann passieren, dass das System noch ein paar Fragen stellt (abhängig
 von dem, was sie eintragen - und nur um Fehleinträge zu vermeiden), in
 jedem Fall aber gelangen Sie automatisch zurück zur Objektbearbeitung.
 
-Falls Sie im Menu \"Eigene Einstellungen\" (wird hier erläutert) die
+Falls Sie im Menü \"Eigene Einstellungen\" (wird hier erläutert) die
 \"Schlagwortvorschläge\" aktiviert haben erscheint unterhalb der Zeile
 \"Verknüpfung mit Schlagwort \| Bezug hinzufügen !\" oder unterhalb der
 bereits verknüpften Schlagworte ein weiterer Schalter:

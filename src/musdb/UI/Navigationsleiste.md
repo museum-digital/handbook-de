@@ -155,7 +155,7 @@ Shortcuts
 ---------
 
 Statt sich - über Persönliche Einstellungen -\> Menüpunkte (s.o.) -
-verschiedene weitere Bereiche in die Menüleiste hineinzuschalten (etwa:
+verschiedene weitere Bereiche in die Menüleiste zuzuschalten (etwa:
 Literatur) können Sie diese Menüpunkte auch über das Aufklappmenü
 erreichen, welches erscheint, wenn Sie das Shortcut-Symbol mit dem
 Mauszeiger berühren.
@@ -180,5 +180,3 @@ Dieses Symbol erscheint nur, wenn Sie sich die Merklistenfunktion im
 Menü \"Persönliche Einstellungen\" freigeschaltet haben. Sie können in
 diesem Falle über ein Anklicken dieses Schalters die Merkliste am linken
 Bildschirmrand ein- oder ausblenden.
-
- 

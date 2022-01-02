@@ -12,24 +12,24 @@ museum-digital nur Voransichten gespeichert hat.
 Abbildungsverwaltung
 --------------------
 
-Um die Menuführung bei museum-digital nicht zu überfrachten ist die
+Um die Menüführung bei museum-digital nicht zu überfrachten ist die
 Abbildungsverwaltung nicht standardsmäßig in der Navigationsleiste
-(Menu) aktiviert.  Die Abbildungsverwaltung kann auf zwei Weisen
+(Menü) aktiviert.  Die Abbildungsverwaltung kann auf zwei Weisen
 erreicht werden:
 
-1\) Sie steht immer zur Verfügung im Menu: \"Mehr\"
+1\) Sie steht immer zur Verfügung im Menü: \"Mehr\"
 
 ![](../../assets/musdb/objects-edit/mehr_menu.jpg)
 
-Wenn Sie die drei Punkte im Symbolmenu überfahren können Sie im
-erscheinenden Untermenu den Punkt \"Abbildungen\" anklicken.
+Wenn Sie die drei Punkte im Symbolmenü überfahren können Sie im
+erscheinenden Untermenü den Punkt \"Abbildungen\" anklicken.
 
-2\) Sie können sich den Menupunkt \"Abbildungen\" in der
+2\) Sie können sich den Menüpunkt \"Abbildungen\" in der
 Navigationsleiste freischalten. Klicken Sie auf Ihren Namen in der
-oberen Symbolleiste so erscheint das Menu \"Persönliche Einstellungen\",
-hier wählen Sie \"Menupunkte\" und klicken \"Abbildung\" an. Fortan
+oberen Symbolleiste so erscheint das Menü \"Persönliche Einstellungen\",
+hier wählen Sie \"Menüpunkte\" und klicken \"Abbildung\" an. Fortan
 erscheint ein Schalter \"Abbildung\" in der Navigationsleiste. Er bleibt
-dort, bis er im Menu \"Persönliche Einstellungen\" durch erneutes
+dort, bis er im Menü \"Persönliche Einstellungen\" durch erneutes
 Klicken auf \"Abbildung\" deaktiviert wurde.
 
 Abbildungen auswählen
@@ -155,15 +155,13 @@ Abbildung zu erzeugen und sich diese dann herunter zu laden.
 Die temporäre Kopie kann in der Größe (durch Verändern der Breite
 und/oder Höhe), in der Ausrichtung (durch Verändern der Drehung), in der
 Tonalität (durch Wahl des Farbprofils) und im Dateiformat (aktuell in
-jpg und png) bestimmt werden. Schließlich können (mit ein wenig Übung)
+JPEG und PNG) bestimmt werden. Schließlich können (mit ein wenig Übung)
 Ausschnitte des Originalbildes bestimmt werden. Die so veränderten
 Dateien werden nicht dauerhaft bei museum-digital gespeichert, sie sind
 für den jeweiligen Bedarf hergestellte Kopien. Durch Klick auf das \"x\"
-im Schaltermenu schließt sich das \"Prepare for download\"-Fenster und
+im Schaltermenü schließt sich das \"Prepare for download\"-Fenster und
 man gelangt wieder zur Seite der Einzelabbildung.
 
 Die linke Spalte dieser Seite schließt ein Bereich ab, in welchem über
 das dazugehörige Objekt informiert wird. Ein Klick auf diesen Bereich
 führt direkt zum Objekt.
-
- 

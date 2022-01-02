@@ -34,7 +34,7 @@ Wie wird ein Filter erstellt?
 ![Leiste auf Objektseite: Filter aktiv](../../assets/musdb/objects-list/filter_aktiv.png)
 
 Filter lassen sich im Objekt-Modus erstellen, d.h. immer dann, wenn der
-Karteikarten-Reiter "Objekt" in der oberen Menuleiste aktiv ist (und
+Karteikarten-Reiter "Objekt" in der oberen Menüleiste aktiv ist (und
 Sie nicht gerade ein neues Objekt eingeben). Der Objekt-Modus kennt
 (abgesehen von der Objekt-Eingabe) die Objekt-Auswahl und die
 Objekt-Bearbeitung. In der Objekt-Auswahl (Abb. 1) erscheinen am linken
@@ -69,17 +69,14 @@ Ob ein Filter aktiv ist oder nicht, dass wird sowohl in der
 Objekt-Auswahl als auch in der (Einzel-)Objekt-Bearbeitung jeweils unten
 links angezeigt. Neben dem Hinweis "- Filter aktiv -" enthält dieses
 Hinweisfeld eine Auflistung der im Augenblick aktiven
-Filterbedingung(en). Unterhalb davon befindet sich ein kleines Menu:\
-• "Treffer zeigen" (erscheint nur im
-(Einzel-)Objekt-Bearbeitungsfenster und führt zur gefilterten
-Trefferliste)\
-• "Treffer auflisten" (ruft die Listendruck-Funktion für die
-Treffermenge auf)\
-• "Treffer exportieren" (ruft die Export-Funktion auf Basis der
-Treffermenge auf)\
-• "Filter ändern" (hier kann die Filterbedingung geändert werden)\
-• "Filter entfernen" (macht genau das, was es verspricht)\
-\
+Filterbedingung(en). Unterhalb davon befindet sich ein kleines Menü:
+
+- "Treffer zeigen" (erscheint nur im (Einzel-) Objekt-Bearbeitungsfenster und führt zur gefilterten Trefferliste)
+- "Treffer auflisten" (ruft die Listendruck-Funktion für die Treffermenge auf)
+- "Treffer exportieren" (ruft die Export-Funktion auf Basis der Treffermenge auf)
+- "Filter ändern" (hier kann die Filterbedingung geändert werden) 
+- "Filter entfernen" (macht genau das, was es verspricht)
+
 Über dieses Menü können Sie die gefilterten Objektinformation jederzeit
 als Gruppe anzeigen, ausdrucken oder exportieren.
 

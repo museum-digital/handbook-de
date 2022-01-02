@@ -4,8 +4,8 @@ Zu den individuellen Einstellungen gelangt ein Nutzer indem er den
 Mauszeiger über das \"Männchen\"-Symbol in der oberen Navigationsleiste
 führt.
 
-Das aufklappende Menu \"Persönliche Einstellungen\" enthält fünf An- und
-Aus-Schalter sowie drei weitere Menupunkte.
+Das aufklappende Menü \"Persönliche Einstellungen\" enthält fünf An- und
+Aus-Schalter sowie drei weitere Menüpunkte.
 
 Merkliste (An/Aus)
 ------------------

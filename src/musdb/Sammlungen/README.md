@@ -16,7 +16,7 @@ Dialogfeld \"Sammlung erfassen\":
 
 Für \"Name der Sammlung\" gibt es keine Einschränkung, außer, dass die
 maximale Länge des Eintrags 255 Zeichen nicht überschreiben sollte und
-dass diese Zeile nicht leer bleiben darf - eine Sammlung ohne Namen läßt
+dass diese Zeile nicht leer bleiben darf - eine Sammlung ohne Namen lässt
 sich nur schwer verwalten.
 
 Für die Zeile \"Beschreibender Text\" gilt ebenfalls die Regel, dass
@@ -26,7 +26,7 @@ auf ihre jeweils eigene Art zu beschreiben. Möglich sind eine
 Beschreibung der Zusammensetzung der Sammlung, ihrer Entstehung und
 Geschichte, die Erwähnung von herausragenden Objekten, eine Erwähnung
 des Umfangs und jede Information, aus der ersichtlich wird, warum es
-diese Sammlung im Museum gibt. Einge gute Textmenge sind zwei oder drei
+diese Sammlung im Museum gibt. Einige gute Textmenge sind zwei oder drei
 \"ordentliche Absätze\", es darf aber gerne auch mehr sein. Nach oben
 gibt es keine Grenze der Textlänge.
 
@@ -43,16 +43,16 @@ Museumsseite führt.
 
 Die Zeile \"Mail-Anschrift für Rückfragen\" muss gleichfalls nicht
 unbedingt ausgefüllt werden. Anwendungsszenario: Wenn ein Museum bei den
-Angaben zum Museum selbst eine mail-Anschrift eingetragen hat, dann
+Angaben zum Museum selbst eine Mail-Anschrift eingetragen hat, dann
 erscheint unter den Objekten in der Ausgabe bei museum-digital die
 anklickbare Zeile: \"Ist Ihnen etwas aufgefallen? Womöglich ein Fehler?!
 Oder wissen Sie mehr?\". Ein Klick hierauf öffnet das beim Nutzer
-installierte mail-Programm mit vorausgefüllter Betreffzeile und der
-angegebenen zentralen mail-Adresse des Museums als Adressaten. Ist aber
+installierte Mail-Programm mit vorausgefüllter Betreffzeile und der
+angegebenen zentralen Mail-Adresse des Museums als Adressaten. Ist aber
 auf der Seite zur Sammlungsverwaltung die Zeile \"Mail-Anschrift für
 Rückfragen\" ausgefüllt, so wird bei allen Objekten des Museums, die zu
 dieser Sammlung gehören, die Betreffzeile des aufklappenden
-mail-Fensters mit dem hier eingetragenen gefüllt. Museen, die
+Mail-Fensters mit dem hier eingetragenen gefüllt. Museen, die
 verschiedene Kustoden für verschiedene Sammlungen haben, können auf
 diese Weise das \"Nutzer-Feedback\" direkt in die passende Richtung
 leiten.
@@ -93,7 +93,7 @@ der Sammlung zeigen.
 
 Abbildungen zur Sammlung können durch Anklicken von \"Abbildung
 heraufladen\" auf den Server geladen werden. Die Bilddateien im
-jpg-Format (andere Formate sind nicht erlaubt) werden beim Import in das
+JPEG-Format (andere Formate sind nicht erlaubt) werden beim Import in das
 museum-digital-System automatisch vor dem Speichern auf 200 Pixel
 Bildbreite heruntergerechnet.
 
@@ -118,10 +118,9 @@ Klick auf diesen Schalter öffnet ein neues Eingabefenster:
 
 ![](../../assets/musdb/collections/sammlung_erfassen4.jpg)
 
-[ ](mailto:zeit@zeitmuseum.de?subject=Runddeckeltruhe%20(%20-%2086-64)%20%5Bmuseum-digital%5D)An
-dieser Stelle können - analog zur deutschsprachigen Eingabe - einen
+An dieser Stelle können - analog zur deutschsprachigen Eingabe - einen
 fremdsprachigen Sammlungsnamen und eine Beschreibung in der gleichen
-Sprache angeben, sofern sie die Sprache in dem oberen Aufklappmenu
+Sprache angeben, sofern sie die Sprache in dem oberen Aufklappmenü
 gewählt haben. Nach Klick auf Abschicken können Sie dann Name und
 Beschreibung in weiteren Sprachen erfassen - in so vielen Sprachen wie
 sie mögen.
@@ -134,7 +133,7 @@ Zeile im Sammlungs-Erfassungs-Dialog:
 Für den Eintrag in einer weiteren Sprache war in diesem Falle
 \"English\" als Sprache gewählt worden. Durch Klick auf das linke
 Kästchen in dieser neuen, direkt unter \"Abschicken\" befindlichen,
-Steuerleiste für Mehrsprachige Elemente können Sie die mehrsprachigen
+Steuerleiste für mehrsprachige Elemente können Sie die mehrsprachigen
 Informationen wieder löschen. Durch Klick auf das Dreieck vor der
 Sprachangabe (oder die Sprachangabe selbst) können Sie die
 mehrsprachigen Angaben ändern. Schließlich können Sie durch Klicken auf

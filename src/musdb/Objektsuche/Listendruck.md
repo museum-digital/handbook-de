@@ -18,7 +18,7 @@ Wie kann man zur Listendruck-Funktion gelangen?
 Schalter für den Aufruf der Listendruck-Funktion erscheinen immer dann,
 wenn es möglich ist, eine Liste auszudrucken. Einen solchen Schalter
 finden Sie\
-- im Filtermenu (bei aktivem Filter unten links auf dem Objekt-Auswahl-
+- im Filtermenü (bei aktivem Filter unten links auf dem Objekt-Auswahl-
   oder Objekt-Bearbeitungs-Bildschirm) oder\
 - bei aktiver und gefüllter Merkliste (in der Kopfleiste der Merkliste)
   oder\
