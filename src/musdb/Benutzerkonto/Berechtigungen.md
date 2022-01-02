@@ -88,7 +88,7 @@ beschriebenen Funktionen stehen deshalb nur für jemanden in der Rolle
 \"Museumsdirektor\" zur Verfügung. Um die Rechte für jemand Anderen, der
 für das gleiche Museum aktiv ist, zu setzen muss zunächst dessen
 Nutzerkonto aufgerufen werden. In der oberen Symbolleiste findet sich
-ein Museumssymbol, welches beim Überfahren ein Menu öffnet in dem sich
+ein Museumssymbol, welches beim Überfahren ein Menü öffnet in dem sich
 der Punkt \"Benutzer\", gefolgt von einem Stift (für \"Bearbeiten\")
 findet. Klickt man auf den Stift bekommt man eine Liste der aktuell für
 das Museum eingetragenen Nutzerkonten. Ein Klick auf den Namen des

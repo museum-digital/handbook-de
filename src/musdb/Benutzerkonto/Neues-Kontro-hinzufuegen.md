@@ -11,9 +11,9 @@ einzelnen Schritte erklärt.
 Nach dem Anmelden im Eingabe- und Bearbeitungstool von museum-digital
 erscheint am oberen Rand des Bildschirms eine Symbolleiste. In dieser
 Symbolleiste findet sich ein Museumssymbol. Wird dieses mit der Maus
-überfahren öffnet sich ein kleines Menu mit Unterpunkten. Gleich der
-erste dieser Menupunkte heißt \"Benutzer\". Der Bezeichnung des
-Menupunktes folgt ein Stift (das Symbol für \"Benutzer bearbeiten\") und
+überfahren öffnet sich ein kleines Menü mit Unterpunkten. Gleich der
+erste dieser Menüpunkte heißt \"Benutzer\". Der Bezeichnung des
+Menüpunktes folgt ein Stift (das Symbol für \"Benutzer bearbeiten\") und
 ein \"+\" als Symbol für \"Benutzer hinzufügen\". Ein Klick auf dieses
 Symbol öffnet das Fenster zum Neueintrag eines Nutzers:``
 

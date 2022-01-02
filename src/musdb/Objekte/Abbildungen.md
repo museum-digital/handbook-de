@@ -12,24 +12,24 @@ museum-digital nur Voransichten gespeichert hat.
 Abbildungsverwaltung
 --------------------
 
-Um die Menuführung bei museum-digital nicht zu überfrachten ist die
+Um die Menüführung bei museum-digital nicht zu überfrachten ist die
 Abbildungsverwaltung nicht standardsmäßig in der Navigationsleiste
-(Menu) aktiviert.  Die Abbildungsverwaltung kann auf zwei Weisen
+(Menü) aktiviert.  Die Abbildungsverwaltung kann auf zwei Weisen
 erreicht werden:
 
-1\) Sie steht immer zur Verfügung im Menu: \"Mehr\"
+1\) Sie steht immer zur Verfügung im Menü: \"Mehr\"
 
 ![](../../assets/musdb/objects-edit/mehr_menu.jpg)
 
 Wenn Sie die drei Punkte im Symbolmenü überfahren können Sie im
 erscheinenden Untermenü den Punkt \"Abbildungen\" anklicken.
 
-2\) Sie können sich den Menupunkt \"Abbildungen\" in der
+2\) Sie können sich den Menüpunkt \"Abbildungen\" in der
 Navigationsleiste freischalten. Klicken Sie auf Ihren Namen in der
-oberen Symbolleiste so erscheint das Menu \"Persönliche Einstellungen\",
-hier wählen Sie \"Menupunkte\" und klicken \"Abbildung\" an. Fortan
+oberen Symbolleiste so erscheint das Menü \"Persönliche Einstellungen\",
+hier wählen Sie \"Menüpunkte\" und klicken \"Abbildung\" an. Fortan
 erscheint ein Schalter \"Abbildung\" in der Navigationsleiste. Er bleibt
-dort, bis er im Menu \"Persönliche Einstellungen\" durch erneutes
+dort, bis er im Menü \"Persönliche Einstellungen\" durch erneutes
 Klicken auf \"Abbildung\" deaktiviert wurde.
 
 Abbildungen auswählen

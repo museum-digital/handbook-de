@@ -91,7 +91,7 @@ DARSTELLUNG DER INHALTE AUF DEN SEITEN VON \...
 
 ![](../../assets/musdb/museum/darstellunginhalteseitenselbst.JPG)
 
-Dieser Menupunkt betrifft ausschließlich jene Museen, die ihre eigenen
+Dieser Menüpunkt betrifft ausschließlich jene Museen, die ihre eigenen
 Objekte aus museum-digital über einen iframe einbinden. Einige
 grundsätzliche Gestaltungsmöglichkeiten für diese Option können hier
 gesteuert werden, d.h. es wird das Erscheinen des aus museum-digital
@@ -99,10 +99,10 @@ kommenden Inhalts gesteuert.
 
 \- Schalter \"Sammlungsübersicht\" anzeigen. Mit diesem Schalter wird
 bestimmt, ob im iframe der Museumsseite der Schalter und das betreffende
-Menu \"Sammlungsübersicht\" angezeigt wird. Steht dieser Schalter auf
+Menü \"Sammlungsübersicht\" angezeigt wird. Steht dieser Schalter auf
 grün, wird also die Sammlungsübersicht angezeigt wird, so kann über die
 nächsten beiden Schalter bestimmt werden, wie sich ein Klick auf einen
-Eintrag im Menu \"Sammlungsübersicht\" innerhalb des iframes der
+Eintrag im Menü \"Sammlungsübersicht\" innerhalb des iframes der
 Museumsseite auswirkt, soll dieser Klick zu einer (aus museum-digital in
 den iframe übermittelten) Sammlungsbeschreibung führen oder zu einer
 Übersicht der Objekte in der ausgewählten Sammlung?

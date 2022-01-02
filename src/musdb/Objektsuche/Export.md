@@ -108,7 +108,7 @@ In diesem Dialog kann bestimmt werden:
 Die Grundeinstellung sorgt dafür, dass alle Datensätze (also auch die
 nicht veröffentlichten) mit allen Informationen zu jedem Objekt (also
 auch die Inventarisierungsangaben) im Format md:xml exportiert werden.
-Wer in diesem Menu keine andere Auswahl trifft und einzig auf
+Wer in diesem Menü keine andere Auswahl trifft und einzig auf
 \"Abschicken\" klickt, der veranlasst den Server einen ZIP-Ordner mit
 allen aktuellen Informationen zu allen Objekten zu erstellen und zum
 Herunterladen anzubieten. Wer also einen ganz aktuellen Export für die
@@ -203,7 +203,7 @@ weiterleiten.
 
 Die meisten Exportabsichten sind ähnlich wie im gerade geschilderten
 Fall. Um den Komfort zu erhöhen gibt es auf der Seite \"Einstellungen
-für das Museum\" - erreichbar über das hier schon mehrmals genannte Menu
+für das Museum\" - erreichbar über das hier schon mehrmals genannte Menü
 - einen Punkt:
 
 ![](../../assets/musdb/objects-list/weitergabe.jpg)

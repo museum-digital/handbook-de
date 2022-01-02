@@ -4,7 +4,7 @@ Sobald die Grundinformationen zu einem Objekt erfasst sin, gelangen Sie
 automatisch in den Objektbearbeitungsmodus. Um der Fülle von möglichen
 weiteren Informationen über das Objekt etwas Struktur zu geben, sind
 einzelne Informationen auf Registerkarten zusammengefasst. Diese
-Registerkarten Sie sich im Menu ["Persönliche Einstellungen"](../UI/Navigationsleiste.md) selbst an- oder abschalten.
+Registerkarten Sie sich im Menü ["Persönliche Einstellungen"](../UI/Navigationsleiste.md) selbst an- oder abschalten.
 
 Museum-digital ist flexibel einsetzbar, wer es nur zur Veröffentlichung
 von Objektinformationen verwenden möchte, der wird andere Informationen
