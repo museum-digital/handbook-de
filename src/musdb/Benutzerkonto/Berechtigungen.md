@@ -62,8 +62,6 @@ Nutzerrollen bei museum-digital
 | 5                     | Visiting Scientist    | -   Darf alle Angaben zu Objekten eines Museums lesen (außer Wertangaben)                               |
 | 6                     | \[\"Specifically      | -   Hat per se nur Rechte, die spezifisch zugewiesen werden (siehe unten)                               |
 
- 
-
 Rechteverwaltung bei museum-digital
 -----------------------------------
 
@@ -97,7 +95,7 @@ können Passworte neu gesetzt, die e-Mail-Anschrift korrigiert oder
 automatische Benachrichtigungen angeschaltet werden. Im unteren Teil des
 Fensters findet sich die Rechteverwaltung.
 
- ![](../../assets/musdb/user_rights1.JPG){width="1297" height="396"}
+ ![](../../assets/musdb/user_rights1.JPG)
 
 In diesem Beispiel möchte ein Museumsdirektor des \"Zeitmuseums\" die
 Rechte eines seiner Mitarbeiter (hier angezeigt) bestimmen. Die
