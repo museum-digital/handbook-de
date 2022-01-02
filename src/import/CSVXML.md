@@ -9,7 +9,7 @@ dieser Zelle übertragen werden sollen. museum-digital hat aktuell rund
 selbst herunterladen können. Sie enthält die Namen aller Datenfelder auf
 Englisch und Deutsch.
 
-[** \> Hier geht es zur CSV-Vorlage sowie zum
+[**\> Hier geht es zur CSV-Vorlage sowie zum
 Prüfassistenten.**](https://csvxml.imports.museum-digital.org)
 
 Sie können entweder eine Vorlage mit allen Datenfeldern, eine Vorlage
@@ -43,10 +43,7 @@ herunterladen.
 
 ![](../assets/imports/xml_zip_download.png)
 
-Schicken Sie die CSV-Datei sowie die ZIP-Datei zusammen mit den
-Bilddateien an Ihre\*n Regioadministrator\*in, die dann den Import
-veranlassen oder Ihnen eine Rückmeldung mit Tipps zur Korrektur geben,
-wenn die Daten nicht importiert werden können.
+Schicken Sie die CSV-Datei sowie die ZIP-Datei zusammen mit den Bilddateien an Ihre\*n Regioadministrator\*in, die dann den Import veranlassen oder Ihnen eine Rückmeldung mit Tipps zur Korrektur geben, wenn die Daten nicht importiert werden können.
 
 ![](../assets/imports/csv_tabelle_fuer_import.png)
 
