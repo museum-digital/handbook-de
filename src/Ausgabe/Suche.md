@@ -95,7 +95,7 @@ Indexsuche fortgeschritten.
 Eine gute Möglichkeit bei der Suche nach mehr als einem Begriff bietet
 die Funktion \"Suche anpassen\". Sucht man z.B. zuerst nach \"Hammer\",
 dann erscheint oberhalb der Trefferanzeige dieser Schalter. Er erscheint
-ebenfalls im Symbolmenu oberhalb der Trefferansicht rechts. Ein Klick
+ebenfalls im Symbolmenü oberhalb der Trefferansicht rechts. Ein Klick
 auf einen der Schalter öffnet ein Feld (oder Fenster) mit mehreren
 Eingabemöglichkeiten. Hier kann man unter \"Ort\" den Begriff \"Bremen\"
 auswählen (nicht: eintippen) und bekommt anschließend jene Objekte

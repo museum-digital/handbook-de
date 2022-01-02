@@ -90,8 +90,8 @@ Ist die bereitliegende Exportdatei jünger als die letzten Bearbeitungen,
 dann ist sie aktuell und kann mit Klick auf \"Download\" heruntergeladen
 werden. Gibt es jedoch jüngere Änderungen an Objekten, die in der
 Sicherung enthalten sein sollen, muss der \"reguläre Export\" gewählt
-werden. Statt Auswahl von \"Datensicherung\" im Untermenu zum
-Museumssymbol ist in diesem Untermenu der Punkt \"Datenexport\"
+werden. Statt Auswahl von \"Datensicherung\" im Untermenü zum
+Museumssymbol ist in diesem Untermenü der Punkt \"Datenexport\"
 auszuwählen. Was erscheint ist der Exportdialog für den \"regulären
 Export\".
 
@@ -166,12 +166,12 @@ alle Objekte und daneben eine Spalte mit Auswahlmöglichkeiten sowie
 unterhalb dieser Spalte den Schalter \"Filter erstellen\", der zum
 \"Filter-Dialog\" führt. Ist eine Auswahl definiert, d.h. ein Filter
 gesetzt, dann erscheint statt des Schalters \"Filter erstellen\" der
-Hinweis \"Filter aktiv\" und darunter ein Auswahlmenu \"Treffer
+Hinweis \"Filter aktiv\" und darunter ein Auswahlmenü \"Treffer
 exportieren\"
 
 ![](../../assets/musdb/objects-list/schnellexport.jpg)
 
-Das Auswahlmenu bietet dann den Weg zum erwähnten Exportdialog für die
+Das Auswahlmenü bietet dann den Weg zum erwähnten Exportdialog für die
 ausgewählten Objekte (=Treffer) oder zum Schnellexport in md:xml oder im
 LIDO-Exportformat. Welcher Weg auch beschritten wird, am Ende bietet der
 Server an, einen ZIP-Ordner herunterzuladen. Ein Beispiel folgt.
@@ -195,7 +195,7 @@ nur sichtbare Objekte\" angeklickt.
 Schritt 2: Unten rechts in dieser Übersicht wählt man den Punkt
 \"Treffer exportieren\" und (sofern keine kürzlichen Bearbeitungen der
 zu exportierenden Objekte stattgefunden haben) im erscheinenden
-Untermenu den Punkt \"Schnellexport (LIDO)\".
+Untermenü den Punkt \"Schnellexport (LIDO)\".
 
 Das war alles. Jetzt muss man nur noch den vom Server angebotenen
 ZIP-Ordner herunterladen und an die Fachstelle Museum der ddb

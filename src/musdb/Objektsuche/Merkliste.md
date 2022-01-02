@@ -32,7 +32,7 @@ Wie läßt sich - wenn die Merklisten-Funktion aktiviert ist - die Merkliste anz
 Da man ausschließlich Objekte in der Merkliste unterbringen kann, ist die
 Nutzung der Merkliste auf den Bereich \"Objekte\" eingeschränkt. Wenn
 Sie ein Objekt bearbeiten oder eine Liste von Objekten aufgerufen haben,
-dann erscheint im Symbolmenu der Kopfleiste ein Schalter mit dem Symbol
+dann erscheint im Symbolmenü der Kopfleiste ein Schalter mit dem Symbol
 für die Merkliste. Er findet sich rechts und besteht aus einer Reihe
 waagerechter Striche. Mit Klick auf diesen Schalter schalten Sie die
 Merkliste auf \"sichtbar\" (falls sie unsichtbar ist) oder auf

@@ -48,8 +48,7 @@ Hierbei ist auf einige Beschränkungen hinzuweisen:
     werden. Werden darüberhinausgehend Textbausteine hinzugefügt,
     entfällt der jeweils älteste.
 
-![Das Menü für Textbausteine ist am rechten Bildschirmrand zu
-finden](../../assets/musdb/ui/Textbausteine.jpg)
+![Das Menü für Textbausteine ist am rechten Bildschirmrand zu finden](../../assets/musdb/ui/Textbausteine.jpg)
 
 ### Die Angaben-aus-gleichem-Feld-Funktion
 
@@ -62,8 +61,7 @@ Die Angaben sind nach ihrer Häufigkeit sortiert. Durch einen Klick auf
 den entsprechenden Eintrag können außerdem nach allen passenden Objekten
 suchen.
 
-![Das Angaben-aus-gleichem-Feld-Menü ist am rechten Bildschirmrand zu
-finden](../../assets/musdb/ui/Angaben-Gleiches-Feld.png)
+![Das Angaben-aus-gleichem-Feld-Menü ist am rechten Bildschirmrand zu finden](../../assets/musdb/ui/Angaben-Gleiches-Feld.png)
 
 ### Hausinterne Vorgaben
 

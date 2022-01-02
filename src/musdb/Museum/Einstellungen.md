@@ -4,7 +4,7 @@ Einstellungen (Museum)
 Einstellungen für das Museum kann nur jemand in der Rolle
 \"Museumsdirektor\" vornehmen. Ist jemand mit dieser Rolle angemeldet so
 erscheint in der Navigationsleiste das Symbol \"Museum\". Bei Berührung
-mit dem Mauszeiger öffnet sich ein Aufklappmenu:
+mit dem Mauszeiger öffnet sich ein Aufklappmenü:
 
 ![](../../assets/musdb/museum/einstellungenmuseum1.JPG)
 

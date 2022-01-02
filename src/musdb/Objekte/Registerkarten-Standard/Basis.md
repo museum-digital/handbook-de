@@ -77,7 +77,7 @@ eines Ereignisses:
 
 ![](../../../assets/musdb/objects-edit/ereigniserfassung1.jpg)
 
-Im links erscheinenden Aufklappmenu kann der Ereignistyp geändert
+Im links erscheinenden Aufklappmenü kann der Ereignistyp geändert
 werden. Im rechts erscheinenden Feld \"Kürzlich verwendet\" erscheinen
 Akteure, Orte oder Zeitangaben, die Sie kürzlich verwendet haben. Ein
 Klick auf die entsprechenden Einträge in diesem Feld ersetzt die Angaben
