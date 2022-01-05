@@ -30,7 +30,7 @@
       - [Objekte auf Karte]() <!--- (./Ausgabe/Suche.md) --->
       - [Objekt-Zeitleiste]() <!--- (./Ausgabe/Suche.md) --->
       - [Suchergebnisse nach Museen]() <!--- (./Ausgabe/Suche.md) --->
-    - [Bilder suchen] <!--- (./Ausgabe/Suche.md) --->
+    - [Bilder suchen]() <!--- (./Ausgabe/Suche.md) --->
   - [API](./Ausgabe/API/README.md)
   - [Gestaltungskonzepte](./Ausgabe/UI/README.md)
     - [Sprachsteuerung](./Ausgabe/UI/Sprachsteuerung.md)
