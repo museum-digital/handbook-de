@@ -52,7 +52,8 @@
     - [Benutzerprofil]() <!--- (./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md) --->
   - [Benutzeroberfläche]() <!-- (./musdb/UI/README.md)-->
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
-    - [Übersichts-Suche]() <!-- (./musdb/UI/Navigationsleiste.md) -->
+    - [Übersichts-Suche]()
+    - [Toolbar]()
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
   - [Dashboard]()
   - [Museumsinformationen]()
