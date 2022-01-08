@@ -16,7 +16,7 @@ Ausstellung eine größtmögliche Flexibilität erlaubt.
 4.  Daran schließt sich ein Bereich mit vier Schaltflächen an, über die
     verschiedene weitere Inhalte mit dem Thema verknüpft werden können.
 
-![](../assets/Themator/Eingabemaske_2.JPG){width="600" height="456"}
+![](../assets/Themator/Eingabemaske_2.JPG)
 
 In den Abschnitten 1, 2 und 4 arbeitet man immer an einem \"Thema\". Ein
 Thema entspricht dabei einer Inhaltsseite in der Ausstellung, die durch
@@ -104,7 +104,7 @@ Themenseite. Er kann deshalb länger und aussagekräftiger sein.
 Das Abstract ist eine kurze Zusammenfassung des Inhalts der Themenseite.
 \...
 
- ![](../assets/Themator/Eingabemaske_1.JPG){width="1000" height="508"}
+ ![](../assets/Themator/Eingabemaske_1.JPG)
 
 *Text zum Thema*\
 In diesem Bereich werden die Inhalte einer Themenseite hinterlegt. Es

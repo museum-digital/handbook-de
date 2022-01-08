@@ -35,7 +35,7 @@ Auch das Land Rheinland-Pfalz förderte die Einrichtung einer regionalen Instanz
 Weitere technische Entwicklungen
 ---------------------------------
 
-In den Folgejahren bis 2018 gab es zahlreiche weitere Entwicklungen:
+In den Folgejahren gab es zahlreiche weitere Entwicklungen:
 
 -   Eingabetool „musdb" für Museen: Heutet bietet das Eingabetool mehr als die Erfassung der Basisdaten (Pflichtfelder: Inventarnummer, Objektart, Objektname, Objektbeschreibung) sowie einer Abbildung für die Veröffentlichung. Es bietet zahlreiche vertiefende     Inventarisierungsfunktionen in eigenen Reitern, die je nach gewünschter Erfassungstiefe an- oder abgeschaltet werden können. musdb ist browserbasiert.
 -   nodac und md:term: Mit der Software "nodac" wird das     Normvokabular, d.h. Personen und Körperschaften, Geographie und Gebäude, Zeitbegriffe und Schlagworte, bearbeitet. Über "md:term" kann es öffentlich eingesehen werden.

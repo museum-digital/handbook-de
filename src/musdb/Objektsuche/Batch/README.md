@@ -14,7 +14,7 @@ Funktion dafür heißt „Globales Ändern". Sie funktioniert wie eine
 Stapelverarbeitung, um Änderungen schnell und gleichzeitig an mehreren
 Datensätzen durchzuführen. Benutzer:innen, die die Funktion „Globales
 Ändern" verwenden wollen, müssen mindestens die Nutzerrolle
-„Museumdirektor" haben.
+"Museumsdirektor" haben.
 
 > **Achtung! Das „Globale Ändern" ist eine mächtige Funktion.
 > Änderungen, die man damit durchführt, lassen sich nicht mehr
@@ -29,8 +29,7 @@ Nutzer:innen, die mindestens die Nutzerrolle „Museumsdirektor" haben,
 aktivieren die Funktion, indem sie im Menüband ganz oben auf ihren Namen
 klicken und dann den Haken bei „Globales Ändern" durch Anklicken setzen.
 
-![](../../../assets/musdb/objects-list/persoenliche_Einstellungen_bearbeiten.png){width="1300"
-height="541"}
+![](../../../assets/musdb/objects-list/persoenliche_Einstellungen_bearbeiten.png)
 
 ![](../../../assets/musdb/objects-list/globales_aendern_aktivieren.png)
 ![](../../../assets/musdb/objects-list/persoenliche_Einstellungen_bearbeiten.png)
