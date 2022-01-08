@@ -43,13 +43,13 @@
 # musdb
 
 - [musdb](./musdb/README.md)
-  - [Benutzerkonto]() <!-- (./musdb/Benutzerkonto/README.md) -->
+  - [Benutzerkonto](./musdb/Benutzerkonto/README.md)
     - [Zugang erhalten](./musdb/Benutzerkonto/Zugang-erhalten.md)
     - [Nutzerrollen und -Rechte](./musdb/Benutzerkonto/Berechtigungen.md)
     - [Neue Benutzer hinzufügen](./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md)
     - [Einstellungen (Privat)](./musdb/Benutzerkonto/Einstellungen.md)
-    - [Kontoeinstellungen und Sicherheit]() <!--- (./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md) --->
-    - [Benutzerprofil]() <!--- (./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md) --->
+    - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md)
+    - [Benutzerprofil](./musdb/Benutzerkonto/Profil.md)
   - [Benutzeroberfläche]() <!-- (./musdb/UI/README.md)-->
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
     - [Übersichts-Suche]()
