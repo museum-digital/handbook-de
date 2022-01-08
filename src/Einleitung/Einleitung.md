@@ -16,14 +16,14 @@ geschildert. Soviel vorweg: Alles bei museum-digital folgt einem
 seiner Verwirklichung unternommen, dabei werden Erfahrungen gesammelt,
 die dann dazu führen das Ziel genauer zu beschreiben, neu zu definieren
 oder fallen zu lassen. Ist das Ziel neu definiert wird wieder ein
-Schritt zur Umsetzung unternommen\...
+Schritt zur Umsetzung unternommen...
 
 Entsprechend bleiben nur die allgemeinen Zielvorgaben bestehen, die
 konkreteren Zielformulierungen ändern sich. Die im Laufe der Zeit
-gesammelten Erfahrungen haben zur Formulierung von „Grundsätzen bei
-museum-digital" geführt, die ebenfalls vorgestellt werden.
+gesammelten Erfahrungen haben zur Formulierung von ["Grundsätzen bei
+museum-digital"](./Ziele-und-Grundsaetze.html) geführt, die ebenfalls vorgestellt werden.
 
-Der „Aufbau" von museum-digital, seine internationalen, nationalen,
+Der ["Aufbau"](./Aufbau.html) von museum-digital, seine internationalen, nationalen,
 regionalen und thematischen Versionen, spiegelt den Verlauf des
 Vorhabens. Dieser Aufbau wird in einer eigenen Sektion erläutert. Eine
 weitere Sektion widmet sich der Struktur, d.h. der Verwaltung und

@@ -66,9 +66,10 @@ Erste Sichtbarkeit
 Mit Unterstützung ehrenamtlich Tätiger wurde eine Datenbank
 programmiert, um daraus eine Online-Platform zu speisen. Als Grundlage
 der Datenbankstruktur wurde das damals gebräuchliche Austauschformat
-„museumdat" (heute: LIDO) gewählt. So sollte sichergestellt sein, das
-die Objektinformationen problemlos an Portale wie die europeana
-(www.europeana.eu) gegeben werden konnten. Eine erste Version der
+"museumdat" (heute: [LIDO](https://de.wikipedia.org/wiki/Lightweight_Information_Describing_Objects))
+gewählt. So sollte sichergestellt sein, das
+die Objektinformationen problemlos an Portale wie die [europeana](https://www.europeana.eu/)
+gegeben werden konnten. Eine erste Version der
 Online-Platform wurde bereits Mitte 2009 öffentlich gemacht. Die
 gesammelten Objektinformationen einiger Museen wurden zudem an ein
 Projekt in Athen gegeben, welches eine Software für die Integration der
@@ -93,9 +94,8 @@ Förderung des Landes Sachsen-Anhalt (20.000 Euro) ermöglichte es weitere
 Recherchen zu betreiben. Drei "Redakteure" wurden eingestellt, um in die
 Museen zu gehen, sich mit deren Datenbanken und dem Stand der Einträge
 bekannt zu machen, Objektaufnahmen zu erstellen und diese -- in
-Einstimmung mit den Museen -- mit nachrecherchierten und
-vervollständigten Objektangaben an die Datenbankbetreuer zur Eingabe zu
-schicken.
+Abstimmung mit den Museen -- mit vervollständigten Objektangaben an die
+Datenbankbetreuer zur Eingabe zu schicken.
 
 Auch das Land Rheinland-Pfalz förderte die Einrichtung einer regionalen
 Instanz von museum-digital für Rheinland-Pfalz mit 10.000 €.
@@ -105,30 +105,21 @@ Instanz von museum-digital für Rheinland-Pfalz mit 10.000 €.
 
 In den Folgejahren bis 2018 gab es zahlreiche weitere Entwicklungen:
 
--   Eingabetool „musdb" für Museen: Heutet bietet das Eingabetool mehr
-    als die Erfassung der Basisdaten (Pflichtfelder: Inventarnummer,
-    Objektart, Objektname, Objektbeschreibung) sowie einer Abbildung für
-    die Veröffentlichung. Es bietet zahlreiche vertiefende
-    Inventarisierungsfunktionen in eigenen Reitern, die je nach
-    gewünschter Erfassungstiefe an- oder abgeschaltet werden können.
-    musdb ist browserbasiert.
--   nodac und md:term: Mit der Software "nodac" wird das
-    Normvokabular, d.h. Personen und Körperschaften, Geographie und
-    Gebäude, Zeitbegriffe und Schlagworte, bearbeitet. Über „md:term"
-    kann es öffentlich eingesehen werden.
--   Themator: Der „Themator" ist eine einfache Möglichkeit für Museen
+-   [**Eingabetool "musdb" für Museen**](../musdb)
+    Aus einem einfachen Formular zum eingeben grundlegendster Informationen
+    zur Veröffentlichung von Museumsobjekten hat sich das Eingabetool
+    "musdb" zu einem vollständigen Intarisierungsprogramm entwickelt.
+-   [**nodac**](../nodac/README.md) und [**md:term**](../md-term/README.md)
+    Mit der Software "nodac" werden die
+    Normvokabulare, d.h. Personen und Körperschaften, Geographie und
+    Gebäude, Zeitbegriffe und Schlagworte, verwaltet. Mit "md:term" wird
+    ein öffentlich durchsuchbarer und maschinenlesbar nachnutzbarer Zugriff
+    auf die Vokabulare geboten.
+-   [**Themator und md:story**](../Themator/README.md)
+    Der "Themator" ist eine einfache Möglichkeit für Museen
     und deren externe Partner, Online-Ausstellungen oder Themenportale
     zu erstellen. Objekte, die mit museum-digital inventarisiert wurden
     und öffentlich sichtbar sind, können verknüpft werden.
--   Modernisierung der Gestaltung und Nutzerfreundlichkeit: Regelmäßig
-    wurden sowohl die Eingabetools als auch die Ausgabe überarbeitet.
--   Umsetzung von Mehrsprachigkeit
--   Ungarn-Instanz (md:hu), Österreich-Instanz (md:at)
-
-Jüngste technische Entwicklungen (2019 bis heute)
--------------------------------------------------
-
--   md:story: Ein neues Format für Online-Ausstellungen nach dem Prinzip
-    des „Scrollytelling"
--   Versionierung: Um Änderungen an Objekteinträgen transparent zu
-    machen, wurde eine Versionierung eingeführt
+    Mit *md:story* hat der Themator eine neue Wendung bekommen: Neben langen,
+    vor allem textbasierten Erzählungen werden jetzt auch "Scrollitelling-Formate"
+    unterstützt.
