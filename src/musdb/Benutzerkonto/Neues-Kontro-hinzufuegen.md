@@ -17,7 +17,7 @@ Menüpunktes folgt ein Stift (das Symbol für "Benutzer bearbeiten") und
 ein "+" als Symbol für "Benutzer hinzufügen". Ein Klick auf dieses
 Symbol öffnet das Fenster zum Neueintrag eines Nutzers:``
 
- ![](../../assets/musdb/neuer_nutzer.JPG)
+![](../../assets/musdb/neuer_nutzer.JPG)
 
 Dieses Eingabefenster muss vollständig ausgefüllt werden. Unter
 "*Anmeldename*" ist jener Name einzutragen, mit dem der zukünftige

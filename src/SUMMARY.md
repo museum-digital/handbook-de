@@ -47,7 +47,7 @@
     - [Zugang erhalten](./musdb/Benutzerkonto/Zugang-erhalten.md)
     - [Nutzerrollen und -Rechte](./musdb/Benutzerkonto/Berechtigungen.md)
     - [Neue Benutzer hinzufügen](./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md)
-    - [Einstellungen (Privat)](./musdb/Benutzerkonto/Einstellungen.md)
+    - [Einstellungen (Privat): musdb anpassen](./musdb/Benutzerkonto/Einstellungen.md)
     - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md)
     - [Benutzerprofil](./musdb/Benutzerkonto/Profil.md)
   - [Benutzeroberfläche]() <!-- (./musdb/UI/README.md)-->
@@ -89,7 +89,7 @@
     - [Merkliste](./musdb/Objektsuche/Merkliste.md)
     - [Stapelbearbeitung](./musdb/Objektsuche/Batch/README.md)
       - [Zuordnung per Auswahl]() <!-- (./musdb/Objektsuche/Batch/Zuordnung-per-Auswahl.md)-->
-      - [Globales Ändern]() <!-- (./musdb/Objektsuche/Batch/Globales-Aendern.md) -->
+      - [Globales Ändern](./musdb/Objektsuche/Batch/Globales-Aendern.md)
       - [Treffer zuordnen]() <!-- (./musdb/Objektsuche/Batch/Treffer-zuordnen.md) -->
     - [Objektdaten exportieren](./musdb/Objektsuche/Export.md)
     - [Listendruck / Treffer auflisten](./musdb/Objektsuche/Listendruck.md)
@@ -98,6 +98,7 @@
   - [Objektgruppen]() <!-- (./musdb/Veranstaltungen/README.md) -->
     - [HTML-Katalog]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
+  - [Leihverkehre]() <!-- (./musdb/Ausstellungen/README.md) -->
   - [Kontaktverwaltung]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Besuchermanagement]() <!-- (./musdb/Besuchermanagement/README.md) -->
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
