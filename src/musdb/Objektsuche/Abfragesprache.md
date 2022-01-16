@@ -4,6 +4,8 @@ Die Objekt-Suchfunktion funktioniert auf Basis einer eigenen Abfragesprache. Suc
 
 Durch diese eigene Abfragesprache wird einerseits die Sicherheit erhöht - nur die vorgesehenen Suchmöglichkeiten werden übersetzt - und gleichzeitig ist es durch die Einfachheit der Abfragesprache möglich, als Benutzer auch selbst schnell kompliziertere Abfragen zu schreiben.
 
+![In der Suchleiste lässt sich die Suchabfrage auch direkt anschauen](../../assets/musdb/objects-list/Objektfilter-Abfragesprache.jpg)
+
 ## Grundlegende Logik
 
 Die grundlegende Logik der Such-Abfragesprache lässt sich am besten mit einem Beispiel erklären. Eine Suchabfrage mit drei zusammengesetzten Suchbedingungen mag etwa `Foto tag:132 -place:61 -name:München -length:>1000` sein. Wie im Beispiel zu sehen, werden einzelne Suchbedingungen durch ein Leerzeichen getrennt. Damit besteht eine einzelne Suchbedingung aus bis zu vier Elementen.

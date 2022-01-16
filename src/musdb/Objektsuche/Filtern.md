@@ -35,9 +35,11 @@ Filter werden in musdb primär über die Suchleiste ganz oben in der Objektüber
 
 - Ganz links wird die Gesamtanzahl der gefundenen Objekte angezeigt.
 - Ein großes Feld bietet Platz, um vorhandene Filterbedingungen anzuzeigen. Im linken Abschnitt dieses Feldes findet sich aber auch ein Eingabeschlitz, um schnell Suchbedingungen händisch einzugeben.
-- Ein "Auge"-Symbol schaltet die Anzeige der gesetzten Filter um, sodass man die Suchbedingungen in der zugrundeliegenden Abfragesprache sehen und manipulieren kann. So lassen sich etwa mehrere Bedingungen gleichzeitig hinzufügen oder entfernen - und die Eingabe ist wesentlich schneller, wenn man einmal mit der Abfragesprache vertraut ist.
+- Ein "Auge"-Symbol schaltet die Anzeige der gesetzten Filter um, sodass man die Suchbedingungen in der [zugrundeliegenden Abfragesprache](./Abfragesprache.md) sehen und manipulieren kann. So lassen sich etwa mehrere Bedingungen gleichzeitig hinzufügen oder entfernen - und die Eingabe ist wesentlich schneller, wenn man einmal mit der Abfragesprache vertraut ist.
 - Der Button "Suche verfeinern" bietet die Möglichkeit, einen Filter über ein graphisches Menü und mithilfe von Auswahllisten zu setzen.
 - Der Button "Suchen" schickt die Eingabe einer neuen Suchbedingung ab.
+
+![Die Suchleiste mit ausgewähltem Schnell-Eingabeschlitz](../../assets/musdb/objects-list/Objektsuche-Suchleiste.jpg)
 
 ### Overlay: Eine Suchbedingung einstellen
 
@@ -49,6 +51,8 @@ Klickt man in der Suchleiste auf "Suche verfeinern" öffnet sich ein Overlay, mi
 - Das vierte Feld ist der Eingabeschlitz, in den man den Suchbegriff eingibt. Soll gerade in einem Feld gesucht werden, das auf Basis von kontrollierten Listen von Begriffen arbeitet (z.B. Orte, Schlagworte und Personen, aber auch Lizenzangaben), erscheinen entsprechende Vorschläge in einer Seitenspalte rechts. Der Suchbegriff kann dann durch einen Klick auf den entsprechenden Vorschlag ausgewählt werden.
 
 Sind alle diese Felder ausgefüllt, kann die Suchbedingung mit einem Klick auf den "Abschicken"-Button gesetzt werden.
+
+![Overlay: "Suche verfeinern"](../../assets/musdb/objects-list/Objektsuche-verfeinern-Overlay.jpg)
 
 Um eine weitere Suchbedingung hinzuzufügen, wenn man also z.B. nach Objekten sucht, die etwas mit Hamburg zu tun haben UND in der Fotosammlung des Hauses sind, kann man die zweite Suchbedingung auf die gleiche Art und Weise hinzufügen.
 
@@ -77,6 +81,8 @@ Für verschiedene, besonders oft benötigte Suchkategorien gibt es eigene Eingab
   - und die Trefferliste auf "nur veröffentlichte" oder "nicht veröffentlichte" Objekte eingegrenzt werden kann.
 - Die rechte Seitenspalte der Objektübersicht bietet je nach Berechtigungen des Benutzers Auswahllisten für das Filtern der Objekte nach Museen oder Sammlungen. Sind die Menüpunkte für Objektgruppen und Ausstellungen aktiviert (siehe "[Persönliche Einstellungen](../Benutzerkonto/Einstellungen.md#menüpunkte)"), erscheinen auch für diese Auswahllisten. Unterhalb der Auswahllisten gibt es Suchschlitze für das schnelle Filtern der Objekte nach Schlagworten, Zeiten, Orten und Akteuren.
 
+![Optionen, die Suche schnell anzupassen](../../assets/musdb/objects-list/Objektsuche-schnell-anpassen.jpg)
+
 Zu guter Letzt lässt sich der versteckte Schnell-Suchschlitz der Suchleiste selbst benutzen: Wird hier einfach nur ein Wort eingegeben, wird eine Volltextsuche durchgeführt (bzw. als zusätzliche Suchbedingung hinzugefügt, falls schon ein Suchfilter gesetzt ist). Auch spezifischere Suchabfragen lassen sich so schnell machen, indem man die Suchabfrage direkt in der [Abfragesprache der Objektsuche](Abfragesprache.md) eingibt.
 
 Woran ist erkennbar, ob ein Filter aktiv ist? Und was kann man damit noch machen?
@@ -95,6 +101,8 @@ verschiedene Optionen angeboten, um auf Basis des Filters mit der Trefferliste z
 - [**"Treffer exportieren"**](./Export.md) ruft die Export-Funktion auf Basis der Treffermenge auf
 - [**"Treffer zuweisen"** und "**Globales Ändern**"](./Batch/) bieten Funktionen zur Massenbearbeitung auf Basis der Treffermenge.
 
+![Filter aktiv - und die daraus folgenden Optionen](../../assets/musdb/objects-list/Objektsuche-filter-aktiv.jpg)
+
 In der (Einzel-)Objekt-Bearbeitungsansicht haben Sie oben links zusätzlich
 zwei Schaltflächen für "Gehe zu davorliegendem
 Datensatz" und "Gehe zu folgendem Datensatz" zur Verfügung. Diese
@@ -108,3 +116,4 @@ Objekt-Basiseingabe. Änderungen dieser Basiseingaben können Sie durch
 Klicken auf diese Schalter bestätigen und werden dann gleich zum davor-
 oder danach liegenden Datensatz geleitet. (Abb. 4, unten rechts)
 
+![Oben links auf der Objektseite kann zum vorherigen oder folgenden Objekt navigiert werden](../../assets/musdb/objects-list/Objekt-bearbeiten-vor-zurueck.jpg)
