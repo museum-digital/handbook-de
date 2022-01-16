@@ -86,6 +86,7 @@
     - [Benutzerdefinierte Bearbeitungsoberfläche]()
   - [Objektdaten durchsuchen]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte mit Filtern durchsuchen](./musdb/Objektsuche/Filtern.md)
+      - [Abfragesprache](./musdb/Objektsuche/Abfragesprache.md)
     - [Merkliste](./musdb/Objektsuche/Merkliste.md)
     - [Stapelbearbeitung](./musdb/Objektsuche/Batch/README.md)
       - [Zuordnung per Auswahl]() <!-- (./musdb/Objektsuche/Batch/Zuordnung-per-Auswahl.md)-->
