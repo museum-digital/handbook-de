@@ -64,7 +64,7 @@
     - [Panorama-Tour durchs Museum]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
-  - [Objektdaten bearbeiten](./musdb/Objekte/README.md)
+  - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
@@ -84,8 +84,8 @@
       - [Registerkarte "Konservierung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md) -->
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
     - [Benutzerdefinierte Bearbeitungsoberfläche]()
-  - [Objektdaten durchsuchen]() <!-- (./musdb/Objektsuche/README.md) -->
-    - [Objekte mit Filtern durchsuchen](./musdb/Objektsuche/Filtern.md)
+  - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
+    - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
       - [Abfragesprache](./musdb/Objektsuche/Abfragesprache.md)
     - [Merkliste](./musdb/Objektsuche/Merkliste.md)
     - [Stapelbearbeitung](./musdb/Objektsuche/Batch/README.md)

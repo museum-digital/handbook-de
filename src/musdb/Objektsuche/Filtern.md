@@ -1,4 +1,4 @@
-Objekte mit Filtern durchsuchen
+Objekte suchen
 ====================
 
 Was sind Filter?
