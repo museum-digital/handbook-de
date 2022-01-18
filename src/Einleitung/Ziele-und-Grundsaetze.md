@@ -4,47 +4,21 @@ Ziele UND Grundsätze
 Das Ziel in einem Satz
 ----------------------
 
-Das eigentliche Ziel von museum-digital ist es allen Museen eine
-Möglichkeit zu bieten fundierte Informationen zu Ihren Objekten auf
-einfache Weise effektiv im Internet sichtbar zu machen. Hinter diesem
-Ziel steht die Absicht mit der Publikation der Objektinformation auf die
-Museen selbst und die in ihnen geleistete Erschließungsarbeit aufmerksam
-zu machen. Gleichzeitig sollen den Museen Möglichkeiten der Nachnutzung
-digitaler Information erschlossen werden, etwa durch Einbindung der
-Informationen in die eigene Internetpräsenz oder durch digitale
-Ausstellungen (Themenportale). museum-digital ist in jedem Fall nur ein
-Werkzeug. Für jene Museen, die über kein eigenes Programm zur
-Inventarisierung verfügen, stellt museum-digital die entsprechenden
-Funktionen in einem gesonderten Bereich zur Verfügung.
+Das eigentliche Ziel von museum-digital ist es allen Museen eine Möglichkeit zu bieten fundierte Informationen zu Ihren Objekten auf einfache Weise effektiv im Internet sichtbar zu machen. Hinter diesem Ziel steht die Absicht mit der Publikation der Objektinformation auf die Museen selbst und die in ihnen geleistete Erschließungsarbeit aufmerksam zu machen. Gleichzeitig sollen den Museen Möglichkeiten der Nachnutzung digitaler Information erschlossen werden, etwa durch Einbindung der Informationen in die eigene Internetpräsenz oder durch digitale Ausstellungen (Themenportale). museum-digital ist in jedem Fall nur ein Werkzeug. Für jene Museen, die über kein eigenes Programm zur Inventarisierung verfügen, stellt museum-digital die entsprechenden Funktionen in einem gesonderten Bereich zur Verfügung.
 
-Aus dieser, schon 2009 von der AG Digitalisierung des Museumsverbandes
-Sachsen-Anhalt, formulierten Zielstellung und insbesondere aus den seit
-damals gewonnenen Erfahrungen leiten sich einige Grundsätze ab, die für
-alle Versionen von museum-digital gültig sind:
+Aus dieser, schon 2009 von der AG Digitalisierung des Museumsverbandes Sachsen-Anhalt, formulierten Zielstellung und insbesondere aus den seit damals gewonnenen Erfahrungen leiten sich einige Grundsätze ab, die für alle Versionen von museum-digital gültig sind:
 
 Inventarisieren vs. Publizieren
 -------------------------------
 
-Inventarisieren ist eine Notwendigkeit. In den meisten Museen dient die
-Inventarisierung ausschließlich der Verwaltung der Objekte, dem
-Besitznachweis, dem Leihverkehr \... Die Einträge in den zur
-Inventarisierung genutzten Datenbanken sind entsprechend vor allem
-stichwortartig. Die Inventarisierungsdatenbanken sind in den meisten
-Fällen geschlossene Systeme, die nicht mit Systemen anderer Museen oder
-zentralen Datenbanken, wie etwa der Gemeinsamen Normdatei der
-Bibliotheken, kommunizieren können. Die Einträge in
-Inventarisierungsdatenbanken werden üblicherweise von Mitarbeitern des
-Museums ausschließlich für Mitarbeiter des gleichen Museums vorgenommen.
-Entsprechend sind Einträge wie \"Stuhl, blau\" als Objektbeschreibung
-häufig zu finden. Solche Einträge sind für die Publikation wenig
-geeignet.
+Inventarisieren ist eine Notwendigkeit. In den meisten Museen dient die Inventarisierung ausschließlich der Verwaltung der Objekte, dem Besitznachweis, dem Leihverkehr \... Die Einträge in den zur
+Inventarisierung genutzten Datenbanken sind entsprechend vor allem stichwortartig. Die Inventarisierungsdatenbanken sind in den meisten Fällen geschlossene Systeme, die nicht mit Systemen anderer Museen oder zentralen Datenbanken, wie etwa der Gemeinsamen Normdatei der Bibliotheken, kommunizieren können. Die Einträge in Inventarisierungsdatenbanken werden üblicherweise von Mitarbeitern des Museums ausschließlich für Mitarbeiter des gleichen Museums vorgenommen. Entsprechend sind Einträge wie \"Stuhl, blau\" als Objektbeschreibung häufig zu finden. Solche Einträge sind für die Publikation wenig geeignet.
 
 ![](../assets/chapter_1-3/423.jpg)
 ![](../assets/chapter_1-3/423gut.jpg)
 
 Ganz ähnlich verhält es sich mit Abbildungen zu Objekten. Für die Inventarisierung werden häufig
-Fotos erstellt auf denen eine Inventarnummer zuerkennen ist und/oder ein
-genormter Farbbalken mit dem Objekt abgelichtet wurde. Dies soll die
+Fotos erstellt auf denen eine Inventarnummer zuerkennen ist und/oder ein genormter Farbbalken mit dem Objekt abgelichtet wurde. Dies soll die
 Zuordnung von Abbildungen zu Objekten erleichtern und die Rekonstruktion
 der Farbigkeit eines Objektes ermöglichen. Bildästhetische Maßstäbe
 werden nicht berücksichtigt. Solche Abbildungen (bei denen mitunter die
