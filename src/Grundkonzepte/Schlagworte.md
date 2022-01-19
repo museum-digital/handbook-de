@@ -1,19 +1,7 @@
 Schlagworte
 ===========
 
-Schlagworte erleichtern das Auffinden von Objekten. Bei museum-digital
-kann jedes Objekt mit einer beliebigen Anzahl von Schlagworten belegt
-werden. Objekte sollten mit jenen Begriffen belegt werden, unter denen
-das Objekt gefunden werden soll. Der Umgang mit Schlagworten unterliegt
-bei museum-digital der Normdatenkontrolle, die sich -- um eine effektive
-Weitergabe der Objektinformationen zu ermöglichen -- woimmer möglich an
-den im Bibliotheksbereich üblichen Gepflogenheiten orientiert.
-Schlagworte werden bei museum-digital als Bezeichnungen für gedankliche
-Konzepte behandelt und mit Verknüpfungen zu allgemein genutzten
-Vokabularen (GND, AAT, LCSH, \...) angereichert, sie werden
-hierarchisiert und mit einer kurzen Beschreibung versehen. Die
-Hierarchisierung ermöglicht es z.B. bei der Suche nach \"Spielzeug\"
-auch ein \"Schaukelpferd\" zu finden.
+Schlagworte erleichtern das Auffinden von Objekten. Bei museum-digital kann jedes Objekt mit einer beliebigen Anzahl von Schlagworten belegt werden. Objekte sollten mit jenen Begriffen belegt werden, unter denen das Objekt gefunden werden soll. Der Umgang mit Schlagworten unterliegt bei museum-digital der Normdatenkontrolle, die sich - um eine effektive Weitergabe der Objektinformationen zu ermöglichen - woimmer möglich an den im Bibliotheksbereich üblichen Gepflogenheiten orientiert. Schlagworte werden bei museum-digital als Bezeichnungen für gedankliche Konzepte behandelt und mit Verknüpfungen zu allgemein genutzten Vokabularen (GND, AAT, LCSH, ...) angereichert, sie werden hierarchisiert und mit einer kurzen Beschreibung versehen. Die Hierarchisierung ermöglicht es z.B. bei der Suche nach "Spielzeug" auch ein "Schaukelpferd" zu finden.
 
 Um die Schlagworte möglichst erfolgreich bei Suchen und Weitergaben
 einsetzen zu können und um die Arbeit der Anreicherung und
