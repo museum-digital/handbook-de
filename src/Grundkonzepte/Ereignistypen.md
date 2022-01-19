@@ -1,8 +1,7 @@
 Ereignistypen
 =============
 
-Ereignisse sind bei museum-digital typisiert. Im Augenblick gibt es
-folgende Ereignistypen (in Anzeigeform und mit Erläuterungen):
+Ereignisse sind bei museum-digital typisiert. Im Augenblick gibt es folgende Ereignistypen (in Anzeigeform und mit Erläuterungen):
 
 | ID  | WAS                       | Erläuterung                                                                                                                     |
 |-----|---------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +14,7 @@ folgende Ereignistypen (in Anzeigeform und mit Erläuterungen):
 | 7   | Verfasst                  | Bitte verwenden bei Briefen, Büchern, Notenschriften, \... .                                                                    |
 | 8   | Gesammelt                 | Bitte für biologische Objekte verwenden (NICHT: Das Museum als Sammler).                                                        |
 | 9   | Gemalt                    | Bitte für Gemälde, Pastelle, Aquarelle etc. verwenden.                                                                          |
-| 10  | Aufgenommen               | Bitte verwenden bei Fotografien, Ton- oder Video-/Filmaufzeichnungen, \... .                                                    |
+| 10  | Aufgenommen               | Bitte verwenden bei Fotografien, Ton- oder Video-/Filmaufzeichnungen, ... .                                                    |
 | 11  | Empfangen                 | Bitte verwenden bei Briefen und ähnlichen verschickten Dokumenten..                                                             |
 | 12  | Druckplatte hergestellt   | Bitte verwenden bei Kupferstichen, Holzschnitten \... .                                                                         |
 | 13  | Abgeschickt               | Bitte verwenden bei Briefen und anderen verschickten Dokumenten.                                                                |
