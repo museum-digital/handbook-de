@@ -14,7 +14,7 @@
   - [Zeiten](./Grundkonzepte/Zeiten.md)
   - [Schlagworte](./Grundkonzepte/Schlagworte.md)
   - [Rechtsformen / Lizenzen](./Grundkonzepte/Lizenzen.md)
-  - [Mehrsprachigkeit]() <!-- (./Grundkonzepte/Mehrsprachigkeit.md)
+  - [Mehrsprachigkeit](./Grundkonzepte/Mehrsprachigkeit.md)
 
 # Ausgabe
 
