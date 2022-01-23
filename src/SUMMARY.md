@@ -51,11 +51,11 @@
     - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md)
     - [Benutzerprofil](./musdb/Benutzerkonto/Profil.md)
   - [Benutzeroberfläche]() <!-- (./musdb/UI/README.md)-->
+    - [Dashboard](musdb/UI/Dashboard.md)
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
     - [Übersichts-Suche]()
     - [Toolbar]()
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
-  - [Dashboard]()
   - [Museumsinformationen]()
     - [Ticket-Typen verwalten]() <!-- (./musdb/Museum/Einstellungen.md) -->
     - [Öffnungszeiten eintragen]() <!-- (./musdb/Museum/Einstellungen.md) -->
