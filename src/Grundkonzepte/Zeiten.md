@@ -11,7 +11,6 @@ Worten. Die Verwendung von Zahlen erleichtert zudem die Übersetzung der Zeitbeg
 
 Es gibt noch einen weiteren Grund für Einschränkungen bei der Formulierung von Zeitbezeichnungen. Das Datenbanksystem muss effektiv funktionieren und sowohl Suchergebnis leicht erfassbar präsentieren als auch eine leichte Verwaltung der Zeitbegriffe erlauben. Für diese Begriffsverwaltung gibt es bei museum-digital die Normdatenredaktion. Je weniger die verwendeten Zeitbezeichnungen von den unten stehenden Empfehlungen abweichen, um so weniger Arbeit hat die Normdatenredaktion. Einige der folgenden Empfehlungen beziehen sich nur auf empfohlene Schreibweisen, andere beschreiben genauer, was bei museum-digital als Zeitbegriff verstanden wird (Stilepochen-Bezeichnungen der
 Kunstgeschichte bezeichnen zum Beispiel einen Stil und letztlich nicht eine ganz bestimmte Zeiteinheit). Die folgende Tabelle enthält darüber hinaus Hinweise, wie bei museum-digital die Zeit-Zusatz-Informationen (z.B. bei Zusätzen wie "Ab", "Nach", ...) einzutragen sind.
-
 ### Allgemein ...
 
 |Nr.|Nicht optimal|Besser so:|Anmerkung|
