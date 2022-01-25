@@ -8,7 +8,7 @@ Durch diese eigene Abfragesprache wird einerseits die Sicherheit erhöht - nur d
 
 ## Grundlegende Logik
 
-Die grundlegende Logik der Such-Abfragesprache lässt sich am besten mit einem Beispiel erklären. Eine Suchabfrage mit drei zusammengesetzten Suchbedingungen mag etwa `Foto tag:132 -place:61 -name:München -length:>1000` sein. Wie im Beispiel zu sehen, werden einzelne Suchbedingungen durch ein Leerzeichen getrennt. Damit besteht eine einzelne Suchbedingung aus bis zu vier Elementen.
+Die grundlegende Logik der Such-Abfragesprache lässt sich am besten mit einem Beispiel erklären. Eine Suchabfrage mit drei zusammengesetzten Suchbedingungen mag etwa `Foto tag:132 -place:61 -name:München -length:>1000` sein. Wie im Beispiel zu sehen, werden einzelne Suchbedingungen durch ein Leerzeichen getrennt (möchte man Suchen nach einem Suchbegriff, der aus mehreren Worten besteht, ausführen, muss man die Leerzeichen im Suchbegriff durch Unterstriche _ ersetzen). Damit besteht eine einzelne Suchbedingung aus bis zu vier Elementen.
 
 Alle vier Elemente sind im Beispiel `-length:>1000` zu sehen:
 
