@@ -20,6 +20,6 @@ Die Sektion "Kontrollierte Vokabulare" enthält zunächst einen Überblick, der 
 
 ![Vergleich der Nutzung kontrolliertes Vokabulars](../../assets/musdb/navigation/konrollierte_vokabulare1.png "Nutzung kontrollierten Vokabulars - Vergleich: Gesamt - Museum")
 
-Einen weiteren Vergleich ermöglicht der untere Teil dieser Sektion. Hier werden die vier verschiedenen Bereiche, Orte, Akteure, Schlagworte, Zeiten in ihrer Nutzung durch das Museum verglichen. Besondere Häufungen werden erkennbar: Etwa bei der Erfassung von Orten, die Objekte des Museums verknüpft sind.
+Einen weiteren Vergleich ermöglicht der untere Teil dieser Sektion. Hier werden die vier kontrollierten Bereiche: Orte, Akteure, Schlagworte und Zeiten in ihrer Nutzung durch das Museum verglichen. Besondere Häufungen werden erkennbar: Etwa bei der Erfassung von Orten, die mit Objekten des Museums verknüpft sind. Oder Schlagworte, die besonders häufig verwendet werden ... .
 
 ![Vergleich der Nutzung der verschiedenen kontrollierte Vokabulare](../../assets/musdb/navigation/konrollierte_vokabulare2.png "Nutzung kontrollierten Vokabulars - Vergleich der Vokabulare")
