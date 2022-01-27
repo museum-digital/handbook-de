@@ -57,20 +57,15 @@
     - [Toolbar]()
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
   - [Museumsinformationen]() <!-- (./musdb/Museum/Einstellungen.md) -->
-    - [Allgemeine Museumsinformation]() <!-- (./musdb/Museum/Einstellungen.md) -->
-    - [Zusätzliche Museumsinformation]() <!-- (./musdb/Museum/Einstellungen.md) -->
-      - [Reguläre Öffnungszeiten]() <!-- (./musdb/Museum/Einstellungen.md) -->
-      - [Räume]() <!-- (./musdb/Museum/Einstellungen.md) -->
-      - [Eintrittskarten: Typen]() <!-- (./musdb/Museum/Einstellungen.md) -->
-      - [Mehr]() <!-- (./musdb/Museum/Einstellungen.md) -->
-      - [FAQ des Museums]() <!-- (./musdb/Museum/Einstellungen.md) -->
-      - [Optionen]() <!-- (./musdb/Museum/Einstellungen.md) -->
-        - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md)
-        - [PDF-Katalog](./musdb/Museum/Einstellungen.md)
-        - [Objekte auf Karte](./musdb/Museum/Einstellungen.md)
-        - [Besucherstatistik ansehen](./musdb/Museum/Einstellungen.md)
-        - [Datenbankinhalte des Hauses](./musdb/Museum/Einstellungen.md)
-        - [Panorama-Tour durchs Museum]() <!-- (./musdb/Veranstaltungen/README.md) -->
+    - [Allgemeine Museumsinformation]()
+    - [Zusätzliche Museumsinformation]()
+      - [Detailinformationen]()
+      - [Öffnungszeiten eintragen]()
+      - [Ticket-Typen verwalten]()
+      - [FAQ des Museums]()
+      - [Reiter: Optionen]()
+    - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md) 
+    - [Panorama-Tour durchs Museum]() <!-- (./musdb/Veranstaltungen/README.md) -->
   
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
