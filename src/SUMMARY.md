@@ -126,8 +126,11 @@
 # Datenimporte
 
 - [Importe: Einleitung](./import/README.md)
+  - [Der Import-Prozess](./import/importprozess.md)
+  - [Liste der importierbaren Formate](./import/liste-der-importformate.md)
   - [CSVXML](./import/CSVXML.md)
-  - [Liste der importierbaren Formate]()
+  - [Technischer Aufbau](./import/Aufbau.md)
+  - [Automatische Bereinigung der Daten](./import/Automatische-Bereinigung.md)
 
 -----------
 
