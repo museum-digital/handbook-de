@@ -6,10 +6,12 @@ museum-digital setzt auf das Internet. Datenströme, Zugänge, verwendete Softwa
 Museum-digital versucht flexibel mit Mehrsprachigkeit umzugehen und immer soviel wie möglich an kontrollierten Übersetzungen anzubieten. Da ist zunächst die Sprache der Navigation: Sowohl in der öffentlichen Ausspielung als auch in musdb, dem Eingabe- und Bearbeitungswerkzeug, lässt sich die Navigationssprache umschalten. Nach und nach kommen neue Übersetzungen hinzu. Wir versuchen stets eine Sprache durchgängig zu intergrieren, was nicht einfach ist. Arabisch oder Türkisch gibt es beispielsweise nur bei der öffentlichen Ausspielung aber (noch) nicht in musdb. In allen Bereichen umgesetzt sind Deutsch, Englisch, Bahasa Indonesia und Ungarisch.
 
 Mehrsprachige Inhalte
+
 -------------------------------------------------
 Angaben zu Museen, Sammlungen, Objektgruppen und zu den Objekten selbst lassen sich bei museum-digital in 98 verschiedenen Sprachen und Schriften, eintragen. Eine unkontrollierte automatische Übersetzung findet nicht statt.
 
 Automatische Sprachwahl
+
 -------------------------------------------------
 Die Wahl der Sprache für Inhalte und Navigation geschieht automatisch (kann aber auch durch Sprachwahlschalter gesteuert werden). Das Verfahren: Ein Nutzer aus Großbritannien wird üblicherweise in seinem Browser "Englisch" als bevorzugte Sprache eingestellt haben. Ruft er eine Seite von museum-digital auf, so übermittelt sein Browser diese Information automatisch. Das nutzt museum-digital und bietet diesem Nutzer möglichst viele Inhalte in Englisch an. Englisch ist auch die Fallback-Sprachwahl für jene, deren Browsersprache wir noch nicht in unseren Übersetzungen berücksichtigen konnten. Der Nutzer aus diesem Beispiel bekommt die Navigation in Englisch angeboten. Und die Inhalte?
 
