@@ -35,3 +35,7 @@ Die Rubrik "Fragen an Daten" bietet Zugang zu grundsätzlichen Fragestellungen. 
 Vier verschiedene Grafiken finden sich in dieser Rubrik - alle zeigen die Aufrufe, welche die Objekte des Museums für das jemand angemeldet ist, in der öffentlichen Ausgabe von museum-digital erfahren haben. Alle Grafiken beziehen sich auf die jeweils letzten 30 Tage. Beim Überfahren erscheinen die entsprechenden Zahlenangaben.
 
 ![Online-Nutzung - Museum](../../assets/musdb/navigation/dashboard_users_museum.png "Online-Nutzung - Museum")
+
+## Besucherstatistik
+
+Dieser Punkt des Dashboards ist vor allem für jene interessant, die ihre realen Besucher im realen Museum mit museum-digital zählen.
