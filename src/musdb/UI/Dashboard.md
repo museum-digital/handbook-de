@@ -60,6 +60,6 @@ Die weiter oben beschriebene "Online-Nutzung [Museum]" zeigt Zugriffe auf die vo
 
 Vier verschiedene Werkzeuge stehen an dieser Stelle zur Verfügung.
 
-<a name="Dashboard_Werkzeuge_QR">1. QR-Code-Generator</a>
+### QR-Code-Generator
 
 Ein allgemeiner QR-Generator, d.h. Sie können jeden beliebigen Text (der die bei QR-Code erlaube Maximallänge nicht überschreitet) einfügen und durch Klick einen QR-Code generieren. Im erscheinenden Gestaltungsbildschirm können Sie die Qualität und die Größe des QR-Codes bestimmen und ihn anschließend abspeichern oder ausdrucken.
