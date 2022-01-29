@@ -68,10 +68,10 @@ Ein allgemeiner QR-Generator, d.h. Sie können jeden beliebigen Text (der die be
 
 123
 
-### Kommentare
+### Neueste Kommentare
 
 123
 
-### Kontrollierte Daten aus Import
+### Listen
 
-123
+Kontrollierte Daten aus Import
