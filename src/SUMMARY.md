@@ -51,7 +51,7 @@
     - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md)
     - [Benutzerprofil](./musdb/Benutzerkonto/Profil.md)
   - [Benutzeroberfläche]() <!-- (./musdb/UI/README.md)-->
-    - [Dashboard](musdb/UI/Dashboard.md)
+    - [Dashboard](./musdb/UI/Dashboard.md)
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
     - [Übersichts-Suche]()
     - [Toolbar]()
@@ -64,13 +64,14 @@
       - [Ticket-Typen verwalten]()
       - [FAQ des Museums]()
       - [Reiter: Optionen]()
-    - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md) 
+    - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md)
     - [Panorama-Tour durchs Museum]() <!-- (./musdb/Veranstaltungen/README.md) -->
   
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
   - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
+      - [Objekt-Funktionen]  <!-- (./musdb/Objekte/Funktionen-Einzelobjekt.md) -->
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
       - [Registerkarte "Abbildung"](./musdb/Objekte/Registerkarten-Standard/Abbildung.md)

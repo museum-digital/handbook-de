@@ -38,4 +38,28 @@ Vier verschiedene Grafiken finden sich in dieser Rubrik - alle zeigen die Aufruf
 
 ## Besucherstatistik
 
-Dieser Punkt des Dashboards ist vor allem für jene interessant, die ihre realen Besucher im realen Museum mit museum-digital zählen.
+Dieser Punkt des Dashboards ist vor allem für jene interessant, die ihre realen Besucher im realen Museum mit museum-digital zählen. Es werden die Besuche der letzten Zeit angezeigt. Mehr zur Besucherzählung findet sich hier unter "4.13 Besucherzählung".
+
+## Letzte eigene Änderungen
+
+Die 20 zuletzt vorgenommenen Änderungen werden an dieser Stelle aufgelistet. Die entsprechenden Objekte lassen sich durch Klick auf ihre ID direkt aufrufen.
+
+![Letze Änderungen](../../assets/musdb/navigation/last_changes.png "Die 20 zuletzt vorgenommenen Änderungen")
+
+## Datenbankinhalte: Gesamte Instanz
+
+Ganz ähnlich wie bei "Datenbankinhalte des Hauses" werden hier die Inhalte der gesamten Instanz von museum-digital, in welcher man angemeldet ist angezeigt. Auch hier sind verschiedene Parameter wählbar und werden in ihrem zeitlichen Verlauf verbildlicht. Beide Grafiken ("Datenbankinhalte des Hauses" und "Datanbankinhalte: Gesamte Instanz") nebeneinandergelegt erlaubt es die Erfassung im eigenen Museum mit der Erfassung anderer Museen zu vergleichen.
+
+## Online-Benutzung
+
+Die weiter oben beschriebene "Online-Nutzung [Museum]" zeigt Zugriffe auf die vom Museum gestalteten Inhalte. Der Schalter "Online-Benutzung" hingegen zeigt die Zugriffe für alle bei museum-digital beteiligten Museen. Auch hier bietet sich die Möglichkeit das eigene mit allgemeinerem zu vergleichen.
+
+![Online-Nutzung - Alle](../../assets/musdb/navigation/nutzung_instanz.png "Online-Nutzung - Alle")
+
+## Werkzeuge
+
+Vier verschiedene Werkzeuge stehen an dieser Stelle zur Verfügung.
+
+<a name="Dashboard_Werkzeuge_QR">1. QR-Code-Generator</a>
+
+Ein allgemeiner QR-Generator, d.h. Sie können jeden beliebigen Text (der die bei QR-Code erlaube Maximallänge nicht überschreitet) einfügen und durch Klick einen QR-Code generieren. Im erscheinenden Gestaltungsbildschirm können Sie die Qualität und die Größe des QR-Codes bestimmen und ihn anschließend abspeichern oder ausdrucken.
