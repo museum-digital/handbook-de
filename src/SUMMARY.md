@@ -70,7 +70,6 @@
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
   - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
-      - [Objekt-Funktionen]() <!-- (./musdb/Objekte/Funktionen-Einzelobjekt.md) -->
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
       - [Registerkarte "Abbildung"](./musdb/Objekte/Registerkarten-Standard/Abbildung.md)
@@ -89,6 +88,7 @@
       - [Registerkarte "Konservierung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md) -->
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
     - [Benutzerdefinierte Bearbeitungsoberfläche]()
+    - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
       - [Abfragesprache](./musdb/Objektsuche/Abfragesprache.md)
