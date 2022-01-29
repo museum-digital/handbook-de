@@ -63,3 +63,15 @@ Vier verschiedene Werkzeuge stehen an dieser Stelle zur Verfügung.
 ### QR-Code-Generator
 
 Ein allgemeiner QR-Generator, d.h. Sie können jeden beliebigen Text (der die bei QR-Code erlaube Maximallänge nicht überschreitet) einfügen und durch Klick einen QR-Code generieren. Im erscheinenden Gestaltungsbildschirm können Sie die Qualität und die Größe des QR-Codes bestimmen und ihn anschließend abspeichern oder ausdrucken.
+
+### Link-Validitätscheck
+
+123
+
+### Kommentare
+
+123
+
+### Kontrollierte Daten aus Import
+
+123
