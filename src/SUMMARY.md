@@ -66,12 +66,11 @@
       - [Reiter: Optionen]()
     - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md)
     - [Panorama-Tour durchs Museum]() <!-- (./musdb/Veranstaltungen/README.md) -->
-  
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
   - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
-      - [Objekt-Funktionen]  <!-- (./musdb/Objekte/Funktionen-Einzelobjekt.md) -->
+      - [Objekt-Funktionen]() <!-- (./musdb/Objekte/Funktionen-Einzelobjekt.md) -->
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
       - [Registerkarte "Abbildung"](./musdb/Objekte/Registerkarten-Standard/Abbildung.md)
