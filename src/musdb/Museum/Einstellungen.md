@@ -2,7 +2,7 @@ Einstellungen (Museum)
 ======================
 
 Einstellungen für das Museum kann nur jemand in der Rolle
-\"Museumsdirektor\" vornehmen. Ist jemand mit dieser Rolle angemeldet so
+"Museumsdirektor" vornehmen. Ist jemand mit dieser Rolle angemeldet so
 erscheint in der Navigationsleiste das Symbol \"Museum\". Bei Berührung
 mit dem Mauszeiger öffnet sich ein Aufklappmenü:
 
@@ -15,7 +15,7 @@ Optionen:
 Rechteangaben für Objektdarstellungen
 -------------------------------------
 
- ![](../../assets/musdb/museum/rechtedarstellungen.JPG)
+![](../../assets/musdb/museum/rechtedarstellungen.JPG)
 
 An dieser Stelle können Vorgabewerte für das Heraufladen von Abbildungen
 oder anderen Ressourcen gesetzt werden. Jede Ressource hat eigene ihr
