@@ -137,6 +137,9 @@
   - [Technischer Aufbau](./import/Aufbau.md)
   - [Automatische Bereinigung der Daten](./import/Automatische-Bereinigung.md)
 
+# Tools und Funktionen
+
+- [Kommentarfunktion](./tools_functions/kommentare.md)
 -----------
 
 [Dependencies](./misc/Dependencies.md)

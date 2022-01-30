@@ -60,18 +60,20 @@ Die weiter oben beschriebene "Online-Nutzung [Museum]" zeigt Zugriffe auf die vo
 
 Vier verschiedene Werkzeuge stehen an dieser Stelle zur Verfügung.
 
+![Dashboard - Werkzeuge](../../assets/musdb/navigation/dashboard_tools.png "Werkzeuge des Dashboards")
+
 ### QR-Code-Generator
 
-Ein allgemeiner QR-Generator, d.h. Sie können jeden beliebigen Text (der die bei QR-Code erlaube Maximallänge nicht überschreitet) einfügen und durch Klick einen QR-Code generieren. Im erscheinenden Gestaltungsbildschirm können Sie die Qualität und die Größe des QR-Codes bestimmen und ihn anschließend abspeichern oder ausdrucken.
+Ein QR-Generator für den allgemeinen Gebrauch. Sie können an dieser Stelle jeden beliebigen Text (der die bei QR-Code erlaube Maximallänge nicht überschreitet) einfügen und durch Klick einen QR-Code generieren. Im erscheinenden Gestaltungsbildschirm können Sie die Qualität und die Größe des QR-Codes bestimmen und ihn anschließend abspeichern oder ausdrucken.
 
 ### Link-Validitätscheck
 
-123
+Der Link-Checker zeigt auf dem Dashboard den Stand der Überprüfung an. Durch Klick auf "Mehr" gelangen Sie zu einer Möglichkeit weitere Prüfungen der Links, die Sie bei ihren Objekten gesetzt haben, durchzuführen.
 
 ### Neueste Kommentare
 
-123
+Die Sektion Kommentare auf dem Dashboard arbeitet eng zusammen mit der generellen Kommentarfunktion bei museum-digital. Auf dem Dashboard erfolgt dabei die Steuerung der Anzeige von Nutzerkommentaren. Die Kommentarfunktion wird in einem [eigenen Abschnitt](../../tools_functions/kommentare.md) erläutert. Sie ist standardmäßig deaktiviert.
 
 ### Listen
 
-Kontrollierte Daten aus Import
+Die hier abrufbaren Listen entstehen bei Importen. museum-digital ist stets um qualitätvolle Daten bemüht. Ein Teil der Qualitätssicherung geschieht schon beim Import aus anderen Programmen. Das Importmodul berücksichtigt Regeln, welche die Normdatenredaktion aufgestellt hat. Heißt beispielsweise eine solche Regel: "Ersetze Ortsname 'Kobenhagen' immer durch 'Kopenhagen'", so wird das nicht nur bei der Eingabe in museum-digital berücksichtigt sondern auch beim Import. Wenn dort, in den Originaldaten "Kobenhagen" stand, wird bei museum-digital im Importprozess "Kopenhagen" gespeichert, welches die museum-digital-Orts-ID 922 hat. Die hier abrufbaren Listen verzeichnen die Konkordanzen, also etwa "Kobenhagen (Original) wurde zu Ort 922 (museum-digital)". Die Listen sind zur Nachvollziehbarkeit wichtig. Mehr über Importe nach museum-digital finden Sie im [entsprechenden Kapitel](./import/README.md).
