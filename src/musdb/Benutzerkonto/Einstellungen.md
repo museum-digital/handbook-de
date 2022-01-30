@@ -1,4 +1,4 @@
-# Einstellungen (Privat): Die Benutzeroberfläche anpassen
+# Persönliche Einstellungen: Die Benutzeroberfläche anpassen
 
 Ganz oben mittig in der Navigation von musdb findet sich der Name des
 gerade angemeldeten Benutzers. Klickt man darauf, gelangt man zu den
