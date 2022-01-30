@@ -52,10 +52,10 @@
   - [Benutzeroberfläche](./musdb/UI/README.md)
     - [Persönliche Einstellungen](./musdb/Benutzerkonto/Einstellungen.md)
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
-    - [Dashboard](./musdb/UI/Dashboard.md)
     - [Übersichts-Suche]()
     - [Toolbar]()
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
+  - [Dashboard](./musdb/Dashboard/README.md)
   - [Museumsinformationen]() <!-- (./musdb/Museum/museumsinfo.md) -->
     - [Allgemeine Museumsinformation]()
     - [Zusätzliche Museumsinformation]()

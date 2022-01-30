@@ -7,7 +7,7 @@ Sobald ein Administrator ein Museum bei museum-digital eingerichtet hat, richtet
 
 ![Das "Dashboard" von musdb](../assets/musdb/navigation/dashboard.png "Das Dashboard von musdb")
 
-Mehr zum "Dashboard" findet sich im [entsprechenden Kapitel](./UI/Dashboard.md). Bevor die einzelnen Bedienungselemente von *musdb* vorgestellt werden, soll der Umgang mit Benutzerkonten im Vordergrund stehen.
+Mehr zum "Dashboard" findet sich im [entsprechenden Kapitel](./Dashboard/README.md). Bevor die einzelnen Bedienungselemente von *musdb* vorgestellt werden, soll der Umgang mit Benutzerkonten im Vordergrund stehen.
 
 ## Weitere Quellen
 
