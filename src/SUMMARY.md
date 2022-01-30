@@ -18,21 +18,21 @@
 
 # Ausgabe
 
-- [Ausgabe]() <!---./Ausgabe/README.md--->
-  - [Seiten]() <!---./Ausgabe/README.md--->
-    - [Museen]() <!--- (./Ausgabe/Suche.md) --->
-    - [Sammlungen]() <!--- (./Ausgabe/Suche.md) --->
-    - [Objekte]() <!--- (./Ausgabe/Suche.md) --->
-    - [Ausstellungen]() <!--- (./Ausgabe/Suche.md) --->
-    - [Veranstaltungen]() <!--- (./Ausgabe/Suche.md) --->
-    - [Personen, Schlagworte und Quellenangaben]() <!--- (./Ausgabe/Suche.md) --->
-  - [Suchfunktionen]() <!---./Ausgabe/README.md--->
+- [Ausgabe]() <!-- (./Ausgabe/README.md) -->
+  - [Seiten]() <!-- (./Ausgabe/README.md) -->
+    - [Museen]() <!-- (./Ausgabe/Suche.md) -->
+    - [Sammlungen]() <!-- (./Ausgabe/Suche.md) -->
+    - [Objekte]() <!-- (./Ausgabe/Suche.md) -->
+    - [Ausstellungen]() <!-- (./Ausgabe/Suche.md) -->
+    - [Veranstaltungen]() <!-- (./Ausgabe/Suche.md) -->
+    - [Personen, Schlagworte und Quellenangaben]() <!-- (./Ausgabe/Suche.md) -->
+  - [Suchfunktionen]() <!-- (./Ausgabe/README.md) -->
     - [Objekte suchen](./Ausgabe/Suche.md)
-      - [Suchschlitz eingrenzen]() <!--- (./Ausgabe/Suche.md) --->
-      - [Objekte auf Karte]() <!--- (./Ausgabe/Suche.md) --->
-      - [Objekt-Zeitleiste]() <!--- (./Ausgabe/Suche.md) --->
-      - [Suchergebnisse nach Museen]() <!--- (./Ausgabe/Suche.md) --->
-    - [Bilder suchen]() <!--- (./Ausgabe/Suche.md) --->
+      - [Suchschlitz eingrenzen]() <!-- (./Ausgabe/Suche.md) -->
+      - [Objekte auf Karte]() <!-- (./Ausgabe/Suche.md) -->
+      - [Objekt-Zeitleiste]() <!-- (./Ausgabe/Suche.md) -->
+      - [Suchergebnisse nach Museen]() <!-- (./Ausgabe/Suche.md) -->
+    - [Bilder suchen]() <!-- (./Ausgabe/Suche.md) -->
   - [API](./Ausgabe/API/README.md)
     - [Einbindung in Museum-Webseiten]() <!-- (./Ausgabe/API/README.md)-->
   - [RSS-Feeds](./Ausgabe/rss.md)
