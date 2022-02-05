@@ -1,0 +1,3 @@
+# Allgemeine Museumsinformation erfassen
+
+Jeder Nutzer von musdb ist mindestens einem Museum zugeordnet. Hat er dabei die Rolle Museumsdirektor, so kann er alle Angaben über das Museum ändern. Nutzer mit der zugewiesenen Rolle "Mitarbeiter" oder "Eingebender" sind hierzu nicht berechtigt. Die allgemeinen Museumsinformationen sind prinzipiell öffentlich und nach einem Klick auf "Abschicken" sofort auch in der öffentlichen Ausgabe von museum-digital aktualisiert.
