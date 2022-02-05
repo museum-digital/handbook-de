@@ -56,7 +56,7 @@
     - [Toolbar]()
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
   - [Dashboard](./musdb/Dashboard/README.md)
-  - [Museumsinformationen]() <!-- (./musdb/Museum/museumsinfo.md) -->
+  - [Museumsinformationen](./musdb/Museum/museumsinfo.md)
     - [Allgemeine Museumsinformation]()
     - [Zusätzliche Museumsinformation]()
       - [Detailinformationen]()
