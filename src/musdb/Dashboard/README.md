@@ -38,7 +38,7 @@ Vier verschiedene Grafiken finden sich in dieser Rubrik - alle zeigen die Aufruf
 
 ## Besucherstatistik
 
-Dieser Punkt des Dashboards ist vor allem für jene interessant, die ihre realen Besucher im realen Museum mit museum-digital zählen. Es werden die Besuche der letzten Zeit angezeigt. Mehr zur Besucherzählung findet sich hier unter "[4.14 Besucherzählung](../besuchermanagement/besucherzaehlung.md)".
+Dieser Punkt des Dashboards ist vor allem für jene interessant, die ihre realen Besucher im realen Museum mit museum-digital zählen. Es werden die Besuche der letzten Zeit angezeigt. Mehr zur Besucherzählung findet sich hier unter "[4.14 Besucherzählung](../Besuchermanagement/besucherzaehlung.md)".
 
 ## Letzte eigene Änderungen
 

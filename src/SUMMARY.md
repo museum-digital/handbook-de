@@ -106,7 +106,7 @@
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Leihverkehre]() <!-- (./musdb/Ausstellungen/README.md) -->
   - [Kontaktverwaltung]() <!-- (./musdb/Veranstaltungen/README.md) -->
-  - [Besucherzählung]() <!-- (./musdb/Besuchermanagement/besucherzaehlung.md) -->
+  - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Statements]() <!-- (./musdb/Besuchermanagement/README.md) -->
