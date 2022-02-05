@@ -57,7 +57,7 @@
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
   - [Dashboard](./musdb/Dashboard/README.md)
   - [Museumsinformationen](./musdb/Museum/museumsinfo.md)
-    - [Allgemeine Museumsinformation]()
+    - [Allgemeine Museumsinformation](./musdb/Museum/museumsinfo_allgemein.md)
     - [Zusätzliche Museumsinformation]()
       - [Detailinformationen]()
       - [Öffnungszeiten eintragen]()
