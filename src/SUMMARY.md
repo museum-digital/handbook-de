@@ -50,6 +50,7 @@
     - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md)
     - [Benutzerprofil](./musdb/Benutzerkonto/Profil.md)
   - [Benutzeroberfläche](./musdb/UI/README.md)
+    - [Seitenaufbau](./musdb/UI/Seitenaufbau.md)
     - [Persönliche Einstellungen](./musdb/Benutzerkonto/Einstellungen.md)
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
     - [Übersichts-Suche](./musdb/UI/overall_search.md)
