@@ -9,7 +9,8 @@ Eine Abhilfe kann hierbei eine eingebaute Vollständigkeitsprüfung liefern, die
 | Name                  | Datenformat | Prüfung   | Notiz     |
 |-----------------------|-------------|-----------|-----------|
 | Adlib                 | XML         | Nein      | Für die XML-Exportdaten aus [Axiell Adlib](https://www.axiell.com/de/loesungen/produkt/adlib/). Geschrieben und optimiert für das [Schwule Museum Berlin](https://www.schwulesmuseum.de/). |
-| Beecollect            | XML         | Nein      | Für die Exportdaten aus Solvatecs [Beecollect](http://www.solvatec.com/index.php?id=21). Beecollect-Parser müssen erfahrungsgemäß für jedes importierende Museum stark angepasst werden. |
+| Beecollect (2019)     | XML         | Nein      | Für die Exportdaten aus Solvatecs [Beecollect](http://www.solvatec.com/index.php?id=21). Beecollect-Parser müssen erfahrungsgemäß für jedes importierende Museum stark angepasst werden. |
+| Beecollect (2022)     | XML         | Teilweise | Ein Parser für Becollect-Exporte der sächsischen Industriemuseen, die ein sehr anderes Format als die vorherigen haben. Ansonsten: siehe oben. |
 | csvxml                | XML         | Ja        | Der Referenz-Parser für das [Standard-Importformat](./CSVXML.md) von museum-digital. |
 | csvxml_json           | JSON        | Ja        | Eine JSON-basierte Variante des CSVXML-Formats. |
 | First Rumos           | XML         | Ja        | [First Rumos](https://www.firstrumos.de) hat einen Eingaben Export-Schalter für museum-digital. Dieser Parser importiert die so exportierten Daten. |
