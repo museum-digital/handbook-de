@@ -143,6 +143,7 @@
 - [Kommentarfunktion](./tools_functions/kommentare.md)
 -----------
 
+[API-basierte Anwendungen](./misc/API-basierte-Anwendungen.md)
 [Dependencies](./misc/Dependencies.md)
 [Förderung](./misc/Förderung.md)
 [Icons](./misc/Icons.md)
