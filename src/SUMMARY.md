@@ -109,6 +109,7 @@
   - [Kontaktverwaltung]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
+    - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Statements]() <!-- (./musdb/Besuchermanagement/README.md) -->
 

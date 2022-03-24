@@ -15,7 +15,7 @@ Beschäftigt ein Museum einen Fotografen, von dem die meisten der hochzuladenden
 
 ![Einstellungen (Museum): Fallweise ändern](../../assets/musdb/museum/Bildrechte_aendern.jpg)
 
-Der letzte Punkt dieser Option "Fallweise ändern (Nur heraufgeladene Abbildungen)" führt bei Anklicken zu einer Übersicht der für die heraufgeladenen Abbildungen vorkommenden Rechteangaben. Jede einzelne
+Der letzte Punkt dieser Option "[Fallweise ändern (Nur heraufgeladene Abbildungen)](../Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)" führt bei Anklicken zu einer Übersicht der für die heraufgeladenen Abbildungen vorkommenden Rechteangaben. Jede einzelne
 Kombination aus Rechteinhaber, Rechtestatus und Fotograf/Schöpfer läßt sich an dieser Stelle ändern. Vorgenommene Änderungen betreffen dann alle Abbildungen (und Ressourcen), für welche die entsprechende
 Kombination zutraf. Auf diese Weise ist es leicht möglich, bei z.B. einem Namenswechsel des Museums auch zu allen Abbildungen einen neuen Rechteinhaber-Namen einzutragen oder bei einer Änderung der Grundsätze
 im Museum selbst, für alle Abbildungen den Rechtestatus zu ändern.
