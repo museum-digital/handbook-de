@@ -6,6 +6,10 @@
 
 Das kann mehrere Dinge bedeuten:
 
-- Das Objekt erscheint nicht in der bundesweiten / globalen Instanz:
+- _Das Objekt erscheint nicht in der bundesweiten / globalen Instanz_:
   Objekte werden in einer regionalen Instanz von museum-digital bearbeitet und veröffentlicht (also z.B. Sachsen-Anhalt). Dort sollten Sie sofort findbar sein. Die Synchronisierung in die bundesweite und globale Instanz geschieht entweder, wenn die Resourcenauslastung auf dem Server gerade sehr gering ist, oder am Abend. Wenn die Objekte also nicht sofort mit dem Veröffentlichen auch in der "übergeordneten" Instanz erscheinen, dann ist das aufgrund des Synchronisierungskonzeptes ganz normal.
-- 
+- _Das Objekt erscheint nicht auf der ersten Trefferseite unter "Objekte anzeigen":_
+  Die primäre Übersichtsseite für Objekte wird in regionalen Instanzen für 30 Minuten zwischengespeichert (in aggregierten Instanzen - also z.B. der Globalen - vier Stunden. In diesem Fall hilft ein bisschen Warten.
+  Ist das Objekt schon länger in [musdb erfasst](../musdb/Objekte/), dann erscheint es wahrscheinlich deshalb nicht auf der ersten Seite. Solange keine textbasierte Suche vorgenommen wurde (die Objekte also, nicht nach Titel, Art, oder mit einer Volltextsuche gesucht werden), ist die Trefferliste standardmäßig nach der ID der Objekte - und damit nach dem Datum der initialen Erfassung in musdb - sortiert.
+
+Das Objekt sollte sich auf jeden Fall mit einer gezielten Suche nach dem Objekt finden lassen.
