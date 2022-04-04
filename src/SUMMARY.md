@@ -39,6 +39,7 @@
   - [Gestaltungskonzepte](./Ausgabe/UI/README.md)
     - [Sprachsteuerung](./Ausgabe/UI/Sprachsteuerung.md)
     - [Tastensteuerung](./Ausgabe/UI/Tastensteuerung.md)
+  - [FAQ](./Ausgabe/FAQ.md)
 
 # musdb
 
