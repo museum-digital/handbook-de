@@ -145,6 +145,7 @@
 - [Kommentarfunktion](./tools_functions/kommentare.md)
 -----------
 
+[FAQ](./misc/FAQ.md)
 [API-basierte Anwendungen](./misc/API-basierte-Anwendungen.md)
 [Dependencies](./misc/Dependencies.md)
 [Förderung](./misc/Förderung.md)
