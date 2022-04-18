@@ -113,6 +113,8 @@
     - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Statements]() <!-- (./musdb/Besuchermanagement/README.md) -->
+  - [Weiteres]() <!-- (./musdb/Besuchermanagement/README.md) -->
+    - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
 
 # Themator: Storytelling
 
