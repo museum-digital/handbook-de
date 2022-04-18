@@ -17,3 +17,7 @@ cargo install mdbook-linkcheck
 ### Ausgabe generieren
 
 Das Handbuch kann im folgenden mit dem Befehl `mdbook build` generiert werden.
+
+### Lizenz
+
+Alle Beiträge im Handbuch sind unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/) lizensiert.
