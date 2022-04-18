@@ -97,7 +97,7 @@
       - [Abfragesprache](./musdb/Objektsuche/Abfragesprache.md)
     - [Merkliste](./musdb/Objektsuche/Merkliste.md)
     - [Stapelbearbeitung](./musdb/Objektsuche/Batch/README.md)
-      - [Zuordnung per Auswahl]() <!-- (./musdb/Objektsuche/Batch/Zuordnung-per-Auswahl.md)-->
+      - [Zuordnung per Auswahl](./musdb/Objektsuche/Batch/Zuordnung-per-Auswahl.md)
       - [Globales Ändern](./musdb/Objektsuche/Batch/Globales-Aendern.md)
       - [Treffer zuordnen]() <!-- (./musdb/Objektsuche/Batch/Treffer-zuordnen.md) -->
     - [Objektdaten exportieren](./musdb/Objektsuche/Export.md)
