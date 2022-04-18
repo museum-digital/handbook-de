@@ -93,6 +93,7 @@
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
+      - [Suchabfragen speichern]() <!-- (./musdb/Objektsuche/Suchabfragen-speichern.md) -->
       - [Abfragesprache](./musdb/Objektsuche/Abfragesprache.md)
     - [Merkliste](./musdb/Objektsuche/Merkliste.md)
     - [Stapelbearbeitung](./musdb/Objektsuche/Batch/README.md)
@@ -103,8 +104,10 @@
     - [Listendruck / Treffer auflisten](./musdb/Objektsuche/Listendruck.md)
   - [Ausstellungen]() <!-- (./musdb/Ausstellungen/README.md) -->
   - [Veranstaltungen / Termine]() <!-- (./musdb/Veranstaltungen/README.md) -->
-  - [Objektgruppen]() <!-- (./musdb/Veranstaltungen/README.md) -->
-    - [HTML-Katalog]() <!-- (./musdb/Veranstaltungen/README.md) -->
+  - [Objektgruppen](./musdb/Objektgruppen/README.md)
+    - [Objektgruppen-Übersicht]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
+    - [Objektgruppen bearbeiten]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
+    - [HTML-Katalog]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Leihverkehre]() <!-- (./musdb/Ausstellungen/README.md) -->
   - [Kontaktverwaltung]() <!-- (./musdb/Veranstaltungen/README.md) -->
@@ -115,6 +118,8 @@
     - [Statements]() <!-- (./musdb/Besuchermanagement/README.md) -->
   - [Weiteres]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
+    - [Link-Validitätscheck]() <!-- (./musdb/Besuchermanagement/README.md) -->
+    - [Kommentarfunktion und Moderation]() <!-- (./musdb/Besuchermanagement/README.md) -->
 
 # Themator: Storytelling
 
