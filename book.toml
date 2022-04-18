@@ -10,12 +10,25 @@ description = "Deutschsprachiges Hanbuch zu museum-digital"
 
 [preprocessor.links]
 
+[output.html]
+git-repository-url = "https://github.com/museum-digital/handbook-de"
+edit-url-template = "https://github.com/museum-digital/handbook-de/tree/master/{path}"
+
 [output.html.print]
 enable = true
 
 [output.html.fold]
 enable = false
 level = 0
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
 
 [output.linkcheck]
 # Should we check links on the internet? Enabling this option adds a
