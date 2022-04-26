@@ -1,5 +1,7 @@
 # Deutschsprachiges Handbuch für museum-digital
 
+Dieses Handbuch ist unter [https://de.handbook.museum-digital.info/](https://de.handbook.museum-digital.info/) zu finden.
+
 ## Rendering
 
 ### Umgebung aufsetzen
