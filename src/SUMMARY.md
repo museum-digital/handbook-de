@@ -74,7 +74,7 @@
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
-      - [Registerkarte "Abbildung"](./musdb/Objekte/Registerkarten-Standard/Abbildung.md)
+      - [Registerkarte "Ansicht"](./musdb/Objekte/Registerkarten-Standard/Ansicht.md)
       - [Registerkarte "Transkription"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Transkription.md) -->
         - [TEI-Editor für Transkriptionen]() <!-- (./musdb/Objekte/Registerkarten-Standard/Transkription.md) -->
       - [Registerkarte "Zusatz"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Zusatz.md) -->
