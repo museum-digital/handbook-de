@@ -120,6 +120,7 @@
     - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Link-Validitätscheck]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Kommentarfunktion und Moderation]() <!-- (./musdb/Besuchermanagement/README.md) -->
+  - [FAQ](./musdb/FAQ.md)
 
 # Themator: Storytelling
 
