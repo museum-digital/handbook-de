@@ -15,7 +15,7 @@ Für jedes Objekt kann eine beliebige Anzahl von Ressourcen heraufgeladen oder v
 Im oberen Teil werden die Voraussetzungen aufgelistet, dann folgen Angaben, die zumeist schon vorausgefüllt sind und für die gerade heraufzuladenden Abbildungen angepasst werden können. Die an dieser Stelle stehenden Vorgaben:
 
 - Name der Abbildung: Es wird der Name des Objektes vorgeschlagen
-- Fotograf, Rechteinhaber, Rechtestatus: Diese drei Einträge werden von der Seite ["Einstellungen für das Museum" (4.4.3)](../musdb/Museum/Einstellungen.md), auf der museumsweite Vorgaben gemacht werden können, übernommen.
+- Fotograf, Rechteinhaber, Rechtestatus: Diese drei Einträge werden von der Seite ["Einstellungen für das Museum" (4.4.3)](../../Museum/Einstellungen.md), auf der museumsweite Vorgaben gemacht werden können, übernommen.
 
 Sind die Angaben im Dialogfenster zutreffend, dann können bis zu 20 Dateien ausgewählt werden, die gleichzeitig heraufgeladen werden. Die Datenmenge darf dabei höchstens 20 Megabyte betragen.
 
