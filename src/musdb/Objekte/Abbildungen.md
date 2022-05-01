@@ -113,6 +113,8 @@ bei museum-digital gespeicherten Derivate einschließlich der
 Bildinformationen) herunterzuladen oder (7) - mit einem Werkzeug  - eine
 gestaltete Kopie der Abbildung derselben zu erhalten.
 
+Mehr dazu unter "Ein Objekt bearbeiten" -> "Standard-Registerkarten" -> ["Registerkarte Ansicht" (4.6.2.2)](../../musdb/Objekte/Registerkarten-Standard/Ansicht.md)
+
 ![](../../assets/musdb/objects-edit/einzelabbildung.JPG)
 
 ###  Abbildungen umgestalten

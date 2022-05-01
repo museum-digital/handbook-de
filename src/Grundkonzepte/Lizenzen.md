@@ -1,8 +1,7 @@
 Rechtsformen bei museum-digital
 ===============================
 
-[Das
-Internet](https://www.heise.de/tp/features/Unabhaengigkeitserklaerung-des-Cyberspace-3410887.html)
+[Das Internet](https://www.heise.de/tp/features/Unabhaengigkeitserklaerung-des-Cyberspace-3410887.html)
 ist kein lizenzfreier Raum. Selbst wer stets alles Allen zur Verfügung
 stellen will, muß das Recht haben, solches zu tun. Um den Export von
 Museums-Objekt-Daten an Portale zu vereinfachen, wurde die Zahl der bei
