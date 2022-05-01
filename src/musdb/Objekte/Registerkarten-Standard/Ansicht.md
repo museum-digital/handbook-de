@@ -23,7 +23,7 @@ Wurden mehr als eine Abbildung heraufgeladen, so erscheint direkt nach dem Herau
 
 ## Ressourcen verwalten
 
-Sind Abbildungen auf der Registerkarte vorhanden, dann gibt es eine ganze Reihe von Optionen.
+Sind Abbildungen oder Ressourcen auf der Registerkarte vorhanden, dann gibt es eine ganze Reihe von Optionen. Welche es konkret gibt, das hängt von der Art der Ressourcen ab. Ein weiterer Zugang zur Verwaltung von (ausschließlich) Abbildungen läßt sich erreichen, indem man sich den Menupunkt "Abbildungen" freischaltet. (Siehe hier)
 
 ![Registerkarte mit Abbildungen und Schaltern](../../../assets/musdb/image_administration.jpg)
 
