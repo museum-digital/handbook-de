@@ -136,7 +136,7 @@
 
 # nodac: Normdatenverwaltung
 
-- [nodac](./nodac/README.md)
+- [nodac](./nodac/nodac.md)
   - [nodac:Navigation](./nodac/navigation.md)
   - [Akteure](./nodac/actors.md)
   - [Orte](./nodac/places.md)
