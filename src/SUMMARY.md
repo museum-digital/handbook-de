@@ -137,7 +137,7 @@
 # nodac: Normdatenverwaltung
 
 - [nodac](./nodac/README.md)
-  - [Benutzeroberfläche](./nodac/Benutzeroberflaeche.md)
+  - [nodac:Navigation](./nodac/navigation.md)
 
 # Datenimporte
 

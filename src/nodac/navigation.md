@@ -1,0 +1,32 @@
+# nodac: Navigation
+
+Nach der Anmeldung bei nodac erscheint die vokabularübergreifende Navigation am oberen Rand des Bildschirmfensters.
+
+![Navigation von nodac](../assets/nodac/nodac_headline.jpg)
+
+Oben links erscheint mit "nodac hoch 2" der Home-Button, der auf die Startseite zurückführt. Am rechten Rand erscheinen mehrere schwarz unterlegte Buttons.
+
+![Nutzer von nodac](../assets/nodac/nodac_icon_user.jpg) Dieses Icon führt zur Nutzerverwaltung. Es erscheint nur bei jenen Angemeldeten, die über die entsprechenden Berechtigungen verfügen.
+
+![Sprache von nodac](../assets/nodac/nodac_icon_language.jpg) Mittels dieses Icons lässt sich die Sprache des Werkzeugs einstellen. Aktuell implementiert sind Deutsch, Englisch, Indonesisch und Ungarisch.
+
+![Involvement-Types von nodac](../assets/nodac/nodac_icon_involvement.jpg) Button für die Steuerung von Involvement-Types in Statements. Arbeitet zusammen mit der Tabelle sources. Sonderfunktion. Wird in Statements benutzt um Arten von Beziehungen zwischen Entitäten festzulegen. Auch dieser Schalter erscheint nur bei Nutzern mit entsprechenden Berechtigungen.
+
+![Verlauf von nodac](../assets/nodac/nodac_icon_history.jpg) Ein Klicken auf diesen Schalter führt zu einem Overlay auf welchem die zuletzt angewählten Begriffe aus den vier museum-digital Vokabularien als Links aufgelistet werden. Dient dem schnellen Wiederfinden oder Zurücknavigieren.
+
+![Statistik von nodac (Icon)](../assets/nodac/nodac_icon_statistics1.jpg) Über das Statistik-Icon ist eine Seite erreichbar, die anzeigt, wer an welchem Tag in welchem Vokabular wieviele Änderungen vorgenommen hat.
+![Statistik von nodac](../assets/nodac/nodac_icon_statistics.jpg)
+Die einzelnen Zeilen sind als Links gestaltet. Es ist auf diese Weise sehr leicht möglich, die (beispielsweise) 27 Schlagworte, die ein Normdatenredakteur vor (beispielsweise) zwei Tagen bearbeitet hat, zu erreichen.
+
+![Cache von nodac](../assets/nodac/nodac_icon_cache.jpg) Bisweilen kann es nötig sein, zwischengespeicherte Daten zu löschen. Nodac verfügt über einen eigenen Cache, der sich durch Klick auf diesen Button löschen lässt.
+
+![Close von nodac](../assets/nodac/nodac_icon_exit.jpg) Um das nodac-Werkzeug zu verlassen ist die Betätigung dieses Schalters empfohlen. Das Programm wird geschlossen und der Cache gelöscht.
+
+Unterhalb der Navigationsleiste kann das zu bearbeitende Vokabular ausgewählt werden. Zur Verfügung stehen:
+
+- actors_md für Personen, Institutionen und andere Körperschaften
+- places_md für Geographica und Gebäude
+- tags_md für Schlagworte
+- tempi_md für Zeiträume und -punkte
+
+Ein Klick auf den Namen öffnet das jeweile Vokabular. Hinter dem Namen findet sich ein Listensymbol. Ein Anklicken dieses Symbols führt zur letzten durchgeführten Suche im davor genannten Vokabular. Über das Pluszeichen hinter dem Namen eines Vokabulars lassen sich neue Einträge in dasselbe vornehmen.
