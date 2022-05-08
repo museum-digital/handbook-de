@@ -115,7 +115,7 @@
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
     - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
-    - [Statements]() <!-- (./musdb/background/statements.md) -->
+    - [Statements](./musdb/background/statements.md)
   - [Weiteres]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Link-Validitätscheck]() <!-- (./musdb/Besuchermanagement/README.md) -->
@@ -136,7 +136,7 @@
 
 # nodac: Normdatenverwaltung
 
-- [nodac](./nodac/nodac.md)
+- [nodac](./nodac/README.md)
   - [nodac:Navigation](./nodac/navigation.md)
   - [Akteure](./nodac/actors.md)
   - [Orte](./nodac/places.md)
