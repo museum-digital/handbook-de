@@ -115,7 +115,7 @@
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
     - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
-    - [Statements]() <!-- (./musdb/Besuchermanagement/README.md) -->
+    - [Statements]() <!-- (./musdb/background/statements.md) -->
   - [Weiteres]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Link-Validitätscheck]() <!-- (./musdb/Besuchermanagement/README.md) -->
@@ -141,7 +141,7 @@
 
 # Datenimporte
 
-- [Importe: Einleitung](./import/README.md)
+- [Importe: Einleitung](./import/nodac.md)
   - [Der Import-Prozess](./import/importprozess.md)
   - [Liste der importierbaren Formate](./import/liste-der-importformate.md)
   - [CSVXML](./import/CSVXML.md)
