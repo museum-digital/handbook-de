@@ -72,7 +72,7 @@ Der Link-Checker zeigt auf dem Dashboard den Stand der Überprüfung an. Durch K
 
 ### Neueste Kommentare
 
-Die Sektion Kommentare auf dem Dashboard arbeitet eng zusammen mit der generellen Kommentarfunktion bei museum-digital. Auf dem Dashboard erfolgt dabei die Steuerung der Anzeige von Nutzerkommentaren. Die Kommentarfunktion wird in einem [eigenen Abschnitt](../../tools_functions/kommentare.md) erläutert. Sie ist standardmäßig deaktiviert.
+Die Sektion Kommentare auf dem Dashboard arbeitet eng zusammen mit der generellen Kommentarfunktion bei museum-digital. Auf dem Dashboard erfolgt dabei die Steuerung der Anzeige von Nutzerkommentaren. Die Kommentarfunktion ist standardmäßig deaktiviert.
 
 ### Listen
 
