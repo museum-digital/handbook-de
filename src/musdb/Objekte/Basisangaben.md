@@ -1,6 +1,6 @@
 # Objekt-Basisangaben
 
-Sobald die Grundinformationen zu einem Objekt erfasst sin, gelangen Sie
+Sobald die Grundinformationen zu einem Objekt erfasst sind, gelangen Sie
 automatisch in den Objektbearbeitungsmodus. Um der Fülle von möglichen
 weiteren Informationen über das Objekt etwas Struktur zu geben, sind
 einzelne Informationen auf Registerkarten zusammengefasst. Diese
@@ -24,7 +24,7 @@ vorhanden sein können (Ein Omnibus hat keine \"Transkription\" -
 Fahrzeugmuseen werden die entsprechende Registerkarte wahrscheinlich
 nicht aktivieren).
 
-![](../../assets/musdb/objects-edit/registerkartenleiste.jpg)
+![Screenshot der Registerkarten-Leiste der Objektbearbeitungs-Seite](../../assets/musdb/objects-edit/registerkartenleiste.jpg)
 
 Alle Registerkarten (\"Reiter\") erscheinen im Objektbearbeitungsfenster
 unterhalb der Steuerelemente (links) und der Objekt-Grundinformationen
