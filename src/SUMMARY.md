@@ -91,6 +91,7 @@
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
     - [Benutzerdefinierte Bearbeitungsoberfläche]()
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
+    - [Angaben wiederholen / Eingabehilfen](./musdb/Objekte/Angaben-wiederholen.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
       - [Suchabfragen speichern]() <!-- (./musdb/Objektsuche/Suchabfragen-speichern.md) -->
