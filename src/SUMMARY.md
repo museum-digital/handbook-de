@@ -18,7 +18,7 @@
 
 # Ausgabe
 
-- [Ausgabe]() <!-- (./Ausgabe/README.md) -->
+- [Ausgabe](./Ausgabe/README.md)
   - [Seiten]() <!-- (./Ausgabe/README.md) -->
     - [Museen]() <!-- (./Ausgabe/Suche.md) -->
     - [Sammlungen]() <!-- (./Ausgabe/Suche.md) -->
