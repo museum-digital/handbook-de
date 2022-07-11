@@ -154,6 +154,7 @@
   - [Technischer Aufbau](./import/Aufbau.md)
   - [Automatische Bereinigung der Daten](./import/Automatische-Bereinigung.md)
   - [Importe selbst durchführen](./import/importe-selbst-durchfuehren.md)
+  - [FAQ](./import/FAQ.md)
 
 -----------
 
