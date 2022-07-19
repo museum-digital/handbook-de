@@ -55,7 +55,7 @@
     - [Persönliche Einstellungen](./musdb/Benutzerkonto/Einstellungen.md)
     - [Navigationsleiste](./musdb/UI/Navigationsleiste.md)
     - [Übersichts-Suche](./musdb/UI/overall_search.md)
-    - [Toolbar]()
+    - [Toolbar](./musdb/UI/toolbar.md)
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
   - [Dashboard](./musdb/Dashboard/README.md)
   - [Museumsinformationen](./musdb/Museum/museumsinfo.md)
