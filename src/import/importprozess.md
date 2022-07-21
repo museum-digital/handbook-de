@@ -2,11 +2,9 @@
 
 Um die Stabilität der Server von museum-digital sicherzustellen, werden strenge Beschränkungen auf die maximale Ausführungsdauer von einzelnen Scripten angewendet: Rufen Benutzer über das Netz ein langsames Script auf, wird die Berechnung nach spätestens 10 Sekunden abgebrochen, sodass die "teuren" Berechnungen dieses einen Scripts die verfügbaren Ressourcen für andere Scripte und andere Benutzer nicht weiter schmälern können.
 
-Normalerweise ist das ein wichtiges Sicherheitsfeature. Beim Importieren führt es dazu, dass Importe nur von der Kommandozeile aus durchgeführt werden können[^fn-web-imports]. Das heißt auch, dass Importe auf dem Server letztlich vom Admin-Team von museum-digital durchgeführt werden.
+Normalerweise ist das ein wichtiges Sicherheitsfeature. Beim Importieren führt es aber dazu, dass Importe nur von der Kommandozeile aus durchgeführt werden können. Das heißt auch, dass Importe auf dem Server letztlich vom Admin-Team von museum-digital durchgeführt werden, zumindest in den meisten Fällen. Ein Weg für vom Nutzer selbstständig definierte Importe ist mittlerweile implementiert und in einem [eigenen Kapitel](./importe-selbst-durchfuehren.md) beschrieben. Ohne technische Vorkenntnisse ist aber der "traditionelle" Weg über das Kontaktieren des Admin-Teams weiterhin der übliche.
 
-[^fn-web-imports]:Sehr kleine Importe oder Importe ohne verknüpfte Bilddateien könnten theoretisch auch über das Web getätigt werden, aber bisher ist das nicht implementiert.
-
-Damit das Admin-Team nicht vollends überlastet ist, hat sich ein mehrstufiger Prozess etabliert.
+Damit das Admin-Team nicht vollends überlastet ist, hat sich dabei ein mehrstufiger Prozess etabliert.
 
 Bevor ein Import möglich ist, muss sichergestellt werden, dass das Museum in einer Instanz von museum-digital angelegt ist. [Hierzu benötigt es eine Mail an die jeweiligen Betreuer der lokalen Regional-Instanz von museum-digital und grundlegende Informationen zum Museum: Ein Name, eine Adresse, eine Kurzbeschreibung und ein Bild.](../musdb/Benutzerkonto/Zugang-erhalten.md)
 
