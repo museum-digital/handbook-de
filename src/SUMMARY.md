@@ -29,7 +29,7 @@
   - [Suchfunktionen]() <!-- (./Ausgabe/README.md) -->
     - [Objekte suchen](./Ausgabe/Suche.md)
       - [Suchschlitz eingrenzen]() <!-- (./Ausgabe/Suche.md) -->
-      - [Objekte auf Karte]() <!-- (./Ausgabe/Suche.md) -->
+      - [Objekte auf Karte](./Ausgabe/Suche/Objekte-auf-Karte.md)
       - [Objekt-Zeitleiste]() <!-- (./Ausgabe/Suche.md) -->
       - [Suchergebnisse nach Museen]() <!-- (./Ausgabe/Suche.md) -->
     - [Bilder suchen]() <!-- (./Ausgabe/Suche.md) -->
