@@ -59,7 +59,7 @@ Themator
 | TinyMCE    | v4.7.1                       | [Website](https://www.tiny.cloud/) |
 
 museum-digital.org (Projekt-Website)
-
+------------------------------------
 
 | Bibliothek | Aktuell eingebundene Version | Link zum Projekt                    |
 |------------|------------------------------|-------------------------------------|
