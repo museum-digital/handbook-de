@@ -85,7 +85,7 @@
       - [Registerkarte "Datensatz"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Datensatzgeschichte.md) -->
     - [Zusätzliche Registerkarten]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/README.md) -->
       - [Registerkarte "Ausstellung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Ausstellung.md) -->
-      - [Registerkarte "Leihverkehr"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Leihverkehr.md) -->
+      - [Registerkarte "Leihverkehr"](./musdb/Objekte/Registerkarten-Zusatz/Leihverkehr.md)
       - [Registerkarte "Rezeption"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Rezeption.md) -->
       - [Registerkarte "Konservierung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md) -->
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
@@ -110,7 +110,7 @@
     - [Objektgruppen bearbeiten]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
     - [HTML-Katalog]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
-  - [Leihverkehre]() <!-- (./musdb/Ausstellungen/README.md) -->
+  - [Leihverkehre](./musdb/Leihverkehr/README.md) -->
   - [Kontaktverwaltung]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
