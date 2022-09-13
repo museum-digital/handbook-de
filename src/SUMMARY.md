@@ -32,7 +32,7 @@
       - [Objekte auf Karte](./Ausgabe/Suche/Objekte-auf-Karte.md)
       - [Objekt-Zeitleiste]() <!-- (./Ausgabe/Suche.md) -->
       - [Suchergebnisse nach Museen]() <!-- (./Ausgabe/Suche.md) -->
-    - [Bilder suchen]() <!-- (./Ausgabe/Suche.md) -->
+    - [Bilder suchen](./Ausgabe/Suche/Bildersuche.md)
   - [API](./Ausgabe/API/README.md)
     - [Einbindung in Museum-Webseiten]() <!-- (./Ausgabe/API/README.md)-->
   - [RSS-Feeds](./Ausgabe/rss.md)
