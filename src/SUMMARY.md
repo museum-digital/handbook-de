@@ -79,7 +79,7 @@
         - [TEI-Editor für Transkriptionen]() <!-- (./musdb/Objekte/Registerkarten-Standard/Transkription.md) -->
       - [Registerkarte "Zusatz"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Zusatz.md) -->
       - [Registerkarte "Verwaltung"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Verwaltung.md) -->
-      - [Registerkarte "Verbleib"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Verbleib.md) -->
+      - [Registerkarte "Verbleib"](./musdb/Objekte/Registerkarten-Standard/Verbleib.md)
       - [Registerkarte "Rechte"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Rechte.md) -->
       - [Registerkarte "Notizen"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Notizen.md) -->
       - [Registerkarte "Datensatz"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Datensatzgeschichte.md) -->
