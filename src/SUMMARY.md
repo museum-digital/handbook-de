@@ -71,6 +71,7 @@
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
   - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
+    - [Ein Neues Objekt anlegen](./musdb/Objekte/Neues-Objekt.md)
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
