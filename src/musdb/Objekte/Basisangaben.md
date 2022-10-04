@@ -45,3 +45,12 @@ Objektverwaltung, die nicht veröffentlicht werden können. Die
 Registerkarte \"Datensatz\" informiert darüber, wer wann was erfasst
 oder geändert hat - auch diese Registerkarte dient nur der internen
 Information.
+
+Mehrsprachige Basisangaben
+--------------------------
+
+Übersetzungen der Objekt-Basisangaben können über einen Klick auf das
+Sprach-Symbol neben dem Abschicken-Button eingegeben werden. Mit dem
+Klick öffnet sich ein zusätzliches Menü mit Eingabefeldern für den
+Objektnamen, die Objekt-Beschreibung, etc.; mit einem zusätzlichen
+Eingabefeld für die Sprache der Übersetzung.
