@@ -3,6 +3,7 @@
 _Anmerkung: Dieser FAQ befasst sich mit übergeordneten Fragen zu museum-digital. Für die einzelnen Tools gibt es jeweils eigene FAQs (oder solche sind geplant, sobald entsprechende Fragen auftreten):_
 
 - [Ausgabe](../Ausgabe/FAQ.md)
+- [musdb](../musdb/FAQ.md)
 
 ## Wo stehen die Server von museum-digital?
 
