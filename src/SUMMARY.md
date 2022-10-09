@@ -113,6 +113,7 @@
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Leihverkehre](./musdb/Leihverkehr/README.md) -->
   - [Kontaktverwaltung]() <!-- (./musdb/Veranstaltungen/README.md) -->
+  - [Räume](./musdb/Spaces/README.md) -->
   - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
     - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
