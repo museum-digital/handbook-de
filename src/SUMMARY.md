@@ -160,6 +160,16 @@
 
 -----------
 
+# Administration
+
+- [GroupIt: Synchronisieren von Instanzen](./groupit/README.md)
+
+- [Administration]() <!-- (./administration/einrichtung-neuer-instanzen.md) -->
+  - [Einrichtung neuer Instanzen](./administration/einrichtung-neuer-instanzen.md)
+  - [Vorraussetungen für das Betreiben von Instanzen](./administration/instanzen-vorraussetzungen.md)
+
+-----------
+
 [FAQ](./misc/FAQ.md)
 [Weitere Anleitungen und Handreichungen](./misc/Weitere-Anleitungen.md)
 [API-basierte Anwendungen](./misc/API-basierte-Anwendungen.md)
