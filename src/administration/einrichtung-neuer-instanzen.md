@@ -10,6 +10,9 @@
 - Einrichten der Instanz (`git clone`)
   - Konfiguration schreiben
   - Git Submodules initialisieren und synchronisieren
+- Neu-Generieren von Stored Procedures
+- Generieren des Objekt-Suchindexes in musdb und der Ausgabe
+- Zusätzliche Libraries via `composer` installieren
 
 ## Zusätzliche Schritte
 
