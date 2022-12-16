@@ -90,7 +90,7 @@
       - [Registerkarte "Rezeption"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Rezeption.md) -->
       - [Registerkarte "Konservierung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md) -->
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
-    - [Benutzerdefinierte Bearbeitungsoberfläche]()
+    - [Benutzerdefinierte Bearbeitungsoberfläche](./musdb/Objekte/Benutzerdefinierte-Ansicht.md)
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
     - [Angaben wiederholen / Eingabehilfen](./musdb/Objekte/Angaben-wiederholen.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
@@ -167,6 +167,11 @@
 - [Administration]() <!-- (./administration/einrichtung-neuer-instanzen.md) -->
   - [Einrichtung neuer Instanzen](./administration/einrichtung-neuer-instanzen.md)
   - [Vorraussetungen für das Betreiben von Instanzen](./administration/instanzen-vorraussetzungen.md)
+
+- [museum-digital übersetzen](./uebersetzung/README.md)
+  - [Das Übersetzungstool](./uebersetzung/uebersetzungstool.md)
+  - [Übersetzungen administrieren](./uebersetzung/administration.md)
+  - [FAQ](./uebersetzung/FAQ.md)
 
 -----------
 
