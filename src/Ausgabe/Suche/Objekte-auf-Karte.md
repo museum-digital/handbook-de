@@ -2,7 +2,7 @@
 
 Die "Objekte auf Karte"-Funktion zeigt die Orte von bis zu 10000 Objekte auf einer Karte. Die Karte zeigt dabei immer die Ergebnisse einer Objekt-Suche.
 
-![](../../assets/frontend/search/oak/Screenshot-Oak-zeigen.jpg)
+![Screenshot der "Objekte auf Karte"-Funktion](../../assets/frontend/search/oak/Screenshot-Oak-zeigen.jpg)
 
 ## Features
 
