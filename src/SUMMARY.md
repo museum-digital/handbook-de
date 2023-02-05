@@ -33,8 +33,6 @@
       - [Abbildungen des Objektes (_WIP_)](./Ausgabe/Objekt/Einzelbild.md)
       - [IIIF-Unterstützung (_WIP_)](./Ausgabe/Objekt/IIIF.md)
   - [Seiten]() <!-- (./Ausgabe/README.md) -->
-    - [Sammlungen]() <!-- (./Ausgabe/Suche.md) -->
-    - [Objekte]() <!-- (./Ausgabe/Suche.md) -->
     - [Veranstaltungen]() <!-- (./Ausgabe/Suche.md) -->
     - [Personen, Schlagworte und Quellenangaben]() <!-- (./Ausgabe/Suche.md) -->
   - [Suchfunktionen]() <!-- (./Ausgabe/README.md) -->
