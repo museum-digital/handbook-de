@@ -82,7 +82,7 @@
     - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md)
     - [Panorama-Tour durchs Museum](./musdb/Tour/README.md)
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
-    - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
+    - [Sammlungs-Hierarchie](./musdb/Sammlungen/collection_hierarchy.md)
   - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
     - [Ein neues Objekt anlegen](./musdb/Objekte/Neues-Objekt.md)
     - [Objekt-Basisangaben](./musdb/Objekte/Basisangaben.md)
