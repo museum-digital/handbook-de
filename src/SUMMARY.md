@@ -22,6 +22,9 @@
   - [Museum]() <!-- (./Ausgabe/README.md) -->
     - [Museumsübersicht](./Ausgabe/Museum/Uebersicht.md)
     - [Einzelansicht](./Ausgabe/Museum/Einzelnes-Museum.md)
+  - [Sammlung]() <!-- (./Ausgabe/README.md) -->
+    - [Übersicht der Sammlungen(_WIP_)](./Ausgabe/Sammlung/Uebersicht.md)
+    - [Einzelansicht (_WIP_)](./Ausgabe/Sammlung/Einzelne-Sammlung.md)
   - [Ausstellungen]() <!-- (./Ausgabe/README.md) -->
     - [Ausstellungsübersicht (_WIP_)](./Ausgabe/Ausstellungen/Uebersicht.md)
     - [Einzelansicht (_WIP_)](./Ausgabe/Ausstellungen/Einzelne-Ausstellung.md)
