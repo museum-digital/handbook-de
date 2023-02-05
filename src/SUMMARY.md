@@ -75,7 +75,7 @@
     - [Allgemeine Museumsinformation](./musdb/Museum/museumsinfo_allgemein.md)
     - [Zusätzliche Museumsinformation](./musdb/Museum/museumsinfo_additional.md)
       - [Detailinformationen](./musdb/Museum/museumsinfo_detailed.md)
-      - [Öffnungszeiten eintragen]()
+      - [Öffnungszeiten eintragen](./musdb/Museum/museumsinfo_openinghours.md)
       - [Ticket-Typen verwalten]()
       - [FAQ des Museums]()
       - [Reiter: Optionen]()
