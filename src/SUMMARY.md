@@ -92,19 +92,20 @@
     - [Standard-Registerkarten](./musdb/Objekte/Registerkarten-Standard/README.md)
       - [Registerkarte "Basis"](./musdb/Objekte/Registerkarten-Standard/Basis.md)
       - [Registerkarte "Ansicht"](./musdb/Objekte/Registerkarten-Standard/Ansicht.md)
-      - [Registerkarte "Transkription"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Transkription.md) -->
-        - [TEI-Editor für Transkriptionen]() <!-- (./musdb/Objekte/Registerkarten-Standard/Transkription.md) -->
-      - [Registerkarte "Zusatz"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Zusatz.md) -->
-      - [Registerkarte "Verwaltung"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Verwaltung.md) -->
+      - [Registerkarte "Zusatz"](./musdb/Objekte/Registerkarten-Standard/Zusatz.md)
+        - [Markierungen](./musdb/Objekte/Registerkarten-Standard/Markierungen.md)
+      - [Registerkarte "Verwaltung"](./musdb/Objekte/Registerkarten-Standard/Verwaltung.md)
       - [Registerkarte "Verbleib"](./musdb/Objekte/Registerkarten-Standard/Verbleib.md)
-      - [Registerkarte "Rechte"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Rechte.md) -->
-      - [Registerkarte "Notizen"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Notizen.md) -->
-      - [Registerkarte "Datensatz"]() <!-- (./musdb/Objekte/Registerkarten-Standard/Datensatzgeschichte.md) -->
+      - [Registerkarte "Rechte"](./musdb/Objekte/Registerkarten-Standard/Rechte.md)
+      - [Registerkarte "Notizen"](./musdb/Objekte/Registerkarten-Standard/Notizen.md)
+      - [Registerkarte "Datensatz"](./musdb/Objekte/Registerkarten-Standard/Datensatzgeschichte.md)
     - [Zusätzliche Registerkarten]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/README.md) -->
-      - [Registerkarte "Ausstellung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Ausstellung.md) -->
+      - [Registerkarte "Transkription"](./musdb/Objekte/Registerkarten-Zusatz/Transkription.md)
+        - [TEI-Editor für Transkriptionen]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Transkription.md) -->
+      - [Registerkarte "Rezeption"](./musdb/Objekte/Registerkarten-Zusatz/Rezeption.md)
+      - [Registerkarte "Ausstellung"](./musdb/Objekte/Registerkarten-Zusatz/Ausstellung.md)
       - [Registerkarte "Leihverkehr"](./musdb/Objekte/Registerkarten-Zusatz/Leihverkehr.md)
-      - [Registerkarte "Rezeption"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Rezeption.md) -->
-      - [Registerkarte "Konservierung"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md) -->
+      - [Registerkarte "Konservierung"](./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md)
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
     - [Benutzerdefinierte Bearbeitungsoberfläche](./musdb/Objekte/Benutzerdefinierte-Ansicht.md)
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
@@ -129,8 +130,8 @@
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Leihverkehre](./musdb/Leihverkehr/README.md) -->
   - [Kontaktverwaltung (_Stichworte_)](./musdb/Kontaktverwaltung/README.md)
-  - [Transporte]() <!-- (./musdb/Kontaktverwaltung/README.md) -->
-  - [Erwerbungen]() <!-- (./musdb/Kontaktverwaltung/README.md) -->
+  - [Transporte (Leer)](./musdb/Transporte/README.md)
+  - [Erwerbungen (Leer)](./musdb/Erwerbungen/README.md)
   - [Räume (_Stichworte_)](./musdb/Spaces/README.md)
   - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)

@@ -12,7 +12,7 @@ Ist der benutzerdefinierte Modus aktiviert wird zuerst eine leere Seite angezeig
 
 ![](../../assets/musdb/objects-edit/custom-object-page/Benutzerdefinierte-Ansicht.webp)
 
-Die jeweiligen Kacheln lassen sich durch drag-and-drop bewegen und über die entsprechenden Schalter unten rechts in der Kachel größer oder kleiner ziehen. Weitere Felder oder Feldgruppen lassen sich über den Menüpunkt "Feld hinzufügen" eintragen.
+Die jeweiligen Kacheln lassen sich durch Drag-and-Drop bewegen und über die entsprechenden Schalter unten rechts in der Kachel größer oder kleiner ziehen. Weitere Felder oder Feldgruppen lassen sich über den Menüpunkt "Feld hinzufügen" eintragen.
 
 ![](../../assets/musdb/objects-edit/custom-object-page/Benutzerdefinierte-Ansicht-Navigation-Export-Presets.webp)
 
