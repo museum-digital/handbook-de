@@ -7,7 +7,7 @@
   - Liste
   - Kalender
 - Exportoptionen
-  - RSS
+  - [RSS](../../misc/Formate/RSS.md)
   - [WebCal](../../misc/Formate/WebCal.md)
 
 ![Screenshot der Ausstellungsübersicht](../../assets/frontend/Ausstellungen/Ausstellungsuebersicht-Kacheln.avif)

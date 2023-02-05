@@ -28,6 +28,9 @@
   - [Ausstellungen]() <!-- (./Ausgabe/README.md) -->
     - [Ausstellungsübersicht (_WIP_)](./Ausgabe/Ausstellungen/Uebersicht.md)
     - [Einzelansicht (_WIP_)](./Ausgabe/Ausstellungen/Einzelne-Ausstellung.md)
+  - [Veranstaltungen / Termine]() <!-- (./Ausgabe/README.md) -->
+    - [Übersicht der Termine (_WIP_)](./Ausgabe/Veranstaltungen/Uebersicht.md)
+    - [Einzelansicht (_WIP_)](./Ausgabe/Veranstaltungen/Einzelne-Veranstaltung.md)
   - [Objektgruppen](./Ausgabe/Objektgruppe/README.md) -->
   - [Objekte]() <!-- (./Ausgabe/README.md) -->
     - [Einzelnes Objekt (_WIP_)](./Ausgabe/Objekt/Readme.md)
@@ -180,6 +183,7 @@
 
 - [Dateiformate und Protokolle](./misc/Formate/README.md)
   - [iCalendar](./misc/Formate/iCalendar.md)
+  - [RSS](./misc/Formate/RSS.md)
   - [WebCal](./misc/Formate/WebCal.md)
 
 -----------
