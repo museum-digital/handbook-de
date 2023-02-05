@@ -28,6 +28,7 @@
   - [Ausstellungen]() <!-- (./Ausgabe/README.md) -->
     - [Ausstellungsübersicht (_WIP_)](./Ausgabe/Ausstellungen/Uebersicht.md)
     - [Einzelansicht (_WIP_)](./Ausgabe/Ausstellungen/Einzelne-Ausstellung.md)
+  - [Objektgruppen](./Ausgabe/Objektgruppe/README.md) -->
   - [Objekte]() <!-- (./Ausgabe/README.md) -->
     - [Einzelnes Objekt (_WIP_)](./Ausgabe/Objekt/Readme.md)
       - [Abbildungen des Objektes (_WIP_)](./Ausgabe/Objekt/Einzelbild.md)
