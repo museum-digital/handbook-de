@@ -73,7 +73,7 @@
   - [Dashboard](./musdb/Dashboard/README.md)
   - [Museumsinformationen](./musdb/Museum/museumsinfo.md)
     - [Allgemeine Museumsinformation](./musdb/Museum/museumsinfo_allgemein.md)
-    - [Zusätzliche Museumsinformation]()
+    - [Zusätzliche Museumsinformation](./musdb/Museum/museumsinfo_additional.md)
       - [Detailinformationen]()
       - [Öffnungszeiten eintragen]()
       - [Ticket-Typen verwalten]()
