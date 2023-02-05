@@ -22,6 +22,9 @@
   - [Museum]() <!-- (./Ausgabe/README.md) -->
     - [Museumsübersicht](./Ausgabe/Museum/Uebersicht.md)
     - [Einzelansicht](./Ausgabe/Museum/Einzelnes-Museum.md)
+  - [Sammlung]() <!-- (./Ausgabe/README.md) -->
+    - [Übersicht der Sammlungen(_WIP_)](./Ausgabe/Sammlung/Uebersicht.md)
+    - [Einzelansicht (_WIP_)](./Ausgabe/Sammlung/Einzelne-Sammlung.md)
   - [Ausstellungen]() <!-- (./Ausgabe/README.md) -->
     - [Ausstellungsübersicht (_WIP_)](./Ausgabe/Ausstellungen/Uebersicht.md)
     - [Einzelansicht (_WIP_)](./Ausgabe/Ausstellungen/Einzelne-Ausstellung.md)
@@ -30,8 +33,6 @@
       - [Abbildungen des Objektes (_WIP_)](./Ausgabe/Objekt/Einzelbild.md)
       - [IIIF-Unterstützung (_WIP_)](./Ausgabe/Objekt/IIIF.md)
   - [Seiten]() <!-- (./Ausgabe/README.md) -->
-    - [Sammlungen]() <!-- (./Ausgabe/Suche.md) -->
-    - [Objekte]() <!-- (./Ausgabe/Suche.md) -->
     - [Veranstaltungen]() <!-- (./Ausgabe/Suche.md) -->
     - [Personen, Schlagworte und Quellenangaben]() <!-- (./Ausgabe/Suche.md) -->
   - [Suchfunktionen]() <!-- (./Ausgabe/README.md) -->
@@ -45,6 +46,8 @@
   - [API](./Ausgabe/API/README.md)
     - [Einbindung in Museum-Webseiten]() <!-- (./Ausgabe/API/README.md)-->
   - [RSS-Feeds](./Ausgabe/rss.md)
+  - [Weitere Funktionen]() <!-- (./Ausgabe/misc/Graphenansicht.md) -->
+    - ["Graphenansicht"](./Ausgabe/misc/Graphenansicht.md)
   - [Gestaltungskonzepte](./Ausgabe/UI/README.md)
     - [Sprachsteuerung](./Ausgabe/UI/Sprachsteuerung.md)
     - [Tastensteuerung](./Ausgabe/UI/Tastensteuerung.md)
