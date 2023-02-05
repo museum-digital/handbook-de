@@ -42,7 +42,7 @@ Möglichkeiten zu filtern.
 
 ### Filtermöglichkeiten
 
-![](../../assets/musdb/objects-edit/abbildungsverwaltung_menu.JPG)
+![](../../assets/musdb/objects-edit/abbildungsverwaltung_menu.avif)
 
  \"Farbe\"
 
