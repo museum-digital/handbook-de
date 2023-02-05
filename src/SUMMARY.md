@@ -76,7 +76,7 @@
       - [FAQ des Museums]()
       - [Reiter: Optionen]()
     - [Einstellungen für das Museum](./musdb/Museum/Einstellungen.md)
-    - [Panorama-Tour durchs Museum]() <!-- (./musdb/Veranstaltungen/README.md) -->
+    - [Panorama-Tour durchs Museum](./musdb/Tour/README.md)
   - [Sammlungsdaten](./musdb/Sammlungen/README.md)
     - [Sammlungs-Hierarchie]() <!-- (./musdb/Sammlungen/README.md) -->
   - [Ein Objekt bearbeiten](./musdb/Objekte/README.md)
