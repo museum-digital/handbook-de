@@ -25,6 +25,10 @@
   - [Ausstellungen]() <!-- (./Ausgabe/README.md) -->
     - [Ausstellungsübersicht (_WIP_)](./Ausgabe/Ausstellungen/Uebersicht.md)
     - [Einzelansicht (_WIP_)](./Ausgabe/Ausstellungen/Einzelne-Ausstellung.md)
+  - [Objekte]() <!-- (./Ausgabe/README.md) -->
+    - [Einzelnes Objekt (_WIP_)](./Ausgabe/Objekt/Readme.md)
+      - [Abbildungen des Objektes (_WIP_)](./Ausgabe/Objekt/Einzelbild.md)
+      - [IIIF-Unterstützung (_WIP_)](./Ausgabe/Objekt/IIIF.md)
   - [Seiten]() <!-- (./Ausgabe/README.md) -->
     - [Sammlungen]() <!-- (./Ausgabe/Suche.md) -->
     - [Objekte]() <!-- (./Ausgabe/Suche.md) -->
@@ -36,6 +40,7 @@
       - [Objekte auf Karte](./Ausgabe/Suche/Objekte-auf-Karte.md)
       - [Objekt-Zeitleiste]() <!-- (./Ausgabe/Suche.md) -->
       - [Suchergebnisse nach Museen]() <!-- (./Ausgabe/Suche.md) -->
+      - [Bilderwand](./Ausgabe/Suche/Bilderwand.md)
     - [Bilder suchen](./Ausgabe/Suche/Bildersuche.md)
   - [API](./Ausgabe/API/README.md)
     - [Einbindung in Museum-Webseiten]() <!-- (./Ausgabe/API/README.md)-->
