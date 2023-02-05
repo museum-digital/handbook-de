@@ -40,7 +40,7 @@
     - [Objekte suchen](./Ausgabe/Suche.md)
       - [Suchschlitz eingrenzen]() <!-- (./Ausgabe/Suche.md) -->
       - [Objekte auf Karte](./Ausgabe/Suche/Objekte-auf-Karte.md)
-      - [Objekt-Zeitleiste]() <!-- (./Ausgabe/Suche.md) -->
+      - [Objekt-Zeitleiste](./Ausgabe/Suche/Zeitleiste.md)
       - [Suchergebnisse nach Museen]() <!-- (./Ausgabe/Suche.md) -->
       - [Bilderwand](./Ausgabe/Suche/Bilderwand.md)
     - [Bilder suchen](./Ausgabe/Suche/Bildersuche.md)
