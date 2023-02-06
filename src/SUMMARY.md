@@ -110,6 +110,7 @@
     - [Benutzerdefinierte Bearbeitungsoberfläche](./musdb/Objekte/Benutzerdefinierte-Ansicht.md)
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
     - [Angaben wiederholen / Eingabehilfen](./musdb/Objekte/Angaben-wiederholen.md)
+    - [Zeitleiste zum Objekt](./musdb/Objekte/Objekt-Zeitleiste.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
       - [Suchabfragen speichern]() <!-- (./musdb/Objektsuche/Suchabfragen-speichern.md) -->
@@ -124,14 +125,24 @@
   - [Ausstellungen]() <!-- (./musdb/Ausstellungen/README.md) -->
   - [Veranstaltungen / Termine]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Objektgruppen](./musdb/Objektgruppen/README.md)
-    - [Objektgruppen-Übersicht]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
-    - [Objektgruppen bearbeiten]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
+    - [Objektgruppen-Übersicht](./musdb/Objektgruppen/Uebersicht.md)
+    - [Objektgruppen hinzufügen](./musdb/Objektgruppen/Objektgruppe-eingeben.md)
+    - [Objektgruppen bearbeiten](./musdb/Objektgruppen/Objektgruppe-bearbeiten.md)
     - [HTML-Katalog]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
   - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
+    - [Literatur suchen](./musdb/Literatur/Uebersicht.md)
+    - [Literatureinträge hinzufügen](./musdb/Literatur/Literatur-eingeben.md)
+    - [Literatur bearbeiten](./musdb/Literatur/Literatur-bearbeiten.md)
   - [Leihverkehre](./musdb/Leihverkehr/README.md) -->
   - [Kontaktverwaltung (_Stichworte_)](./musdb/Kontaktverwaltung/README.md)
   - [Transporte (Leer)](./musdb/Transporte/README.md)
-  - [Erwerbungen (Leer)](./musdb/Erwerbungen/README.md)
+    - [Transporte suchen](./musdb/Transporte/Uebersicht.md)
+    - [Transporte hinzufügen](./musdb/Transporte/Transporte-eingeben.md)
+    - [Transporte bearbeiten](./musdb/Transporte/Transporte-bearbeiten.md)
+  - [Erwerbungsvorgänge](./musdb/Erwerbungen/README.md)
+    - [Erwerbungen suchen](./musdb/Erwerbungen/Uebersicht.md)
+    - [Erwerbungen hinzufügen](./musdb/Erwerbungen/Erwerbungen-eingeben.md)
+    - [Erwerbungen bearbeiten](./musdb/Erwerbungen/Erwerbungen-bearbeiten.md)
   - [Räume (_Stichworte_)](./musdb/Spaces/README.md)
   - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
