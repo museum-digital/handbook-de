@@ -215,6 +215,15 @@
 
 -----------
 
+# Entwicklung und Koordination
+
+- [Nextcloud]()
+
+- [Gitea](./dev/Gitea/README.md)
+  - [Neue Issues anlegen](./dev/Gitea/Neues-Issue.md)
+
+-----------
+
 [FAQ](./misc/FAQ.md)
 [Weitere Anleitungen und Handreichungen](./misc/Weitere-Anleitungen.md)
 [API-basierte Anwendungen](./misc/API-basierte-Anwendungen.md)
