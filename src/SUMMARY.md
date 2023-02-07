@@ -123,6 +123,9 @@
     - [Objektdaten exportieren](./musdb/Objektsuche/Export.md)
     - [Listendruck / Treffer auflisten](./musdb/Objektsuche/Listendruck.md)
   - [Ausstellungen]() <!-- (./musdb/Ausstellungen/README.md) -->
+    - [Ausstellungen suchen](./musdb/Ausstellungen/Uebersicht.md)
+    - [Ausstellungen eingeben](./musdb/Ausstellungen/Ausstellung-eingeben.md)
+    - [Ausstellungen bearbeiten](./musdb/Ausstellungen/Ausstellung-bearbeiten.md)
   - [Veranstaltungen / Termine]() <!-- (./musdb/Veranstaltungen/README.md) -->
   - [Objektgruppen](./musdb/Objektgruppen/README.md)
     - [Objektgruppen-Übersicht](./musdb/Objektgruppen/Uebersicht.md)
