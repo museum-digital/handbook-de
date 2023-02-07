@@ -14,7 +14,7 @@ Als nächstes wird die Perspektive des ersten Unterkapitels umgedreht: Es wird b
 [wie man selbst Accounts für Andere anlegen kann](Neues-Kontro-hinzufuegen.md).
 
 In den Sektionen ["Einstellungen (Privat)"](Einstellungen.md) und
-["Kontoeinstellungen und Sicherheit"](Kontoeinstellungen-Sicherheit.md) werden
+["Kontoeinstellungen und Sicherheit"](Kontoeinstellungen.md) werden
 verschiedene Möglichkeiten, sich die Oberfläche von musdb anzupassen und das eigene Konto
 abzusichern erklärt.
 

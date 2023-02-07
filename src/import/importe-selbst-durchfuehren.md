@@ -4,7 +4,7 @@ Benutzer von musdb können Importe, die genau den vorhandenen Parsern entspreche
 
 ## Vorbedingungen schaffen: Zugang über WebDAV
 
-Um Daten zu importieren, müssen diese zuerst einmal auf den Server gelangen. Dies geschieht mithilfe einer WebDAV-Schnittstelle, zu der Benutzer der [Benutzerrolle](../musdb/Benutzerkonto/Berechtigungen.md) "Museumsdirektor" und Administratoren über die [Kontoeinstellungen für das eigene Benutzerkonto](../musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md) (Reiter: "WebDAV") Zugang erlangen können.
+Um Daten zu importieren, müssen diese zuerst einmal auf den Server gelangen. Dies geschieht mithilfe einer WebDAV-Schnittstelle, zu der Benutzer der [Benutzerrolle](../musdb/Benutzerkonto/Berechtigungen.md) "Museumsdirektor" und Administratoren über die [Kontoeinstellungen für das eigene Benutzerkonto](../musdb/Benutzerkonto/Kontoeinstellungen.md) (Reiter: "WebDAV") Zugang erlangen können.
 
 Auf dem Reiter WebDAV findet sich nach einer kurzen Erklärung ein Button zum Generieren der zur Benutzung der Schnittstelle nötigen Zugangsdaten. Für den Zugang zur WebDAV-Schnittstelle wird dabei ein eigenes Password automatisch generiert, das an einem sicheren Ort gespeichert werden sollte (geht es verloren, kann jedoch ein neues generiert werden).
 

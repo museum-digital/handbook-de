@@ -16,11 +16,13 @@ Datensätzen durchzuführen. Benutzer:innen, die die Funktion „Globales
 Ändern" verwenden wollen, müssen mindestens die Nutzerrolle
 "Museumsdirektor" haben.
 
-> **Achtung! Das „Globale Ändern" ist eine mächtige Funktion.
-> Änderungen, die man damit durchführt, lassen sich nicht mehr
-> rückgängig machen! Man muss sehr sorgfältig sein und testet die
-> Funktion besser erst bei einzelnen Objekten (oder besser sogar
-> Testobjekten) aus.**
+```admonish warning
+Achtung! Das „Globale Ändern" ist eine mächtige Funktion.
+Änderungen, die man damit durchführt, lassen sich nicht mehr
+rückgängig machen! Man muss sehr sorgfältig sein und testet die
+Funktion besser erst bei einzelnen Objekten (oder besser sogar
+Testobjekten) aus.
+```
 
 Wie aktiviert man die Funktion „Globales Ändern"?
 -------------------------------------------------

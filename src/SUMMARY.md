@@ -64,7 +64,10 @@
     - [Zugang erhalten](./musdb/Benutzerkonto/Zugang-erhalten.md)
     - [Nutzerrollen und -Rechte](./musdb/Benutzerkonto/Berechtigungen.md)
     - [Neue Benutzer hinzufügen](./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md)
-    - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen-Sicherheit.md)
+    - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen.md)
+      - [Account-Sicherheit](./musdb/Benutzerkonto/Sicherheit.md)
+      - [Benachrichtigungen](./musdb/Benutzerkonto/Benachrichtigungen.md)
+      - [Integration mit Nextcloud](./musdb/Benutzerkonto/Nextcloud-Integration.md)
     - [Benutzerprofil](./musdb/Benutzerkonto/Profil.md)
   - [Benutzeroberfläche](./musdb/UI/README.md)
     - [Seitenaufbau](./musdb/UI/Seitenaufbau.md)
@@ -200,6 +203,7 @@
   - [iCalendar](./misc/Formate/iCalendar.md)
   - [RSS](./misc/Formate/RSS.md)
   - [WebCal](./misc/Formate/WebCal.md)
+  - [WebDAV](./misc/Formate/WebDAV.md)
 
 -----------
 
