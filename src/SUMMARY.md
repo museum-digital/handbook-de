@@ -124,8 +124,10 @@
       - [Globales Ändern](./musdb/Objektsuche/Batch/Globales-Aendern.md)
       - [Treffer zuordnen]() <!-- (./musdb/Objektsuche/Batch/Treffer-zuordnen.md) -->
     - [Objektdaten exportieren](./musdb/Objektsuche/Export.md)
+      - [Liste der Exportformate](./musdb/Objektsuche/Exportformate.md)
     - [Listendruck / Treffer auflisten](./musdb/Objektsuche/Listendruck.md)
-  - [Ausstellungen]() <!-- (./musdb/Ausstellungen/README.md) -->
+    - [Karte zu Suchergebnissen](./musdb/Objektsuche/Objekte-auf-Karte.md)
+  - [Ausstellungen](./musdb/Ausstellungen/README.md)
     - [Ausstellungen suchen](./musdb/Ausstellungen/Uebersicht.md)
     - [Ausstellungen eingeben](./musdb/Ausstellungen/Ausstellung-eingeben.md)
     - [Ausstellungen bearbeiten](./musdb/Ausstellungen/Ausstellung-bearbeiten.md)
@@ -140,6 +142,9 @@
     - [Literatureinträge hinzufügen](./musdb/Literatur/Literatur-eingeben.md)
     - [Literatur bearbeiten](./musdb/Literatur/Literatur-bearbeiten.md)
   - [Leihverkehre](./musdb/Leihverkehr/README.md) -->
+    - [Leihverkehre suchen](./musdb/Leihverkehr/Uebersicht.md)
+    - [Leihverkehre eingeben](./musdb/Leihverkehr/Leihverkehr-eingeben.md)
+    - [Leihverkehre bearbeiten](./musdb/Leihverkehr/Leihverkehr-bearbeiten.md)
   - [Kontaktverwaltung (_Stichworte_)](./musdb/Kontaktverwaltung/README.md)
   - [Transporte (Leer)](./musdb/Transporte/README.md)
     - [Transporte suchen](./musdb/Transporte/Uebersicht.md)
@@ -150,14 +155,14 @@
     - [Erwerbungen hinzufügen](./musdb/Erwerbungen/Erwerbungen-eingeben.md)
     - [Erwerbungen bearbeiten](./musdb/Erwerbungen/Erwerbungen-bearbeiten.md)
   - [Räume (_Stichworte_)](./musdb/Spaces/README.md)
-  - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
     - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Statements](./musdb/background/statements.md)
   - [Weiteres]() <!-- (./musdb/Besuchermanagement/README.md) -->
+    - [Besucherzählung](./musdb/Besuchermanagement/besucherzaehlung.md)
     - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
-    - [Link-Validitätscheck]() <!-- (./musdb/Besuchermanagement/README.md) -->
+    - [Link-Validitätscheck](./musdb/Weiteres/Link-Validitaetscheck.md)
     - [Kommentarfunktion und Moderation]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Kalender (_WIP_)](./musdb/Weiteres/Kalender.md)
   - [FAQ](./musdb/FAQ.md)
@@ -224,7 +229,11 @@
 
 # Entwicklung und Koordination
 
-- [Nextcloud]()
+- [mdBook und Zola: www.museum-digital.org und das Handbuch bearbeiten]()
+
+- [Wordpress: Der Blog]()
+
+- [Nextcloud (Dateiverwaltung)]()
 
 - [Gitea](./dev/Gitea/README.md)
   - [Neue Issues anlegen](./dev/Gitea/Neues-Issue.md)
