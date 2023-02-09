@@ -3,7 +3,7 @@
 ```admonish info
 Hier besprochen werden nur die über die Standard-XML-Exportfunktion erreichbaren XML-Exportformate. Zum Export für Excel und andere Tabellenkalkulationsfunktionen, siehe [Listendruck](../Objektsuche/Listendruck.md). Über die [Einstellungen für das Museum](../Museum/Einstellungen.md) lassen sich des weiteren eigene Exportformate formulieren.
 
-Die Daten lassen sich ebenfalls über die [API](../API/) exportieren oder direkt verwenden.
+Die Daten lassen sich ebenfalls - mühsamer, aber flexibler - über die [API](../API/) exportieren oder direkt verwenden.
 ```
 
 | Name         | Anwendungszweck                                | Notiz    |

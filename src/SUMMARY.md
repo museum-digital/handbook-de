@@ -146,6 +146,9 @@
     - [Leihverkehre eingeben](./musdb/Leihverkehr/Leihverkehr-eingeben.md)
     - [Leihverkehre bearbeiten](./musdb/Leihverkehr/Leihverkehr-bearbeiten.md)
   - [Kontaktverwaltung (_Stichworte_)](./musdb/Kontaktverwaltung/README.md)
+    - [Kontakt suchen]()
+    - [Kontakt eingeben](./musdb/Kontaktverwaltung/Kontakt-eingeben.md)
+    - [Kontakt bearbeiten](./musdb/Kontaktverwaltung/Kontakt-bearbeiten.md)
   - [Transporte (Leer)](./musdb/Transporte/README.md)
     - [Transporte suchen](./musdb/Transporte/Uebersicht.md)
     - [Transporte hinzufügen](./musdb/Transporte/Transporte-eingeben.md)
@@ -155,6 +158,10 @@
     - [Erwerbungen hinzufügen](./musdb/Erwerbungen/Erwerbungen-eingeben.md)
     - [Erwerbungen bearbeiten](./musdb/Erwerbungen/Erwerbungen-bearbeiten.md)
   - [Räume (_Stichworte_)](./musdb/Spaces/README.md)
+    - [Räume suchen](./musdb/Spaces/Uebersicht.md)
+    - [Räume hinzufügen](./musdb/Spaces/Raum-eingeben.md)
+    - [Räume bearbeiten](./musdb/Spaces/Raum-bearbeiten.md)
+    - [Dashboard mit Klimamessung](./musdb/Spaces/Sensoren-Dashboard.md)
   - [Abbildungen](./musdb/Objekte/Abbildungen.md)
     - [Stapelbearbeitung für Bildlizenzen](./musdb/Objekte/Abbildungen/Bildlizenzen-Stapelbearbeitung.md)
   - ["Hintergründe"]() <!-- (./musdb/Besuchermanagement/README.md) -->
@@ -164,7 +171,15 @@
     - [PDF-Katalog]() <!-- (./musdb/Besuchermanagement/README.md) -->
     - [Link-Validitätscheck](./musdb/Weiteres/Link-Validitaetscheck.md)
     - [Kommentarfunktion und Moderation]() <!-- (./musdb/Besuchermanagement/README.md) -->
-    - [Kalender (_WIP_)](./musdb/Weiteres/Kalender.md)
+    - [Kalender](./musdb/Weiteres/Kalender.md)
+    - [Prozess-Liste](./musdb/Weiteres/Prozesse.md)
+    - [Aufgaben / To-Do-Liste](./musdb/Weiteres/Aufgaben.md)
+    - ["Dashboard für die Wand"](./musdb/Weiteres/Dashboard-fuer-die-Wand.md)
+    - [URL-Weiterleitungen](./musdb/Weiteres/URL-Weiterleitungen.md)
+    - [Konsistenzprüfungen](./musdb/Weiteres/Konsistenzpruefungen.md)
+    - [Verbesserungsvorschläge](./musdb/Weiteres/Verbesserungsvorschlaege.md)
+    - ["Wissen"](./musdb/Weiteres/Wissen.md)
+    - [Eigene Exportformate formulieren und automatisch senden](./musdb/Weiteres/Reporte.md)
   - [FAQ](./musdb/FAQ.md)
   - [API](./musdb/API/index.html)
 
