@@ -247,6 +247,7 @@
 - [mdBook und Zola: www.museum-digital.org und das Handbuch bearbeiten]()
 
 - [Wordpress: Der Blog]()
+  - [Mehrsprachigkeit bei Schlagworten]()
 
 - [Nextcloud (Dateiverwaltung)]()
 
