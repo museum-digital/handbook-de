@@ -6,19 +6,19 @@ Nur, weil ein Parser für die Exportdaten eines gegebenen Programms oder für ei
 
 Eine Abhilfe kann hierbei eine eingebaute Vollständigkeitsprüfung liefern, die in einigen Parsern eingebaut ist. Sind am Ende des Imports eines Objektes noch nicht spezifizierte Datenfelder vorhanden, wird in diesem Fall der Import abgebrochen und das Ergänzen des Parsers erzwungen. Ob eine solche Vollständigkeitsprüfung aber realistisch eingebaut werden kann, hängt auch stark vom Format der gegebenen Eingangsdaten ab. Je verschachtelter das Format, desto schwerer ist die Umsetzung der Vollständigkeitsprüfung. Ob ein Parser eine automatische Vollständigkeitsprüfung bietet ist in der Tabellenspalte _Prüfung_ zu sehen.
 
-| Name                  | Datenformat | Prüfung   | Notiz     |
-|-----------------------|-------------|-----------|-----------|
-| Adlib                 | XML         | Nein      | Für die XML-Exportdaten aus [Axiell Adlib](https://www.axiell.com/de/loesungen/produkt/adlib/). Geschrieben und optimiert für das [Schwule Museum Berlin](https://www.schwulesmuseum.de/). |
-| Adlib                 | CSV         | JA        | Parser für CSV-Exportdaten aus [Axiell Adlib](https://www.axiell.com/de/loesungen/produkt/adlib/).                  |
-| Beecollect (2022)     | XML         | Teilweise | Ein Parser für Becollect-Exporte der sächsischen Industriemuseen, die ein sehr anderes Format als die vorherigen haben. Ansonsten: siehe oben. |
-| csvxml                | XML         | Ja        | Der Referenz-Parser für das [Standard-Importformat](./CSVXML.md) von museum-digital. |
-| csvxml_json           | JSON        | Ja        | Eine JSON-basierte Variante des CSVXML-Formats. |
-| First Rumos           | XML         | Ja        | [First Rumos](https://www.firstrumos.de) hat einen Eingaben Export-Schalter für museum-digital. Dieser Parser importiert die so exportierten Daten. |
-| IKMK                  | JSON        | Ja        | Parser für die `json_ext`-Exportdaten aus den verschiedenen Instanzen des "Interaktiven Katalog des Münzkabinetts". |
-| imdas pro             | XML         | Nein      | Parser für die Export-Daten des [Landesmuseums Württemberg](https://www.landesmuseum-stuttgart.de/). Ob sich der Parser auch für die Exporte aus anderen Instanzen von [Imdas Pro](https://www.joanneum.at/digital/produkteloesungen/imdas-pro-archivis-pro) benutzen lässt, ist bisher unbekannt |
-| Johann@Hilf           | CSV         | Ja        | Johann@Hilf war der Vorgänger von Primus und arbeitete auf Basis von MS-Access. Der Johann@Hilf-Parser arbeitet mit einem CSV-Export der Access-Datenbank. |
-| Primus                | XML         | Ja        | Parser für die aus [Primus](https://www.landesstelle.de/service/primus/) exportierten Daten. Deckt die Felder eines Gesamt-Exports ab. |
-| LIDO                  | XML         | Teilweise | Parser für nach dem Austauschstandard [LIDO](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/) geformte Daten. Weil der LIDO-Standard von verschiedenen Entwicklern sehr verschieden ausgelegt wird, existieren verschiedene LIDO-Parser und neue Importe benötigen oft zusätzliche Anpassungen. Der gerade in Entwicklung befindliche [EODEM-Standard](https://cidoc.mini.icom.museum/working-groups/documentation-standards/eodem-home/) wird als Erweiterung von LIDO ebenfalls vom LIDO-Parser abgedeckt (derzeit funktional mit EODEM 0.08). |
+| Name                       | Datenformat | Prüfung   | Notiz     |
+|----------------------------|-------------|-----------|-----------|
+| Adlib / Axiell Collections | XML         | Nein      | Für die XML-Exportdaten aus [Axiell Adlib / Axiell Collections](https://www.axiell.com/de/loesungen/produkt/adlib/). Geschrieben und optimiert für das [Schwule Museum Berlin](https://www.schwulesmuseum.de/). |
+| Adlib / Axiell Collections | CSV         | JA        | Parser für CSV-Exportdaten aus [Axiell Adlib / Axiell Collections](https://www.axiell.com/de/loesungen/produkt/adlib/).                  |
+| Beecollect (2022)          | XML         | Teilweise | Ein Parser für Becollect-Exporte der sächsischen Industriemuseen, die ein sehr anderes Format als die vorherigen haben. Ansonsten: siehe oben. |
+| csvxml                     | XML         | Ja        | Der Referenz-Parser für das [Standard-Importformat](./CSVXML.md) von museum-digital. |
+| csvxml_json                | JSON        | Ja        | Eine JSON-basierte Variante des CSVXML-Formats. |
+| First Rumos                | XML         | Ja        | [First Rumos](https://www.firstrumos.de) hat einen Eingaben Export-Schalter für museum-digital. Dieser Parser importiert die so exportierten Daten. |
+| IKMK                       | JSON        | Ja        | Parser für die `json_ext`-Exportdaten aus den verschiedenen Instanzen des "Interaktiven Katalog des Münzkabinetts". |
+| imdas pro                  | XML         | Nein      | Parser für die Export-Daten des [Landesmuseums Württemberg](https://www.landesmuseum-stuttgart.de/). Ob sich der Parser auch für die Exporte aus anderen Instanzen von [Imdas Pro](https://www.joanneum.at/digital/produkteloesungen/imdas-pro-archivis-pro) benutzen lässt, ist bisher unbekannt |
+| Johann@Hilf                | CSV         | Ja        | Johann@Hilf war der Vorgänger von Primus und arbeitete auf Basis von MS-Access. Der Johann@Hilf-Parser arbeitet mit einem CSV-Export der Access-Datenbank. |
+| Primus                     | XML         | Ja        | Parser für die aus [Primus](https://www.landesstelle.de/service/primus/) exportierten Daten. Deckt die Felder eines Gesamt-Exports ab. |
+| LIDO                       | XML         | Teilweise | Parser für nach dem Austauschstandard [LIDO](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/) geformte Daten. Weil der LIDO-Standard von verschiedenen Entwicklern sehr verschieden ausgelegt wird, existieren verschiedene LIDO-Parser und neue Importe benötigen oft zusätzliche Anpassungen. Der gerade in Entwicklung befindliche [EODEM-Standard](https://cidoc.mini.icom.museum/working-groups/documentation-standards/eodem-home/) wird als Erweiterung von LIDO ebenfalls vom LIDO-Parser abgedeckt (derzeit funktional mit EODEM 0.08). |
 
 Dazu gibt es generische Parser, die für jeden Import neu angepasst werden müssen, aber eine gute Grundlage für sehr einfache Importe - wie zum Beispiel einfache, zuvor in Excel gepflegte Standortlisten - bieten:
 
