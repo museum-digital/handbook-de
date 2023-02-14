@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://demo.museum-digital.de/institution/33" lido:type="local">DE-MUS-123651/14165</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:term xml:lang="de">Fotografie (Lichtbild)</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+            <lido:term xml:lang="de">Italien</lido:term>
+            <lido:term xml:lang="en">Italy</lido:term>
+          </lido:classification>
+          <lido:classification>
+            <lido:conceptID lido:source="local" lido:type="series_id">479</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">test grup selection</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Sehr verblaßt</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:inscriptionsWrap>
+          <lido:inscriptions>
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>Inscription</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+        </lido:inscriptionsWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-MUS-123651</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue xml:lang="de">Fotosammlung SRE</lido:appellationValue>
+                <lido:appellationValue xml:lang="zh">zh: test</lido:appellationValue>
+                <lido:appellationValue xml:lang="en">Foto collection of SREc'";</lido:appellationValue>
+                <lido:appellationValue xml:lang="ab">hgjghg</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://scc.de</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">XYZ-1609</lido:workID>
+            <lido:repositoryLocation>
+              <lido:placeID lido:source="OSM" lido:type="uri">https://www.openstreetmap.org/way/34871209</lido:placeID>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Berlin</lido:appellationValue>
+                <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                <lido:appellationValue xml:lang="zh">Berlin</lido:appellationValue>
+                <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                <lido:appellationValue xml:lang="ab">3435</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>52.49666595 13.29769897</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Stark verblasste Aufnahme einer Frau im Carte de Visite - Format. Dass es sich um eine Frau handelt ist nur noch schwer erkennbar, wird aber ersichtlich aus dem dunklen rüschenbesetzten Kleid mit dem die abgebildete Person bekleidet ist.&#13;
+Unterhalb der Abbildung eine Fotografenangabe: "Baron &amp; MitKiewicz, Phot.", die auf der Rückseite der Pappe ausführlicher gegeben wird: "&#13;
+Photographie de&#13;
+Baron &amp; Mietkiewicz&#13;
+9, Rue Neuve, 9&#13;
+Brüssel."</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote xml:lang="de">Fotosammlung SRE</lido:sourceDescriptiveNote>
+            <lido:sourceDescriptiveNote xml:lang="zh">zh: test</lido:sourceDescriptiveNote>
+            <lido:sourceDescriptiveNote xml:lang="en">Foto collection of SREc'";</lido:sourceDescriptiveNote>
+            <lido:sourceDescriptiveNote xml:lang="ab">hgjghg</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+          <lido:objectDescriptionSet lido:type="detailedDescription">
+            <lido:descriptiveNoteValue>Detailed description</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote xml:lang="de">Fotosammlung SRE</lido:sourceDescriptiveNote>
+            <lido:sourceDescriptiveNote xml:lang="zh">zh: test</lido:sourceDescriptiveNote>
+            <lido:sourceDescriptiveNote xml:lang="en">Foto collection of SREc'";</lido:sourceDescriptiveNote>
+            <lido:sourceDescriptiveNote xml:lang="ab">hgjghg</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>9 x 6 cm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>dm</lido:measurementUnit>
+                <lido:measurementValue>6</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>m</lido:measurementUnit>
+                <lido:measurementValue>9</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>number of pages</lido:measurementType>
+                <lido:measurementUnit>Pages</lido:measurementUnit>
+                <lido:measurementValue>2</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+        <lido:objectMaterialsTechWrap>
+          <lido:objectMaterialsTechSet>
+            <lido:displayMaterialsTech xml:lang="de">Auf Pappe aufgezogene Fotografie</lido:displayMaterialsTech>
+          </lido:objectMaterialsTechSet>
+        </lido:objectMaterialsTechWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Aufgenommen</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">17714</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Fotoatelier Baron &amp; Mietkiewicz</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/18642</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Fotoatelier Baron &amp; Mietkiewicz</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Fotoatelier Baron &amp; Mietkiewicz</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventPlace>
+              <lido:displayPlace>Brüssel</lido:displayPlace>
+              <lido:displayPlace xml:lang="ar">بروكسل</lido:displayPlace>
+              <lido:displayPlace xml:lang="bn">ব্রাসেলস</lido:displayPlace>
+              <lido:displayPlace xml:lang="cs">Brusel</lido:displayPlace>
+              <lido:displayPlace xml:lang="da">Bruxelles (kommune)</lido:displayPlace>
+              <lido:displayPlace xml:lang="de">Brüssel</lido:displayPlace>
+              <lido:displayPlace xml:lang="el">Βρυξέλλες</lido:displayPlace>
+              <lido:displayPlace xml:lang="en">City of Brussels</lido:displayPlace>
+              <lido:displayPlace xml:lang="es">Bruselas</lido:displayPlace>
+              <lido:displayPlace xml:lang="fa">شهر بروکسل</lido:displayPlace>
+              <lido:displayPlace xml:lang="fi">Brysselin kaupunki</lido:displayPlace>
+              <lido:displayPlace xml:lang="fr">Ville de Bruxelles</lido:displayPlace>
+              <lido:displayPlace xml:lang="he">בריסל</lido:displayPlace>
+              <lido:displayPlace xml:lang="hi">ब्रसेल्स</lido:displayPlace>
+              <lido:displayPlace xml:lang="hu">Brüsszel</lido:displayPlace>
+              <lido:displayPlace xml:lang="id">Brussel (kota)</lido:displayPlace>
+              <lido:displayPlace xml:lang="it">Bruxelles (comune)</lido:displayPlace>
+              <lido:displayPlace xml:lang="ja">ブリュッセル市</lido:displayPlace>
+              <lido:displayPlace xml:lang="ka">ბრიუსელი</lido:displayPlace>
+              <lido:displayPlace xml:lang="ko">브뤼셀 시</lido:displayPlace>
+              <lido:displayPlace xml:lang="nl">Brussel (stad)</lido:displayPlace>
+              <lido:displayPlace xml:lang="pl">Bruksela</lido:displayPlace>
+              <lido:displayPlace xml:lang="pt">Cidade de Bruxelas</lido:displayPlace>
+              <lido:displayPlace xml:lang="ro">Orașul Bruxelles</lido:displayPlace>
+              <lido:displayPlace xml:lang="ru">Брюссель</lido:displayPlace>
+              <lido:displayPlace xml:lang="sv">Bryssel (kommun)</lido:displayPlace>
+              <lido:displayPlace xml:lang="sw">Brussels</lido:displayPlace>
+              <lido:displayPlace xml:lang="ta">பிரசெல்சு நகரம்</lido:displayPlace>
+              <lido:displayPlace xml:lang="th">นครบรัสเซลส์</lido:displayPlace>
+              <lido:displayPlace xml:lang="tl">Bruselas</lido:displayPlace>
+              <lido:displayPlace xml:lang="tr">Brüksel</lido:displayPlace>
+              <lido:displayPlace xml:lang="uk">Брюссель</lido:displayPlace>
+              <lido:displayPlace xml:lang="ur">برسلز شہر</lido:displayPlace>
+              <lido:displayPlace xml:lang="vi">Thành phố Bruxelles</lido:displayPlace>
+              <lido:displayPlace xml:lang="zh">布鲁塞尔</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2800866</lido:placeID>
+                <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7007868</lido:placeID>
+                <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4008460-7</lido:placeID>
+                <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q239</lido:placeID>
+                <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/512</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Brüssel</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ar">بروكسل</lido:appellationValue>
+                  <lido:appellationValue xml:lang="bn">ব্রাসেলস</lido:appellationValue>
+                  <lido:appellationValue xml:lang="cs">Brusel</lido:appellationValue>
+                  <lido:appellationValue xml:lang="da">Bruxelles (kommune)</lido:appellationValue>
+                  <lido:appellationValue xml:lang="de">Brüssel</lido:appellationValue>
+                  <lido:appellationValue xml:lang="el">Βρυξέλλες</lido:appellationValue>
+                  <lido:appellationValue xml:lang="en">City of Brussels</lido:appellationValue>
+                  <lido:appellationValue xml:lang="es">Bruselas</lido:appellationValue>
+                  <lido:appellationValue xml:lang="fa">شهر بروکسل</lido:appellationValue>
+                  <lido:appellationValue xml:lang="fi">Brysselin kaupunki</lido:appellationValue>
+                  <lido:appellationValue xml:lang="fr">Ville de Bruxelles</lido:appellationValue>
+                  <lido:appellationValue xml:lang="he">בריסל</lido:appellationValue>
+                  <lido:appellationValue xml:lang="hi">ब्रसेल्स</lido:appellationValue>
+                  <lido:appellationValue xml:lang="hu">Brüsszel</lido:appellationValue>
+                  <lido:appellationValue xml:lang="id">Brussel (kota)</lido:appellationValue>
+                  <lido:appellationValue xml:lang="it">Bruxelles (comune)</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ja">ブリュッセル市</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ka">ბრიუსელი</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ko">브뤼셀 시</lido:appellationValue>
+                  <lido:appellationValue xml:lang="nl">Brussel (stad)</lido:appellationValue>
+                  <lido:appellationValue xml:lang="pl">Bruksela</lido:appellationValue>
+                  <lido:appellationValue xml:lang="pt">Cidade de Bruxelas</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ro">Orașul Bruxelles</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ru">Брюссель</lido:appellationValue>
+                  <lido:appellationValue xml:lang="sv">Bryssel (kommun)</lido:appellationValue>
+                  <lido:appellationValue xml:lang="sw">Brussels</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ta">பிரசெல்சு நகரம்</lido:appellationValue>
+                  <lido:appellationValue xml:lang="th">นครบรัสเซลส์</lido:appellationValue>
+                  <lido:appellationValue xml:lang="tl">Bruselas</lido:appellationValue>
+                  <lido:appellationValue xml:lang="tr">Brüksel</lido:appellationValue>
+                  <lido:appellationValue xml:lang="uk">Брюссель</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ur">برسلز شہر</lido:appellationValue>
+                  <lido:appellationValue xml:lang="vi">Thành phố Bruxelles</lido:appellationValue>
+                  <lido:appellationValue xml:lang="zh">布鲁塞尔</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point srsName="EPSG:4326">
+                    <gml:pos>50.846668243408 4.3516664505005</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:displayEvent>Gedruckt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">209184</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/26</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Gedruckt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventDate>
+              <lido:displayDate>1912</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1912</lido:displayDate>
+              <lido:displayDate xml:lang="de">1912</lido:displayDate>
+              <lido:displayDate xml:lang="en">1912</lido:displayDate>
+              <lido:displayDate xml:lang="es">1912</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1912</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1912</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1912</lido:displayDate>
+              <lido:displayDate xml:lang="id">1912</lido:displayDate>
+              <lido:displayDate xml:lang="it">1912</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1912年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1912</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1912년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1912</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1912</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1912</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1912</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1912</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1912</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1912</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1912年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1912</lido:earliestDate>
+                <lido:latestDate>1912</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="bn">কোলন</lido:displayPlace>
+              <lido:displayPlace xml:lang="cs">Kolín nad Rýnem</lido:displayPlace>
+              <lido:displayPlace xml:lang="da">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="de">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="el">Κολωνία</lido:displayPlace>
+              <lido:displayPlace xml:lang="en">Cologne</lido:displayPlace>
+              <lido:displayPlace xml:lang="es">Colonia</lido:displayPlace>
+              <lido:displayPlace xml:lang="fa">کلن</lido:displayPlace>
+              <lido:displayPlace xml:lang="fi">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="fr">Cologne</lido:displayPlace>
+              <lido:displayPlace xml:lang="ha">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="he">קלן</lido:displayPlace>
+              <lido:displayPlace xml:lang="hi">कोलोन</lido:displayPlace>
+              <lido:displayPlace xml:lang="hu">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="id">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="it">Colonia</lido:displayPlace>
+              <lido:displayPlace xml:lang="ja">ケルン</lido:displayPlace>
+              <lido:displayPlace xml:lang="ka">კელნი</lido:displayPlace>
+              <lido:displayPlace xml:lang="ko">쾰른</lido:displayPlace>
+              <lido:displayPlace xml:lang="nl">Keulen</lido:displayPlace>
+              <lido:displayPlace xml:lang="pl">Kolonia</lido:displayPlace>
+              <lido:displayPlace xml:lang="pt">Colónia</lido:displayPlace>
+              <lido:displayPlace xml:lang="ru">Кёльн</lido:displayPlace>
+              <lido:displayPlace xml:lang="sv">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="sw">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="ta">கோல்ன்</lido:displayPlace>
+              <lido:displayPlace xml:lang="th">โคโลญ</lido:displayPlace>
+              <lido:displayPlace xml:lang="tl">Cologne</lido:displayPlace>
+              <lido:displayPlace xml:lang="tr">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="uk">Кельн</lido:displayPlace>
+              <lido:displayPlace xml:lang="ur">کلن (علاقہ)</lido:displayPlace>
+              <lido:displayPlace xml:lang="vi">Köln</lido:displayPlace>
+              <lido:displayPlace xml:lang="zh">科隆</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2886242</lido:placeID>
+                <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004446</lido:placeID>
+                <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4031483-2</lido:placeID>
+                <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q365</lido:placeID>
+                <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/99</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="bn">কোলন</lido:appellationValue>
+                  <lido:appellationValue xml:lang="cs">Kolín nad Rýnem</lido:appellationValue>
+                  <lido:appellationValue xml:lang="da">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="de">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="el">Κολωνία</lido:appellationValue>
+                  <lido:appellationValue xml:lang="en">Cologne</lido:appellationValue>
+                  <lido:appellationValue xml:lang="es">Colonia</lido:appellationValue>
+                  <lido:appellationValue xml:lang="fa">کلن</lido:appellationValue>
+                  <lido:appellationValue xml:lang="fi">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="fr">Cologne</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ha">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="he">קלן</lido:appellationValue>
+                  <lido:appellationValue xml:lang="hi">कोलोन</lido:appellationValue>
+                  <lido:appellationValue xml:lang="hu">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="id">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="it">Colonia</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ja">ケルン</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ka">კელნი</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ko">쾰른</lido:appellationValue>
+                  <lido:appellationValue xml:lang="nl">Keulen</lido:appellationValue>
+                  <lido:appellationValue xml:lang="pl">Kolonia</lido:appellationValue>
+                  <lido:appellationValue xml:lang="pt">Colónia</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ru">Кёльн</lido:appellationValue>
+                  <lido:appellationValue xml:lang="sv">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="sw">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ta">கோல்ன்</lido:appellationValue>
+                  <lido:appellationValue xml:lang="th">โคโลญ</lido:appellationValue>
+                  <lido:appellationValue xml:lang="tl">Cologne</lido:appellationValue>
+                  <lido:appellationValue xml:lang="tr">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="uk">Кельн</lido:appellationValue>
+                  <lido:appellationValue xml:lang="ur">کلن (علاقہ)</lido:appellationValue>
+                  <lido:appellationValue xml:lang="vi">Köln</lido:appellationValue>
+                  <lido:appellationValue xml:lang="zh">科隆</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point srsName="EPSG:4326">
+                    <gml:pos>50.942222595215 6.9577779769897</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Auf Pappe aufgezogene Fotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Material</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Technique</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb11932843f</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4006627-7</lido:conceptID>
+                <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/8985</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                <lido:conceptID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00572338</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bg">Портрет</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">প্রতিকৃতি</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">портрет</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">تصویر</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">ảnh chân dung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025943</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4018202-2</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/31A72/</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85147274</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q467</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Frau</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/68</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Frau</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">امرأة</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">নারী</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">žena</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Kvinde</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Frau</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">γυναίκα</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Woman</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Mujer</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">زن</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Nainen</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Femme</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ha">Mace</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">אישה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">महिला</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">nő</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Wanita</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Donna</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">女性</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">ქალი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">여자 사람</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Vrouw</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kobieta</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Mulher</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">femeie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">женщина</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kvinna</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mwanamke</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">பெண்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">ผู้หญิง</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Babae</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kadın</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">жінка</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">عورت</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">phụ nữ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">女人</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054225</lido:conceptID>
+                <lido:conceptID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX524714</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb11933113t</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4045895-7</lido:conceptID>
+                <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/3385</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C61</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh00006943</lido:conceptID>
+                <lido:conceptID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00571967</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11633</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fotografie</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/132</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Fotografie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">تصوير فوتوغرافي</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bg">Фотография</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">আলোকচিত্রশিল্প</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Fotografie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Fotografi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">φωτογραφία</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Photography</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Fotografía</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">عکاسی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Valokuvaus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Photographie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ha">photography</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">צילום</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">छायाचित्र</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">fényképezés</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Fotografi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Fotografia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">写真術</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფოტოგრაფია</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">사진술</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Fotografie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Fotografia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Fotografia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">fotografie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">фотография</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Fotografi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Upigaji picha</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஒளிப்படவியல்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">การถ่ายภาพ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Potograpiya</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Fotoğrafçılık</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">фотографія</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">عکاسی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">nhiếp ảnh</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">攝影</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300203712</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4130510-3</lido:conceptID>
+                <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/4868</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/45C221/</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85060069</lido:conceptID>
+                <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/637</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q173603</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Helm</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2690</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Helm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">خوذة</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">হেলমেট</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Přilba</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Hjelm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Helm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">περικεφαλαία</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Helmet</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Casco</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">کلاه ایمنی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kypärä</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Casque</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">קסדה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">हेलमेट</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">Sisak</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Helm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Casco</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">ヘルメット</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">მუზარადი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">헬멧</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Helm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Hełm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Capacete</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Cască</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">каска</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Hjälm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">கவசம்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kalubkob</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kask</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">каска</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">ہیلمٹ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">mũ bảo hiểm</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">盔</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300250139</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/7729918-8</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85019119</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q7375</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Altweltkamele</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/24231</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Altweltkamele</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">جمل</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">উট</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">velbloud</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Camelus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Altweltkamele</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Καμήλα</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Camelus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Camelus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">شتر</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kamelit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">chameau</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ha">Raƙumi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">גמל</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">ऊँट</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">teve</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Unta</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Camelus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">ラクダ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">აქლემი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">낙타</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">kamelen</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">wielbłąd</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Camelo</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">верблюды</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Camelus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ngamia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஒட்டகம்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">อูฐ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kamelyo</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Deve</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">верблюд</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">اونٹ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">Lạc đà</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">骆驼</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Similar objects</lido:displayObject>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Bandseite auf www.discogs.com</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.discogs.com/artist/1924471-Arumaruma</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Rohde-Enslin, Stefan, 1994: Östlich des Horizonts, Osnabrück, 5383miscRohde-Enslin, Stefan1994Östlich des HorizontsOsnabrückhttps://www.dnb.de/DE/Kulturell/Veranstaltungskalender/Ausstellungseroeffnung/20200303AeChina_event.html</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource/>
+                <lido:objectID lido:type="ISBN"/>
+                <lido:objectID lido:source="dnb" lido:type="uri">https://www.dnb.de/DE/Kulturell/Veranstaltungskalender/Ausstellungseroeffnung/20200303AeChina_event.html</lido:objectID>
+                <lido:objectID lido:type="uri"/>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue xml:lang="de">Fotosammlung SRE</lido:appellationValue>
+              <lido:appellationValue xml:lang="zh">zh: test</lido:appellationValue>
+              <lido:appellationValue xml:lang="en">Foto collection of SREc'";</lido:appellationValue>
+              <lido:appellationValue xml:lang="ab">hgjghg</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">14165</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://demo.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-MUS-123651</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue xml:lang="de">Fotosammlung SRE</lido:appellationValue>
+            <lido:appellationValue xml:lang="zh">zh: test</lido:appellationValue>
+            <lido:appellationValue xml:lang="en">Foto collection of SREc'";</lido:appellationValue>
+            <lido:appellationValue xml:lang="ab">hgjghg</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://www.europeana.eu/rights/rr-r/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">RR-R</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Fotosammlung SRE</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://demo.museum-digital.de/object/14165</lido:recordInfoLink>
+          <lido:recordMetadataDate>2023-02-14 01:27:01</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="image" lido:type="local">6393</lido:resourceID>
+          <lido:resourceRepresentation lido:type="masterfile">
+            <lido:linkResource lido:formatResource="image/tiff"/>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://demo.museum-digital.de/data/demo/images/201501/100h_08061914634.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://demo.museum-digital.de/data/demo/images/201501/200w_08061914634.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://demo.museum-digital.de/data/demo/images/201501/08061914634.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Sehr verblaßt</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Fotosammlung Stefan Rohde-Enslin</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Fotoa</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Fotosammlung Stefan Rohde-Enslin</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Fotoa</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet lido:sortorder="2">
+          <lido:resourceID lido:source="image" lido:type="local">6394</lido:resourceID>
+          <lido:resourceRepresentation lido:type="masterfile">
+            <lido:linkResource lido:formatResource="image/tiff"/>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://demo.museum-digital.de/data/demo/images/201501/100h_08062050547.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://demo.museum-digital.de/data/demo/images/201501/200w_08062050547.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://demo.museum-digital.de/data/demo/images/201501/08062050547.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription>Sehr verblaßt</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Fotosammlung Stefan Rohde-Enslin</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Fotoa</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Fotosammlung Stefan Rohde-Enslin</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Fotoa</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

@@ -33,3 +33,7 @@ Einige Seiten bieten erweiterte Exportoptionen.
 | Einzelne Ausstellung | Kalendereintrag für eine Ausstellung                     | Beispiel: Ausstellung mit ID 1                        | .ics / text/calendar        |
 | Einzelnes Objekt     | BibTeX-Export für Referenzieren einer Objektseite        | Beispiel: Objekt mit ID 1                             | .bib / application/x-bibtex |
 | Einzelnes Objekt     | BibTeX-Export für alle Literatureinträge eines Objektes  | Beispiel: Verknüpfte Literatur des Objektes mit ID 1  | .bib / application/x-bibtex |
+
+## Bisherige API-basierte Entwicklungen
+
+Eine Liste der bisher auf Basis der API entwickelten Anwendungen und Integrationen mit anderen Tools findet sich [am Ende dieses Handbuchs](../../misc/API-basierte-Anwendungen.md).

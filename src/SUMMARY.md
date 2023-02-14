@@ -36,6 +36,7 @@
     - [Einzelnes Objekt (_WIP_)](./Ausgabe/Objekt/Readme.md)
       - [Abbildungen des Objektes (_WIP_)](./Ausgabe/Objekt/Einzelbild.md)
       - [IIIF-Unterstützung (_WIP_)](./Ausgabe/Objekt/IIIF.md)
+      - [Archiv-Versionen]() <!-- (./Ausgabe/Objekt/IIIF.md) -->
   - [Seiten]() <!-- (./Ausgabe/README.md) -->
     - [Veranstaltungen]() <!-- (./Ausgabe/Suche.md) -->
     - [Personen, Schlagworte und Quellenangaben]() <!-- (./Ausgabe/Suche.md) -->
@@ -48,7 +49,6 @@
       - [Bilderwand](./Ausgabe/Suche/Bilderwand.md)
     - [Bilder suchen](./Ausgabe/Suche/Bildersuche.md)
   - [API](./Ausgabe/API/README.md)
-    - [Einbindung in Museum-Webseiten]() <!-- (./Ausgabe/API/README.md)-->
   - [RSS-Feeds](./Ausgabe/rss.md)
   - [Weitere Funktionen]() <!-- (./Ausgabe/misc/Graphenansicht.md) -->
     - ["Graphenansicht"](./Ausgabe/misc/Graphenansicht.md)
@@ -221,9 +221,14 @@
 
 - [Dateiformate und Protokolle](./misc/Formate/README.md)
   - [iCalendar](./misc/Formate/iCalendar.md)
-  - [RSS](./misc/Formate/RSS.md)
+  - [JSON](./misc/Formate/JSON.md)
+  - [Markdown](./misc/Formate/Markdown.md)
   - [WebCal](./misc/Formate/WebCal.md)
   - [WebDAV](./misc/Formate/WebDAV.md)
+  - [XML](./misc/Formate/XML/README.md)
+    - [RSS](./misc/Formate/XML/RSS.md)
+    - [LIDO](./misc/Formate/XML/LIDO.md)
+    - [EODEM](./misc/Formate/XML/EODEM.md)
 
 -----------
 
