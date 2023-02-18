@@ -1,3 +1,3 @@
 # Dieses Handbuch schreiben
 
-Kleine Anleitung, die helfen soll, dieses Handbuch zu verfassen.
+Kleine Anleitung, die helfen soll, dieses Handbuch zu vervollständigen.
