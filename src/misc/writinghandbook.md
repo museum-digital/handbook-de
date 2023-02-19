@@ -1,10 +1,18 @@
 # Dieses Handbuch schreiben
 
-Ein Handbuch zu verfassen ist nicht leicht, vor allem dann, wenn sich das Beschriebene immer weiter entwickelt. Wir setzten deshalb auf Kollaboration und haben uns entschieden dieses Handbuch auf GitHub zu hosten. Zur Gestaltung der entstehenden Seiten greifen wir auf das einfach Markdown zurück. Die darin möglichen Gestaltungsanweisungen finden sich im Internet, bei der Suche nach Markdown cheat sheet [z.B. hier](https://www.collectiveray.com/de/Markdown-Spickzettel).
+Ein Handbuch zu verfassen ist nicht leicht, vor allem dann, wenn sich das Beschriebene immer weiter entwickelt und es so viel zu beschreiben gibt wie bei museum-digital. Wir setzten deshalb auf Kollaboration und haben uns entschieden dieses Handbuch transparent und für alle potentiellen Autoren offen über GitHub zu schreiben. Zur Gestaltung der entstehenden Seiten greifen wir auf das einfach Markdown zurück. Die darin möglichen Gestaltungsanweisungen finden sich im Internet, bei der Suche nach Markdown cheat sheet [z.B. hier](https://www.collectiveray.com/de/Markdown-Spickzettel).
 
-Um an diesem Handbuch mitzuarbeiten ist ein Zugriff auf GitHub nötig. Dafür muss ein Konto (kostenfrei) bei GitHub angelegt werden. Das ist recht einfach über die URL https://github.com zu erreichen. Dort sollte, falls schon ein GitHub-Konto besteht, die Funktion "SignIn" gewählt werden, anderenfalls die Funktion "SignUp" zur Neuanlage eines kostenfreien Kontos.
+## Vorbereitung
+
+Um an diesem Handbuch mitzuarbeiten ist ein Zugriff auf GitHub nötig. Dafür muss ein Konto (kostenfrei) bei [GitHub](https://github.com) angelegt werden. Dort sollte, falls schon ein GitHub-Konto besteht, die Funktion "SignIn" gewählt werden, anderenfalls die Funktion "[SignUp](https://github.com/signup)" zur Neuanlage eines kostenfreien Kontos.
 
 ![Startbildschirm von GitHub](../assets/misc/github_start.avif)
+
+```admonish info
+Wichtige Grundbegriffe in der Benutzung von GitHub
+
+- *Repository*: Ein Repository ist eine Instanz der Gesamtsumme der versionierten Inhalte
+```
 
 Ist das Konto angelegt und aufgerufen, dann ist es möglich die Handbuch-Seiten (das "Repository") vom GitHub-Server auf den eigenen Rechner zu "klonen. Auf dem erscheinenden Auswahlbildschirm ist die Funktion "Clone a repository from the internet ..." zu wählen.
 
@@ -28,10 +36,7 @@ Ist die Verbindung etabliert, dann sollte der GitHub-Desktop ungefähr folgender
 
 Wichtig ist, dass oben links unter "Current repository" das museum-digital Handbuch (handbook-de) erscheint. Rechts, in der gleichen Zeile findet sich "Fetch origin". Mit diesem Schalter wird der aktuelle Stand vom GitHub-Server zum eigenen Rechner geholt. Man sollte es sich angewöhnen diesen Schalter gleich nach Start des GitHub-Desktops zu drücken, damit man den jeweils letzten Stand der Dateien erhält und diese statt einer möglicherweise veralteten lokalen Version der jeweiligen Datei bearbeitet.
 
-Alle bisher beschriebenen Aktionen sind nur für die Einrichtung nötig. Von nun an muss stets nur noch der GitHub-Desktop gestartet werden um Bearbeitungen vorzunehmen.
-
-
-
+Alle bisher beschriebenen Aktionen sind nur für die Einrichtung nötig. Von nun an muss stets nur noch der GitHub-Desktop gestartet werden um Bearbeitungen nachzuvollziehen, von GitHub als zentraler Quelle zu beziehen und dort wieder hin zu synchronisieren.
 
 
 
