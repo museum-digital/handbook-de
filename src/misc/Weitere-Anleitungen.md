@@ -1,6 +1,6 @@
 # Weitere Anleitungen und Handreichungen
 
-Nicht nur hier im Handbuch wird museum-digital beschrieben. Allgemein werden Präsentationen und Dokumente zu museum-digital als Initiative unter [files.museum-digital.org](https://files.museum-digital.org/) archiviert.
+Nicht nur hier im Handbuch wird museum-digital beschrieben. Allgemein werden Präsentationen und Dokumente zu museum-digital (als Vorhaben) unter [files.museum-digital.org](https://files.museum-digital.org/) archiviert.
 
 ## Weitere Handreichungen
 

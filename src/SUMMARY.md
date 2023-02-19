@@ -249,7 +249,7 @@
 
 # Entwicklung und Koordination
 
-- [mdBook und Zola: www.museum-digital.org und das Handbuch bearbeiten]()
+- [mdBook und Zola: www.museum-digital.org und das Handbuch bearbeiten](./misc/writinghandbook.md)
 
 - [Wordpress: Der Blog]()
   - [Mehrsprachigkeit bei Schlagworten]()
