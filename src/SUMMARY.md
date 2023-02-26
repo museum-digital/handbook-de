@@ -114,6 +114,7 @@
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
     - [Angaben wiederholen / Eingabehilfen](./musdb/Objekte/Angaben-wiederholen.md)
     - [Zeitleiste zum Objekt](./musdb/Objekte/Objekt-Zeitleiste.md)
+    - [Suchergebnisse analysieren](./musdb/Objekte/Objekt-Ergebnisse-analysieren.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
       - [Suchabfragen speichern]() <!-- (./musdb/Objektsuche/Suchabfragen-speichern.md) -->
