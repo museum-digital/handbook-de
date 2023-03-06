@@ -52,6 +52,7 @@
   - [RSS-Feeds](./Ausgabe/rss.md)
   - [Weitere Funktionen]() <!-- (./Ausgabe/misc/Graphenansicht.md) -->
     - ["Graphenansicht"](./Ausgabe/misc/Graphenansicht.md)
+    - [Resolver](./Ausgabe/misc/Resolver.md)
   - [Gestaltungskonzepte](./Ausgabe/UI/README.md)
     - [Sprachsteuerung](./Ausgabe/UI/Sprachsteuerung.md)
     - [Tastensteuerung](./Ausgabe/UI/Tastensteuerung.md)
