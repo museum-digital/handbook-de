@@ -12,7 +12,7 @@ Das Anfügen eines der gelisteten Ziele des Resolvers (etwa `actor` oder `place`
 
 `https://brandenburg.museum-digital.de/resolver/actor/gnd`
 
-Mit dem zusätzlichen Anfügen der zu vergleichenden Quelle externer IDs (im Beispiel: `gnd`) wird eine BEACON-Datei generiert, mit der die Konkordanzen zwischen den beiden Repositorien (hier: Personenverzeichnis bei museum-digital und der _Gemeinsamen Normdatei_) nachvollzogen werden können.
+Mit dem zusätzlichen Anfügen der zu vergleichenden Quelle externer IDs (im Beispiel: `gnd`) wird eine [BEACON](../../misc/Formate/BEACON.md)-Datei generiert, mit der die Konkordanzen zwischen den beiden Repositorien (hier: Personenverzeichnis bei museum-digital und der _Gemeinsamen Normdatei_) nachvollzogen werden können.
 
 `https://brandenburg.museum-digital.de/resolver/actor/gnd/4077491-0`
 
