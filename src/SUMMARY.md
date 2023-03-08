@@ -197,6 +197,7 @@
   - [Vokabulare durchsuchen]() <!-- (./nodac/Benutzeroberflaeche.md)-->
   - [Einträge betrachten]() <!-- (./nodac/Benutzeroberflaeche.md)-->
   - [API]() <!-- (./nodac/Benutzeroberflaeche.md)-->
+  - [Downloads](./md-term/Downloads.md) <!-- (./nodac/Benutzeroberflaeche.md)-->
 
 # nodac: Normdatenverwaltung
 
@@ -223,6 +224,7 @@
 # Weiteres
 
 - [Dateiformate und Protokolle](./misc/Formate/README.md)
+  - [BEACON](./misc/Formate/BEACON.md)
   - [iCalendar](./misc/Formate/iCalendar.md)
   - [JSON](./misc/Formate/JSON.md)
   - [Markdown](./misc/Formate/Markdown.md)
