@@ -1,6 +1,6 @@
 # BEACON
 
-BEACON-Dateien sind einfach Text-Dateien, mit denen Konkordanzen zwischen zwei Repositorien gebildet werden können. Sie werden üblicherweise im Kontext von kontrollierten Vokabularen und Normdaten eingesetzt.
+BEACON-Dateien sind einfache Text-Dateien, mit denen Konkordanzen zwischen zwei Repositorien gebildet werden können. Sie werden üblicherweise im Kontext von kontrollierten Vokabularen und Normdaten eingesetzt.
 
 Eine BEACON-Datei besteht aus einem Kopfteil, der die Datei selbst beschreibt - etwa einen Namen, eine Kontaktadresse, etc. für die gebildete Konkoranzliste beinhaltet, und einem Hauptteil, in dem die IDs der jeweiligen Repositorien mit einem geraden Strich (`|`) getrennt voneinander gegenübergestellt werden.
 
