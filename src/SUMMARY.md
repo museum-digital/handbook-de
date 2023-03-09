@@ -53,10 +53,13 @@
   - [Weitere Funktionen]() <!-- (./Ausgabe/misc/Graphenansicht.md) -->
     - ["Graphenansicht"](./Ausgabe/misc/Graphenansicht.md)
     - [Resolver](./Ausgabe/misc/Resolver.md)
+    - [Chronik der letzten besuchten Objektseiten]()
   - [Gestaltungskonzepte](./Ausgabe/UI/README.md)
     - [Sprachsteuerung](./Ausgabe/UI/Sprachsteuerung.md)
     - [Tastensteuerung](./Ausgabe/UI/Tastensteuerung.md)
+    - [Breadcrumb Trails](./Ausgabe/UI/Breadcrumbs.md)
   - [FAQ](./Ausgabe/FAQ.md)
+    - [Kontaktdaten für Fragen ermitteln](./Ausgabe/FAQ/Kontaktdaten-ermitteln.md)
 
 # musdb
 
