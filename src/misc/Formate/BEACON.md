@@ -2,7 +2,7 @@
 
 BEACON-Dateien sind einfache Text-Dateien, mit denen Konkordanzen zwischen zwei Repositorien abgebildet werden können. Sie werden üblicherweise im Kontext von kontrollierten Vokabularen und Normdaten eingesetzt.
 
-Eine BEACON-Datei besteht aus einem Kopfteil, der die Datei selbst beschreibt - etwa einen Namen, eine Kontaktadresse, etc. für die gebildete Konkoranzliste beinhaltet, und einem Hauptteil, in dem die IDs der jeweiligen Repositorien mit einem geraden Strich (`|`) getrennt voneinander gegenübergestellt werden.
+Eine BEACON-Datei besteht aus einem Kopfteil, der die Datei selbst beschreibt - etwa einen Namen, eine Kontaktadresse, etc. für die gebildete Konkoranzliste beinhaltet, und einem Hauptteil, in dem die IDs der jeweiligen Repositorien mit einem bzw. zwei geraden Strichen (|`|`) getrennt voneinander gegenübergestellt werden.
 
 Eine kurze BEACON-Datei zur Abbildung einer Konkordanz zwischen Gemeinsamer Normdatei (GND) und dem Schlagwortkatalog von museum-digital könnte also wie folgt aussehen:
 
@@ -13,7 +13,7 @@ Eine kurze BEACON-Datei zur Abbildung einer Konkordanz zwischen Gemeinsamer Norm
 #PREFIX: https://term.museum-digital.de/md-de/tag/
 #TARGET: http://d-nb.info/gnd/
 
-1|4056366-2
+1||4056366-2
 ```
 
 Zuerst werden hier Format, Name der Datei, und die Zeit der Generierung der Liste spezifiziert. Es folgen die Angaben zum "Präfix" (`PREFIX`) und zum Ziel (`TARGET`), welche jeweils URL-Abschnitte sind, die den im Hauptteil genannten Werten vorangestellt werden.
