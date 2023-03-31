@@ -225,6 +225,9 @@ Objektinformationen (sichtbar und in LIDO) herunterzuladen.
 
 ![](../../assets/musdb/objects-list/sahifo_main.jpg)
 
- 
-
- 
+<!--
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/gtTQcnSjl2w">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>
+-->

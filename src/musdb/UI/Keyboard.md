@@ -127,3 +127,8 @@ kommen kann.
 
 Zusammenfassung als Video
 -------------------------
+
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/hQnZu--H8Q8">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>

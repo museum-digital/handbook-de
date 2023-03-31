@@ -117,3 +117,8 @@ Klicken auf diese Schalter bestätigen und werden dann gleich zum davor-
 oder danach liegenden Datensatz geleitet. (Abb. 4, unten rechts)
 
 ![Oben links auf der Objektseite kann zum vorherigen oder folgenden Objekt navigiert werden](../../assets/musdb/objects-list/Objekt-bearbeiten-vor-zurueck.jpg)
+
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/wm2-0jTmN0c">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>

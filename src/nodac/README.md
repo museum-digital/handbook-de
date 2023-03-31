@@ -22,3 +22,10 @@ Hinzu kommt ein Verzeichnis von Quellen für Statements ([s. 4.16.1 Statements](
 Grundsätzlich ist der Zugang zu "nodac" für die Vokabulare bei museum-digital beschränkt auf die Normdatenredaktion. Jedem Nutzer von museum-digital steht jedoch ein eingeschränkter Zugang zur Verfügung. Die Regel dafür ist einfach: Solange ein Eintrag (ein Akteur, ein Ortsname, ...) nur von einem einzigen Museum bei museum-digital verwendet wird, können Mitarbeiter dieses Museums die Angaben in "nodac" ändern. Sobald zwei oder mehr Museen Objekte mit dem gleichen Akteur oder dem gleichen Ort ... verknüpft haben, geht die Verwaltung des Begriffs an die Normdatenredaktion über. Die einzelnen Museen können jedoch jederzeit Anmerkungen zu den Begriffen verfassen, die dann von der Normdatenredaktion berücksichtigt werden können. Externe Vokabulare haben eine eigene Redaktion. 
 
 In diesem Kapitel wird zunächst die Navigation von "nodac" vorgestellt. Danach werden die Regeln für die redaktionelle Arbeit mit dem Werkzeug entlang der vier genannten Vokabularien erläutert. Für den Einsatz von nodac für externe Vokabulare gelten dabei im wesentlichen die Regeln, die hier für die Schlagwort-Verwaltung genannt werden.
+
+## YouTube-Playlist zu nodac
+
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/videoseries?list=PLlwIIHnjvD4fRhTJR-5xLe-NG-C_rVEhA">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>

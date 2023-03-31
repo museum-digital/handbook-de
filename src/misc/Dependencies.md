@@ -13,7 +13,7 @@ Ausgabe
 |-------------------|------------------------------|------------------------------------------------------------|
 | Chart.js                    | v3.7.1                       | [Website](https://www.chartjs.org/)                        |
 | DOMPurify                   | v2.4.0                       | [Website](https://github.com/cure53/DOMPurify/)                        |
-| JQuery (Slim)     | v3.6.1                       | [Website](https://jquery.com/)                             |
+| JQuery (Slim)     | v3.6.4                       | [Website](https://jquery.com/)                             |
 | Justified Gallery | v3.8.1                       | [Website](http://miromannino.github.io/Justified-Gallery/) |
 | OpenLayers        | v7.1                         | [Website](https://openlayers.org/)                         |
 | OL-Ext            | v3.2.24                      | [GitHub](https://github.com/Viglino/ol-ext)                         |
@@ -34,7 +34,7 @@ musdb
 | gridstack                   | v6.0.1                       | [Website](https://gridstackjs.com/)                             |
 | hammerJs                    | v2.0.8                       | [Website](https://hammerjs.github.io/)                             |
 | Justified Gallery           | v3.8.1                       | [Website](http://miromannino.github.io/Justified-Gallery/)        |
-| JQuery                      | v3.6.1                       | [Website](https://jquery.com/)                             |
+| JQuery                      | v3.6.4                       | [Website](https://jquery.com/)                             |
 | OpenLayers                  | v7.1                         | [Website](https://openlayers.org/)                             |
 | QR Scanner                  |                              | [GitHub](https://github.com/nimiq/qr-scanner)                      |
 | Swagger UI                  | v4.1.2                       | [GitHub](https://github.com/swagger-api/swagger-ui)               |
@@ -47,7 +47,7 @@ nodac
 | Bibliothek | Aktuell eingebundene Version | Link zum Projekt                    |
 |------------|------------------------------|-------------------------------------|
 | Chart.js   | v3.7.1                       | [Website](https://www.chartjs.org/) |
-| JQuery     | v3.6.1                       | [Website](https://jquery.com/)      |
+| JQuery     | v3.6.4                       | [Website](https://jquery.com/)      |
 | OpenLayers | v7.1                         | [Website](https://openlayers.org/)  |
 
 Themator

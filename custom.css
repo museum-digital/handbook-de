@@ -1,0 +1,18 @@
+.yt-embed { position: relative; display: block;
+    margin-top: 2.5em; padding: 3em 1em; background: var(--sidebar-bg);
+    border: 1px solid var(--searchbar-fg); border-radius: .1em;
+    transition: background .4s; }
+.yt-embed:before { display: block; position: absolute;
+    content: " ";
+    top: 0; left: 50%; transform: translate(-50%, -50%);
+    width: 40px; height: 40px; box-sizing: content-box; padding: 5px;
+    border: 1px solid var(--searchbar-fg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-image: url("/assets/logos/other/YouTube_full-color_icon_(2017).svg");
+    background-color: inherit;
+    border-radius: 100%; }
+.yt-embed.loaded { padding: 0 0; }
+.yt-embed:hover  { background: inherit; }
+.yt-embed iframe { display: block; width: 100%; height: 400px; }

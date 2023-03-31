@@ -15,6 +15,10 @@ Da die Merklisten-Funktion nicht von jedem genutzt wird ist sie in der Grundeins
 abschaltet. Das An- und Abschalten der Merklisten-Funktion geschieht
 über das Menü "Persönliche Einstellungen".
 
+```admonish warning
+Die untenstehenden Informationen sind stark veraltet und müssen neu geschrieben werden.
+```
+
 Wie lässt sich - wenn die Merklisten-Funktion aktiviert ist - die Merkliste anzeigen oder verstecken?
 ----------------------------------------------------------------------------------------------------
 
@@ -54,7 +58,10 @@ Die Schalter der Merkliste:
     XML-Export der in der Liste enthaltenen Objekte)
 5.  \"Merkliste speichern\" (Speichert die aktuelle Merkliste auf Ihrem
     Rechner)
-6.  \"(Server-) Merkliste neu-laden\" (Diese Funktion ist nur nötig,
-    wenn Sie parallel mit mehreren Browsern arbeiten)
-7.  \"Stil der Merkliste\" (Umschalter zwischen Listen- und
-    Bilderansicht)
+
+<!--
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/UHQCmZqTaw4">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>
+-->

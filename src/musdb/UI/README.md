@@ -13,3 +13,8 @@ Direkt darunter kommt die Menuleiste, die in der Standard-Einstellung - für Nut
 ![Menuleiste - Standard und Erweitert](../../assets/musdb/navigation/top_menuleiste.png "Menuleiste, Standard (oben) und Erweitert (unten)")
 
 Die Menuleiste hat am rechten Rand einen Punkt oder Kreis, der eine zweifache Funktion hat. Die Farbe des Kreises ändert sich mit dem gewählten Bereich. Werden z.B. Eingaben zum Museum bearbeitet, so färbt sich der Kreis rot etc. Klickt man in den Kreis, so öffnet sich das Suchformular ["Übersichts-Suche"](../../musdb/UI/overall_search.md).
+
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/4HxoVnf6loQ">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>
