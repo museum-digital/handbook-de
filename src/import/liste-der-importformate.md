@@ -14,6 +14,7 @@ Eine Abhilfe kann hierbei eine eingebaute Vollständigkeitsprüfung liefern, die
 | csvxml                     | XML         | Ja        | Der Referenz-Parser für das [Standard-Importformat](./CSVXML.md) von museum-digital. |
 | csvxml_json                | JSON        | Ja        | Eine JSON-basierte Variante des CSVXML-Formats. |
 | First Rumos                | XML         | Ja        | [First Rumos](https://www.firstrumos.de) hat einen Eingaben Export-Schalter für museum-digital. Dieser Parser importiert die so exportierten Daten. |
+| HiDa                       | XML         | Ja        | Parser für den Standard-Export der Daten aus [HiDa](https://www.startext.de/produkte/hida) in der Konfiguration der Sächsischen Landesstelle für das Museumswesen. |
 | IKMK                       | JSON        | Ja        | Parser für die `json_ext`-Exportdaten aus den verschiedenen Instanzen des "Interaktiven Katalog des Münzkabinetts". |
 | imdas pro                  | XML         | Nein      | Parser für die Export-Daten des [Landesmuseums Württemberg](https://www.landesmuseum-stuttgart.de/). Ob sich der Parser auch für die Exporte aus anderen Instanzen von [Imdas Pro](https://www.joanneum.at/digital/produkteloesungen/imdas-pro-archivis-pro) benutzen lässt, ist bisher unbekannt |
 | Johann@Hilf                | CSV         | Ja        | Johann@Hilf war der Vorgänger von Primus und arbeitete auf Basis von MS-Access. Der Johann@Hilf-Parser arbeitet mit einem CSV-Export der Access-Datenbank. |
