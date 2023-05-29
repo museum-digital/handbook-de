@@ -9,3 +9,8 @@ Die zweite Funktion dieses Punktes ist die Übersichts-Suche, d.h. eine Suche ü
 Ein Klick auf den Punkt (egal, in welcher Farbe er sich präsentiert) blendet am oberen Rand eine Suchleiste ein. Sobald dort mehr als zwei Buchstaben eingetippt wurden erscheint eine Vorschlagsliste mit jeweils 5 Vorschlägen aus den einzelnen Bereichen. Diese Vorschläge sind anklickbar und führen direkt zu den entsprechenden Seiten.
 
  ![](../../assets/musdb/uebersichtssuche.jpg)
+
+<div class="yt-embed" data-src="https://www.youtube-nocookie.com/embed/PTbFswLconE">
+<b>Anleitung auf Youtube</b><br />
+Mit einem Klick wird das Video geladen. Damit werden andererseits ihre Daten mit Youtube geteilt.
+</div>

@@ -72,7 +72,7 @@ Modul: \"nodac\"
 Eine Vorbedingung für qualitätvolle Information ist die Verwendung
 kontextualisierter und angereicherter Normdaten. Für die Verwaltung,
 Anreicherung und Hierarchisierung dieser Normdaten steht das zentrale
-Modul ["nodac"](../nodac/README.md) zur Verfügung. Weil alle beteiligten Museen den gleichen
+Modul ["nodac"](../nodac/) zur Verfügung. Weil alle beteiligten Museen den gleichen
 Normdatenpool verwenden und es, dürften alle alles überschreiben,
 schnell zu widersprüchlichen Angaben käme, ist die Benutzung des Moduls
 für museum-digital der zentralen Normdatenredaktion vorbehalten (die
