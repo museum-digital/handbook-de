@@ -32,7 +32,7 @@ hochgeladen werden sollen.
 
 Bei dieser CSV-Datei gibt es zahlreiche Fehler, die zu beheben sind.
 
-[![](../assets/imports/checking_validity_fehlerfrei.png)
+![](../assets/imports/checking_validity_fehlerfrei.png)
 
 Bei dieser CSV-Datei wurden keine Fehler gefunden.
 
