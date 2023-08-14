@@ -49,6 +49,7 @@
       - [Bilderwand](./Ausgabe/Suche/Bilderwand.md)
     - [Bilder suchen](./Ausgabe/Suche/Bildersuche.md)
   - [API](./Ausgabe/API/README.md)
+    - [Swagger UI](./Ausgabe/API/Swagger/index.html)
   - [RSS-Feeds](./Ausgabe/rss.md)
   - [Weitere Funktionen]() <!-- (./Ausgabe/misc/Graphenansicht.md) -->
     - ["Graphenansicht"](./Ausgabe/misc/Graphenansicht.md)
