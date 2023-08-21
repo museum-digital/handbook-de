@@ -46,7 +46,7 @@ Lexikon Berlin-Brandenburgischer Künstler:innen, das auf Basis der APIs von md:
 
 ## musdb
 
-- freies-deutsches-hochstift/museum-digital-export-to-ddb
+### freies-deutsches-hochstift/museum-digital-export-to-ddb
 
 Ein Kommandozeilen-Script zur automatischen Generierung von gezielten Exporten (d.h. nur eine Auswahl der Objekte des Hauses werden exportiert). Welche Objekte exportiert werden wird als Suchabfrage  in einer Konfigurationsdatei festgehalten. Im Hintergrund wird die musdb-API zum Generieren des Exports genutzt. Das Script steht unter der GNU Public License zur Weiternutzung- und Entwicklung zur Verfügung.
 
