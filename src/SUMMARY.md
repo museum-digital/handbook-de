@@ -238,6 +238,8 @@
     - [RSS](./misc/Formate/XML/RSS.md)
     - [LIDO](./misc/Formate/XML/LIDO.md)
     - [EODEM](./misc/Formate/XML/EODEM.md)
+- [Vergangene Sammlungsmanagementsysteme](./misc/CMS/README.md)
+  - [Johann\@Hilf](./misc/CMS/JohannHilf.md)
 
 -----------
 
