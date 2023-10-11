@@ -225,6 +225,12 @@
 
 -----------
 
+# Weitere Tools
+
+- [museum-digital:qa](./misc/md-qa/README.md)
+
+-----------
+
 # Weiteres
 
 - [Dateiformate und Protokolle](./misc/Formate/README.md)
