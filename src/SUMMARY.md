@@ -219,6 +219,7 @@
 - [Importe: Einleitung](./import/README.md)
   - [Der Import-Prozess](./import/importprozess.md)
   - [Liste der importierbaren Formate](./import/liste-der-importformate.md)
+    - [Der "ImageByInvno"-Parser](./import/ImageByInvno.md)
   - [CSVXML](./import/CSVXML.md)
   - [Technischer Aufbau](./import/Aufbau.md)
   - [Automatische Bereinigung der Daten](./import/Automatische-Bereinigung.md)
