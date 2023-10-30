@@ -70,6 +70,7 @@
     - [Zugang erhalten](./musdb/Benutzerkonto/Zugang-erhalten.md)
     - [Nutzerrollen und -Rechte](./musdb/Benutzerkonto/Berechtigungen.md)
     - [Neue Benutzer hinzufügen](./musdb/Benutzerkonto/Neues-Kontro-hinzufuegen.md)
+      - [Authentifizierungstoken für API-Verwendung](./musdb/Benutzerkonto/Auth-Token.md)
     - [Kontoeinstellungen und Sicherheit](./musdb/Benutzerkonto/Kontoeinstellungen.md)
       - [Account-Sicherheit](./musdb/Benutzerkonto/Sicherheit.md)
       - [Benachrichtigungen](./musdb/Benutzerkonto/Benachrichtigungen.md)

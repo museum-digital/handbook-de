@@ -36,6 +36,12 @@ Wordpress-Plugin.
 
 - <https://mkvm.hu/digitalis-gyujtemenyek-2/?collection_id=889>
 
+#### Museen Freiberg
+
+Plugin für TYPO3.
+
+- <https://www.museum-freiberg.de/museum/sammlungen/kuenstlerische-werke-gottfried-kohls-gesamtuebersicht>
+
 ## md:term
 
 ### Berlin-Brandenburgisches Künstlerinnenlexikon
