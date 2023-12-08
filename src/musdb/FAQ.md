@@ -1,5 +1,13 @@
 # FAQ
 
+## Objektbearbeitung
+
+### Kann ein neues Feature implementiert werden, um ganze Datensätze auf einen Schlag zu kopieren? Damit könnte die Erfassung ähnlicher Bestände deutlich schneller erfolgen!
+
+Ein solches Feature war ungefähr 2012 tatsächlich einmal in musdb implementiert. Die Folge waren viele falsche Eingaben, weil zusätzliche Angaben die zum kopierten Datensatz passten, aber nicht zum durch das kopieren Entstandenen, einfach mit kopiert und dann nicht gelöscht wurden. Ein zentrales Ziel bei der Entwicklung von musdb ist es Museen das hochqualitätive Erfassen ihrer Bestände einfach zu ermöglichen. Ein vollständiges Kopieren von Datensätzen hat sich dafür unserer Erfahrung nach als kontraproduktiv herausgestellt.
+
+Das Kopieren gerade getätigter Eingaben auf Feldebene hat sich im Gegensatz dazu als deutliche Erleichterung erwiesen, die im Bezug auf aus Versehen getätigte Falscheingaben relativ ungefährlich ist. Entsprechend stehen beim Bearbeiten von Objekten für fast alle Felder Buttons zur Verfügung, um den zuletzt in einem gegebenen Feld eingetragenen Wert auch für das aktuelle Objekt einzutragen. Siehe dazu: "[Eingabe beschleunigen: Angaben wiederholen](https://de.handbook.museum-digital.info/musdb/Objekte/Angaben-wiederholen.html)".
+
 ## Benutzerkonten
 
 ### Warum kann ich kein Konto für Benutzer mit @t-online.de-Adresse anlegen?

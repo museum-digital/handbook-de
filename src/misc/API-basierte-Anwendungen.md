@@ -24,6 +24,10 @@ Wordpress-Plugin, das die Objekte nach Sammlungen vorsortiert auf der Museumssei
 
 - <https://www.alliiertenmuseum.de/sammlung-online/>
 
+#### Ivan Franko Museum Lviv
+
+- <https://dimfranka.vercel.app/pages/collections>
+
 #### Museum Naturalienkabinett Waldenburg
 
 Wordpress-Plugin.

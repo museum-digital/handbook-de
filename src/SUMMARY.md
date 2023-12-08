@@ -124,7 +124,8 @@
     - [Suchergebnisse analysieren](./musdb/Objekte/Objekt-Ergebnisse-analysieren.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
-      - [Suchabfragen speichern]() <!-- (./musdb/Objektsuche/Suchabfragen-speichern.md) -->
+      - [Schnellzugriffe: Suche nach Objekt-ID und Inventarnummer](./musdb/Objektsuche/Schnellzugriffe-ID-Invno.md)
+      - [Suchabfragen speichern](./musdb/Objektsuche/Suchabfragen-speichern.md)
       - [Abfragesprache](./musdb/Objektsuche/Abfragesprache.md)
     - [Merkliste](./musdb/Objektsuche/Merkliste.md)
     - [Stapelbearbeitung](./musdb/Objektsuche/Batch/README.md)
