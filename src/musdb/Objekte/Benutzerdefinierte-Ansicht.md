@@ -25,3 +25,5 @@ Klickt man auf diesen Button, erscheint eine Liste aller verfügbaren Felder ode
 Möchte man sein Preset mit Kollegen teilen (etwa, wenn neue Mitarbeiter dieselbe Ansicht benutzen sollen), lässt sich die Konfiguration als `.json`-Datei exportieren, indem man den entsprechenden "exportieren"-Button in der Navigation anklickt. Die so exportierte Konfiguration kann nun von den Kollegen importiert werden, indem sie auf den "Presets benutzen"-Button in der Navigation klicken und die Datei unten in der Überblendung hochladen.
 
 Die Liste der verfügbaren Presets generiert sich aus einem Open-Source Repository, sodass jeder Benutzer seine (exportierte) Konfiguration als Preset vorschlagen kann. Die Quelldateien finden sich [hier](https://gitea.armuli.eu/museum-digital/MusdbCustomObjectPagePresets).
+
+![](../../assets/musdb/objects-edit/custom-object-page/User-defined-object-page-presets.webp)
