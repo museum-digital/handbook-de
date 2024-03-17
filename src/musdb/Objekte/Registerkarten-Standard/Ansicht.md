@@ -21,6 +21,35 @@ Sind die Angaben im Dialogfenster zutreffend, dann können bis zu 20 Dateien aus
 
 Wurden mehr als eine Abbildung heraufgeladen, so erscheint direkt nach dem Heraufladen die Registerkarte "Ansicht". Falls nur eine einzige Abbildung heraufgeladen wurde, erscheint stattdessen die Bildbearbeitungsseite.
 
+### Unterstützte Dateiformate
+
+| Art der Ressource | Speicherformat | Erlaubte Upload-Formate |
+|-------------------+----------------+-------------------------|
+| Bilddateien       | .jpg           | .jpg, .png, .webp       |
+| PDF               | .pdf           | .pdf                    |
+| Audio             | .mp3           | .mp3                    |
+| Video             | .mp4           | .mp4                    |
+| 3D                | .zip           | .zip                    |
+
+### Upload von 3D-Repräsentationen von Objekten
+
+3D-Repräsentationen von Objekten können in musdb heraufgeladen und mit museum-digital veröffentlicht werden. Heraufgeladen werden können sie mithilfe von ZIP-Archiven, in denen die Strukturinformationen und optional Textur/Material-Daten vorliegen. Diese ZIP-Dateien werden strikt validiert und dürfen nur die unbedingt notwendigen Dateitypen enthalten.
+
+- Ein ZIP-Archiv für 3D-Repräsentationen von Objekten muss eine `.obj`-Datei für die Strukturinformationen zum Objekt beinhalten.
+- Optional können Material bzw. Textur mithilfe der Dateiformate `.mtl` und `.jpg` beschrieben werden.
+- Eine Datei `thumb.jpg` kann zur Bestimmung der Voransicht verwendet werden. (siehe unten)
+
+### Generierung von Thumbnails
+
+Je nach Dateityp kann musdb Voransichten für die heraufgeladenen Abbildungen generieren.
+
+- *Bilddateien*: Hier kann die Voransicht direkt aus der Datei generiert werden.
+- *PDF*: Voransichten für PDFs werden aus der ersten Seite des Dokuments generiert.
+- *Audio- und Videodateien*: Bei `.mp3` und `.mp4`-Dateien kann ein Thumbnail in den Metadaten der Datei angegeben werden. Bei in musdb hochgeladenen (statt nur verknüpften) Dateien werden so angegebene Thumbnails aus den Metadaten extrahiert und für die Voransicht verwendet. Ist kein Thumbnail in den Metadaten angegeben wird ein Platzhalter verwendet.
+- *3D*: 3D-Repräsentationen eines Objektes werden als ZIP-Archiv hochgeladen. Liegt im hochgeladenen ZIP-Archiv eine Datei `thumb.jpg` auf der Haupt-Ebene des Archivs vor, wird diese aus dem Archiv extrahiert und zur Generierung der Voransichten verwendet. Danach wird sie aus dem ZIP-Archiv gelöscht um später beim Betrachten der Bilder Bandbreite auf Seiten der Nutzer zu sparen. Liegt keine Datei `thumb.jpg` vor, wird ein Platzhalter verwendet.
+
+Voransichten werden in den Dateiformated JPG und WEBP generiert in den Größen 100 px Höhe, 200 px Breite und 500 px Breite generiert.
+
 ## Ressourcen verwalten
 
 Sind Abbildungen oder Ressourcen auf der Registerkarte vorhanden, dann gibt es eine ganze Reihe von Optionen. Welche es konkret gibt, das hängt von der Art der Ressourcen ab. Ein weiterer Zugang zur Verwaltung von (ausschließlich) Abbildungen läßt sich erreichen, indem man sich den Menupunkt "Abbildungen" freischaltet. ([Siehe "Persönliche Einstellungen"](../../Benutzerkonto/Einstellungen.md). Über die erweiterten Möglichkeiten des Menüpunktes: [Siehe 4.15 Abbildungen](../../Objekte/Abbildungen.md).)
