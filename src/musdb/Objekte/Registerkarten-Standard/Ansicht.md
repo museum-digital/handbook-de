@@ -24,7 +24,7 @@ Wurden mehr als eine Abbildung heraufgeladen, so erscheint direkt nach dem Herau
 ### Unterstützte Dateiformate
 
 | Art der Ressource | Speicherformat | Erlaubte Upload-Formate |
-|-------------------+----------------+-------------------------|
+|-------------------|----------------|-------------------------|
 | Bilddateien       | .jpg           | .jpg, .png, .webp       |
 | PDF               | .pdf           | .pdf                    |
 | Audio             | .mp3           | .mp3                    |
