@@ -118,6 +118,8 @@
       - [Registerkarte "Konservierung"](./musdb/Objekte/Registerkarten-Zusatz/Konservierung.md)
       - [Registerkarte "Provenienz"]() <!-- (./musdb/Objekte/Registerkarten-Zusatz/Provenienz.md) -->
     - [Benutzerdefinierte Bearbeitungsoberfläche](./musdb/Objekte/Benutzerdefinierte-Ansicht.md)
+      - [Vorlagen]()
+        - [AG Minimaldatensatz](./musdb/Objekte/Benutzerdefinierte-Ansicht/Vorlagen/AG-Minimaldatensatz.md)
     - [Objekt-Funktionen](./musdb/Objekte/Funktionen-Einzelobjekt.md)
     - [Angaben wiederholen / Eingabehilfen](./musdb/Objekte/Angaben-wiederholen.md)
     - [Zeitleiste zum Objekt](./musdb/Objekte/Objekt-Zeitleiste.md)
