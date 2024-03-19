@@ -10,6 +10,6 @@ Durch einen Klick darauf öffnet sich ein Dialog mit einer Warnung, dass der Aut
 
 ![Authentifizierungstoken kopieren](../../assets/musdb/benutzer/Benutzer-Auth-Token-2.avif)
 
-```warn
+```admonish warn
 Es ist unbedingt zu empfelen, einen dedizierten Benutzer für die Nutzung der API anzulegen. So lassen sich die Rechte des Benutzers auf das für eine gegebene Anwendung spezifisch nötige beschränken und die Sicherheit erhöhen.
 ```
