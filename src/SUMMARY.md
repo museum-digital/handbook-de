@@ -85,6 +85,7 @@
     - [Tastenkürzel](./musdb/UI/Keyboard.md)
   - [Dashboard](./musdb/Dashboard/README.md)
   - [Museumsinformationen](./musdb/Museum/museumsinfo.md)
+    - [Ein Neues Museum anlegen](./musdb/Museum/Neues-Museum-anlegen.md)
     - [Allgemeine Museumsinformation](./musdb/Museum/museumsinfo_allgemein.md)
     - [Zusätzliche Museumsinformation](./musdb/Museum/museumsinfo_additional.md)
       - [Detailinformationen](./musdb/Museum/museumsinfo_detailed.md)
