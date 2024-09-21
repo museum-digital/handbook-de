@@ -22,7 +22,7 @@ Die einzelnen Zeilen sind als Links gestaltet. Es ist auf diese Weise sehr leich
 
 ![Close von nodac](../assets/nodac/nodac_icon_exit.jpg) Um das nodac-Werkzeug zu verlassen ist die Betätigung dieses Schalters empfohlen. Das Programm wird geschlossen und der Cache gelöscht.
 
-Unterhalb der Navigationsleiste kann das zu bearbeitende Vokabular ausgewählt werden. Zur Verfügung stehen (je nach Zuweisung):
+Unterhalb der Navigationsleiste kann das zu bearbeitende Vokabular ausgewählt werden. Zur Verfügung stehen:
 
 - actors_md für Personen, Institutionen und andere Körperschaften
 - places_md für Geographica und Gebäude
