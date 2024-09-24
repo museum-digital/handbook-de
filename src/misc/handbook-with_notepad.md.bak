@@ -8,8 +8,6 @@ Um ein kleines Beispiel zu geben: Jedes Unterkapitel des Handbuches besteht aus 
 
     # Kapitelüberschrift
     Einleitung, Absatz 1
-    
-    Einleitung, Absatz 2
     ## Unterkapitelüberschrift
     Unterkapiteltext, Absatz 1
 
@@ -17,8 +15,6 @@ und in der Ausgabe erfolgt die Anzeige als:
 
 # Kapitelüberschrift
 Einleitung, Absatz 1
-
-Einleitung, Absatz 2
 ## Unterkapitelüberschrift
 Unterkapiteltext, Absatz 1
 
