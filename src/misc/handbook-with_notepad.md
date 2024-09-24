@@ -27,3 +27,10 @@ Ebenso einfach ist es beispielsweise ein Wort kursiv zu gestalten. Es reicht ein
 Mit jedem einfachen Text- oder HTML-Editor lassen sich jetzt die lokal gespeicherten Dateien bearbeiten. Beispielsweise mit notepad++ (kostenfrei erhältlich unter: https://notepad-plus-plus.org/downloads/). Der Vorteil, den dieser Editor bietet, besteht darin, daß geänderte Zeilen am linken Rand markiert und dass die eingestreuten Markdown-Befehle farblich hervorgehoben werden, das schafft Übersicht. Zudem kann in notepad++ das Plugin "Markdown Panel" installiert werden. Auf diese Weise ist eine Vorschau auf die Seite möglich. Das sieht dann beispielsweise so aus:
 
 ![Beispiel für notepad++ mit Markdown Panel](../assets/writinghandbook/notepad_with_markdown_panel.jpg)
+
+Ist die Bearbeitung beendet, dann wird die Datei gespeichert. Lokal, d.h. auf Ihrem Rechner liegt jetzt die aktuelle Version vor. Damit dieses auch tatsächlich öffentlich werden kann muss sie zunächst auf den Server transferiert werden. Dazu wird der Github-Desktop aufgerufen. Während der Bearbeitung lief dieser im Hintergrund und hat die Änderungen protokolliert.
+In der linken Spalte des Github-Desktop findet sich unten ein Pflichtfeld "Summary (required)" in welches zusammengefasst eingetragen werden sollte, worin die Änderungen bestanden. Ist dieses Feld ausgefüllt (und vielleicht noch eine ausführlichere Beschreibung der Änderungen im darunterstehenden Feld angegeben) muss der Schalter "Commit to master" (unten links) angeklickt werden. Erst dann erscheint der Schalter "Push origin" mit dem der neue Inhalt auf den Server transferiert wird.
+
+![Push origin](../assets/writinghandbook/github_push_origin.jpg)
+
+Nach der Freigabe durch den Handbuch-Redakteur erscheint die Seite dann auch öffentlich.
