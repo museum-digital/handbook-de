@@ -1,4 +1,4 @@
-# nodac: Navigation
+# nodac: Hauptnavigation
 
 Nach der Anmeldung bei nodac erscheint die vokabularübergreifende Navigation am oberen Rand des Bildschirmfensters.
 
@@ -7,6 +7,8 @@ Nach der Anmeldung bei nodac erscheint die vokabularübergreifende Navigation am
 Oben links erscheint mit "nodac hoch 2" der Home-Button, der auf die Startseite zurückführt. Am rechten Rand erscheinen mehrere schwarz unterlegte Buttons.
 
 ![Nutzer von nodac](../assets/nodac/nodac_icon_user.jpg) Dieses Icon führt zur Nutzerverwaltung. Es erscheint nur bei jenen Angemeldeten, die über die entsprechenden Berechtigungen verfügen.
+
+![Zweideutige Begriffe in nodac](../assets/nodac/nodac_icon_ambi.jpg) Dieses Icon führt zu einer Sonderseite, auf welcher zweideutige Begriffe gesammelt und ihre Verwendung ermittelt werden kann. Beispielsweise kommt es immer wieder vor, dass bei einem Import als Ortsname "Frankfurt" übernommen wird. Es ist aber nicht eindeutig, welches Frankfurt (an der Oder? oder am Main?) gemeint ist.
 
 ![Sprache von nodac](../assets/nodac/nodac_icon_language.jpg) Mittels dieses Icons lässt sich die Sprache des Werkzeugs einstellen. Aktuell implementiert sind Deutsch, Englisch, Indonesisch und Ungarisch.
 

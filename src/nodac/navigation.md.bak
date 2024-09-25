@@ -8,6 +8,8 @@ Oben links erscheint mit "nodac hoch 2" der Home-Button, der auf die Startseite 
 
 ![Nutzer von nodac](../assets/nodac/nodac_icon_user.jpg) Dieses Icon führt zur Nutzerverwaltung. Es erscheint nur bei jenen Angemeldeten, die über die entsprechenden Berechtigungen verfügen.
 
+![Zweideutige Begriffe in nodac](../assets/nodac/nodac_icon_ambi.jpg) Dieses Icon führt zu einer Sonderseite, auf welcher zweideutige Begriffe gesammelt und ihre Verwendung ermittelt werden kann. Beispielsweise kommt es immer wieder vor, dass bei einem Import als Ortsname "Frankfurt" übernommen wird. Es ist aber nicht eindeutig, welches Frankfurt (an der Oder? oder am Main?) gemeint ist.
+
 ![Sprache von nodac](../assets/nodac/nodac_icon_language.jpg) Mittels dieses Icons lässt sich die Sprache des Werkzeugs einstellen. Aktuell implementiert sind Deutsch, Englisch, Indonesisch und Ungarisch.
 
 ![Involvement-Types von nodac](../assets/nodac/nodac_icon_involvement.jpg) Button für die Steuerung von Involvement-Types in Statements. Arbeitet zusammen mit der Tabelle sources. Sonderfunktion. Wird in Statements benutzt um Arten von Beziehungen zwischen Entitäten festzulegen. Auch dieser Schalter erscheint nur bei Nutzern mit entsprechenden Berechtigungen.
@@ -22,7 +24,7 @@ Die einzelnen Zeilen sind als Links gestaltet. Es ist auf diese Weise sehr leich
 
 ![Close von nodac](../assets/nodac/nodac_icon_exit.jpg) Um das nodac-Werkzeug zu verlassen ist die Betätigung dieses Schalters empfohlen. Das Programm wird geschlossen und der Cache gelöscht.
 
-Unterhalb der Navigationsleiste kann das zu bearbeitende Vokabular ausgewählt werden. Zur Verfügung stehen:
+Unterhalb der Navigationsleiste kann das zu bearbeitende Vokabular ausgewählt werden. Zur Verfügung stehen (je nach Zuweisung):
 
 - actors_md für Personen, Institutionen und andere Körperschaften
 - places_md für Geographica und Gebäude
