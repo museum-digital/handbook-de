@@ -213,7 +213,7 @@
 # nodac: Normdatenverwaltung
 
 - [nodac](./nodac/README.md)
-  - [nodac:Navigation](./nodac/navigation.md)
+  - [nodac:Hauptnavigation](./nodac/navigation.md)
   - [Akteure](./nodac/actors.md)
   - [Orte](./nodac/places.md)
   - [Schlagworte](./nodac/tags.md)
