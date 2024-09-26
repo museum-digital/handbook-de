@@ -17,3 +17,17 @@ Sowohl bei "Gespeicherten Suchanfragen" als auch bei "Kürzlich durchgeführten 
 * Status 3: Nur ungeprüfte Treffer anzeigen
 * Status 4: Nur unbearbeitete Treffer anzeigen
 * Status 5: Nur als fraglich markierte Treffer anzeigen
+
+Der folgende Block besteht aus zwei Kacheln, er dient der Information über den Stand der Bearbeitung. Zum einen wird die Bearbeitung der einzelnen Vokabulare insgesamt angezeigt, zum anderen die vom angemeldeten Benutzer durchgeführten Bearbeitungen. Die einzelnen Einträge sind als Link gestaltet führen jedoch nur in das jeweilige Vokabular. Beispielsweise führt ein Klick auf "Anzahl Orte in diesem Monat" im Kasten: "Von mir bearbeitet" aktuell zur Anzeige aller erfassten Orte. Dennoch ist es informativ zu sehen, wie gut man vorangekommen ist.
+
+![Bearbeitungsstand](../assets/nodac/stateofwork.jpg)
+
+Was folgt ist ein Block mit Suchmöglichkeiten innerhalb von vordefinierten Gruppen. Solche Gruppen werden als Objektgruppen in museum-digital:musdb definiert und dann mit einem Marker ("Group linked vocabulary entries for review in nodac") versehen. Auf diese Weise ist es möglich bei einem größeren Import die enthaltenen Objekte als Teil einer (unsichtbaren) Objektgruppe zu erfassen, diese Objektgruppe dann entsprechend zu markieren und einem ausgewählten Normdatenredakteur die Nachbearbeitung nur jener Begriffe zu übergeben, die mit den Objekten dieses Imports verknüpft sind.
+
+![Gruppierte Suchen](../assets/nodac/groupedsearches.jpg)
+
+Eine Heatmap zur Visualisierung der eigenen Bearbeitungen des letzten Jahres schließt sich an. Es gilt: Je heller das jeweilige Kästchen, desto mehr Einträge wurden vom aktuell angemeldeten Redakteur bearbeitet.
+
+![Heatmap](../assets/nodac/heatmap.jpg)
+
+Den Abschluß der Seite bilden vier Kacheln in denen jeweils die 20 neuesten Einträge pro Vokabular als Links (die direkt zum jeweiligen Eintrag führen) gemeinsam mit dem Erfassungszeitpunkt angezeigt werden.
