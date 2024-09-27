@@ -38,7 +38,7 @@ Wordpress-Plugin.
 
 Wordpress-Plugin.
 
-- <https://mkvm.hu/digitalis-gyujtemenyek-2/?collection_id=889>
+- https://mkvm.hu/digitalis-gyujtemenyek-2/?collection_id=889
 
 #### Museen Freiberg
 

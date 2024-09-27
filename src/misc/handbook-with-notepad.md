@@ -1,4 +1,4 @@
-# Handbuch mit notepad++ bearbeiten
+# Texte im Handbuch bearbeiten
 
 Ist, wie gerade beschrieben, der GitHub-Desktop installiert und eingerichtet, dann existiert auf ihrem Rechner eine lokale Kopie des Handbuches. Meist findet sich diese Kopie in einem Ordner unter Dokumente/GitHub/handbook-de/. Vom GitHub-Desktop aus erreichen sie diesen Ordner, indem Sie zunächst sicherstellen, daß oben links das richtige Repositorium ausgewählt ist (handbook-de) und anschließend die Option "Show in Explorer" anklicken
 

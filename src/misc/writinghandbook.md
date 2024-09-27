@@ -4,7 +4,7 @@ Ein Handbuch zu verfassen ist nicht leicht, vor allem dann, wenn sich das Beschr
 
 ## Vorbereitung
 
-Um an diesem Handbuch mitzuarbeiten ist ein Zugriff auf GitHub nötig. Dafür muss ein Konto (kostenfrei) bei [GitHub](https://github.com) angelegt werden. Dort sollte, falls schon ein GitHub-Konto besteht, die Funktion "SignIn" gewählt werden, anderenfalls die Funktion "[SignUp](https://github.com/signup)" zur Neuanlage eines kostenfreien Kontos.
+Um an diesem Handbuch mitzuarbeiten ist ein Zugriff auf GitHub nötig. Dafür muss ein Konto (kostenfrei) bei [GitHub](https://github.com) angelegt werden. Dort sollte, falls schon ein GitHub-Konto besteht, die Funktion "SignIn" gewählt werden, anderenfalls die Funktion "SignUp" zur Neuanlage eines kostenfreien Kontos.
 
 ![Startbildschirm von GitHub](../assets/misc/github_start.avif)
 

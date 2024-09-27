@@ -276,7 +276,7 @@
 # Entwicklung und Koordination
 
 - [mdBook und Zola: www.museum-digital.org und das Handbuch bearbeiten](./misc/writinghandbook.md)
-  - [Bearbeiten mit notepad++](./misc/handbook-with-notepad.md)
+  - [Texte bearbeiten](./misc/handbook-with-notepad.md)
 - [Wordpress: Der Blog]()
   - [Mehrsprachigkeit bei Schlagworten]()
 
