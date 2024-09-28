@@ -61,6 +61,7 @@ Diese Kachel ermöglicht zu erkennen, an welcher Stelle besonders häufig Inform
 
 ## Trefferliste
 
+## Einzelbearbeitung
 
 ## Erfassen
 
