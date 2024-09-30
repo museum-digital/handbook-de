@@ -6,4 +6,4 @@ Nicht nur hier im Handbuch wird museum-digital beschrieben. Allgemein werden Pr�
 
 Hier finden sich weitere Anleitungen und Handreichungen zu museum-digital.
 
-<!-- - [Materialien der Sächsischen Landesstelle für Museumswesen - Staatliche Kunstsammlungen Dresden](https://saechsische-landesstelle-fuer-museumswesen.skd.museum/fortbilden/sammeln-1/) -->
+- ["Objektpublikation mit museum-digital:sachsen": Materialien der Sächsischen Landesstelle für Museumswesen - Staatliche Kunstsammlungen Dresden](https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Publikationen/Handreichung_museum-digital_-_Publikation.pdf)
