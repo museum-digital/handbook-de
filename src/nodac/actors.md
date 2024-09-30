@@ -60,6 +60,56 @@ Die Einträge dieser Kachel geben an, wieviele der in nodac: Akteure erfassten E
 Diese Kachel ermöglicht zu erkennen, an welcher Stelle besonders häufig Informationen nachbearbeitet werden müssen. Wieder selektiert ein Klick auf die entsprechende Zeile die betreffenden Entitäten.
 
 ## Trefferliste
+Die Trefferliste von nodac: Akteure ist in zwei Bereiche eingeteilt. Der linke Bereich zeigt Such- und Auswahlmöglichkeiten. Er ist identisch mit dem linken Bereich der Startseite. Der rechte Bereich zeigt die den jeweiligen Auswahlbedingungen entsprechenden Treffer in Listenform an.
+
+**Such- und Auswahlmöglichkeiten**
+
+Die linke Spalte von Startssite und Trefferliste beginnt in nodac: Akteure mit einem einfachen Suchschlitz, sie bietet Sortier- und Auswahlmöglichkeiten sowie - in der Sektion "Fehlende Information" - gespeicherte Abfragen zur fokussierten Bereinigung der Vokabulars. Die Möglichkeiten und Abfrage sind notgedrungen vokabularspezifisch, im folgenden wird der Einsatz von nodac: Akteure für das Verzeichnis der Akteure bei museum-digital erläutert. Um  nodac: Akteure  mit einem externen Verzeichnis, das anders strukturiert ist, zu verwenden, sind gegebenenfalls kleine Anpassungen nötig.
+
+Bei museum-digital werden Bezeichnungen von Akteuren in vier Formen gespeichert (die sich ineinander umrechnen lassen).
+- "Erweiterter Name", etwa "Heinrich Heine (1797-1856)", also [Vorname] [Nachname] [(][Geburtsjahr][)][-][(][Sterbejahr][}].
+- "Gebräuchlicher Name", etwa "Heinrich Heine", also [Vorname] [Nachname].
+- "Sortiername", etwa "Heine, Heinrich", also [Nachname], [Vorname].
+- Getrennte Felder für Vorname, Nachname, Geburtsjahr, Sterbejahr, etc.
+
+![nodac: Akteure Such und Auswahlmöglicheiten auf Startseite und in Trefferliste](../assets/nodac/nodac_actors_choises.jpg)
+**Anzeigename enthält**
+
+Die einzelnen Such- und Auswahlmöglichkeiten lassen sich kombinieren. Der Suchschlitz der linken Spalte löst die Suche nach einer Zeichenreihenfolge im Feld "Erweiterter Name" aus. Dies ermöglicht beispielsweise bei einer Suche nach "1874" alle Akteure zu finden, die in diesem Jahr geboren oder gestorben sind.
+
+**ID in ...**
+
+Mit diesem Eingabefeld können beliebige Datensätze des Vokabulars in einer Trefferliste zusammengefasst werden. Die IDs der einzelnen Einträge müssen durch Komma (ohne folgendes Leerzeichen) eingegeben werden. Die Anzahl der auszuwählenden Datensätze ist dabei nicht begrenzt.
+
+**Sortierung**
+
+Die IDs der Datensätze werden fortlaufend vergeben. Eine Sortierung nach IDs entspricht also einer Sortierung nach dem Zugang in das Vokabular. Je neuer der Eintrag, desto höher die ID. Weiter lässt sich nach Erweitertem Namen, nach Sortiernamen, nach Geburtsjahr, dem Datum der letzten Bearbeitung und nach Namenslänge sortieren. Die Sortierung nach Namenslänge ermöglicht sehr kurze und sehr lange Einträge im Feld "Gebräuchlicher Name" an den Anfang oder das Ende der Trefferliste zu bringen und so zu identifizieren. Die Kombination von "Anzeigename enthält ... 1874 mit Sortierung nach Geburtsjahr ermöglicht beispielsweise jene an den Anfang der Trefferliste zu bringen, die 1874 geboren sind. Die Standardsortierung ist "ID".
+
+**Reihenfolge**
+
+Es kann zwischen aufsteigender und absteigender Sortierreihenfolge umgeschaltet werden. Ist ein Sortierkriterium gewählt, so kann die Reihenfolge auch geändert werden, indem das Kriterium ein zweites Mal angeklickt wird. Die Standardreihenfolge ist jeweils "Absteigend".
+
+**Auswahl**
+
+Die Datensätze haben verschiedene Bearbeitungszustände. Sie sind, nach einem Import oder einer Eingabe, zunächst "unbearbeitet". Sie können dann von einem Normdatenredakteur als "geprüft" oder als "fraglich" eingestuft werden. Zur Auswahl steht hier noch "Nur ungeprüfte", was alle unbearbeiteten und alle als "fraglich" markierten Einträge umfasst. Standardauswahl ist: Alle zeigen.
+
+**Fehlende Information**
+
+Museum-digital arbeitet mit vier kontrollierten Vokabularen. Vor allem nach einem Import aus einer anders strukturierten (oder genutzten) Datenbank, die etwa nur ein Feld für "Schlagwort" enthält, sind oft Akteure, Orte, Zeiten und Schlagworte nicht sauber voneinander getrennt. Mit dem Schalter "Schlagwort mit gleichem Namen" können alle Akteure aufgerufen werden, deren "Gebräuchlicher Name" ebenfalls im Schlagwortkatalog von museum-digital enthalten ist. Es erscheint eine Liste, in welcher die einzelnen Einträge aufrufbar sind und von dort aus in das entsprechende Vokabular übertragen werden können (mehr dazu im Kapitel "Einzelbearbeitung").
+
+Ein automatisches Script prüft die Einträge der jeweiligen nodac-Vokabulars auf Vorkommen im Wikidata-Verzeichnis, aus welchem mit dem in nodac integrierten "Wikidata-Fetcher" automatisch Informationen in die nodac-Vokabulare importiert werden können. Der Schalter "Hat mindestens ein ähnliches Resultat in Wikidata" führt zu einer Liste der Akteure im nodac: Akteure-Vokabular, bei denen eine Übereinstimmung festgestellt wurde. Besonders hilfreich ist diese Selektion, wenn sie mit der Auswahl "Nur ungeprüfte" oder "nur unbearbeitete" kombiniert wird.
+
+Der in nodac integrierte Duplikat-Checker vermerkt zu jedem Eintrag, ob es ein mögliches Duplikat gibt, was der Fall ist, wenn etwa zwei Personen den gleichen Namen (in Deutsch oder in einer Übersetzung) haben, oder auch der Fall ist, wenn zu mehreren Personen die gleichen Normdatenbezüge (etwa gleiche GND-ID) eingetragen ist. Mit dem Schalter "Hat mindestens ein erwartetes Duplikat" kann eine Liste der entsprechenden Einträge zur Überprüfung erzeugt werden.
+
+Der Schalter "Hat zweideutigen Namen" arbeitet zusammen mit der Tabelle potentiell zweideutiger Begriffe, die über das Symbolmenu von nodac (oben rechts) erstellt werden kann. In dieser Liste ist z.B. "Kirche" oder "Frankfurt" verzeichnet. Es wird bei einem Klick auf "Hat zweideutigen Namen" jeder Begriff aus dieser Liste gegen die Einträge im nodac: Akteur-Verzeichnis geprüft. Ist jetzt "Kirche" oder "Frankfurt" im Akteurs-Verzeichnis eingetragen, so werden sie in einer Trefferliste gezeigt. Insbesondere direkt nach einem Import ist diese Funktion sehr hilfreich um die Stellen zu finden, an denen gründlich - und meist in Absprache - nachgearbeitet werden muss.
+
+"Hat keine bekannten Links im hauptsächlichen md" führt zu einer Liste nicht mit museum-digital verknüpfter Einträge. Nur diese Einträge können von nodac aus gelöscht werden (sofern sie nicht über Anreicherungen verfügen).
+
+Die nächsten drei Schalter: "Keine Beschreibung", "Keine Kodierung", "Keine Übersetzung" finden die jeweiligen Datensätze, denen entsprechende Informationen fehlen (mehr dazu im Kapitel Einzelbearbeitung).
+
+Innerhalb von museum-digital gilt die Regel, dass ein Eingebender einen Akteur erfassen und die Begleitinformationen zu diesem auch wieder ändern kann - aber nur solange, wie kein Objekt eines anderen Museums mit dem gleichen Akteur verknüpft ist. In diesem Fall, in dem der Eingebende in die Darstellung von Objekten externer Museen eingreifen würde, kann er statt einer Änderung eine Anmerkung beitragen. Diese Anmerkung ist intern an die Normdatenredaktion gerichtet und wird von ihr bearbeitet. Die mit Anmerkungen versehenen Datensätze lassen sich über "Hat Benutzer-Anmerkung" auflisten.
+
+"Name beginnt mit ..." selektiert nach Anfangsbuchstaben und -zeichen. So lassen sich z.B. alle Einträge finden, die mit einer "6" beginnen - wobei hier häufig ein Zuordnungsfehler aus einem Import vorliegt.
 
 ## Einzelbearbeitung
 
