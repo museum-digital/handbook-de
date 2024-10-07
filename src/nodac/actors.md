@@ -161,6 +161,42 @@ Datum und Uhrzeit der letzten Bearbeitung werden angezeigt. Durch Anklicken des 
 
 
 ## Einzelbearbeitung
+Die Seite für die Einzelbearbeitung wird üblicherweise durch Anklicken eines Namens in einer Trefferliste erreicht. Nach einem Import und vor einer Bearbeitung hat der obere Teil der Einzelbearbeitungsseite eventuell folgendes Aussehen:
+
+![nodac: Akteure Einzelseite Unbearbeiter Datensatz](../assets/nodac/nodac_actors_singlepage_new_record.jpg)
+Die linke Spalte zeigt zunächst eine quadratische farbige Markierung gefolgt von der Angabe wer wann diesen Datensatz zuletzt bearbeitet hat. Eine rote farbige Markierung gibt an, dass es sich um einen Datensatz handelt, der nicht als "geprüft" und auch nicht als "fraglich" eingestuft ist. Beim Überfahren der Markierung mit der Maus öffnet sich ein kleines Menu. Sind ausreichend Informationen erfasst, so beinhaltet das kleine Menu farbige Quadrate zur Auswahl: Grün (für "geprüft), Lila (für "fraglich") und Rot (für "ungeprüft"). Sind jedoch noch nicht ausreichend Informationen gespeichert, so erscheint im Aufklappmenu ein Hinweis auf die fehlenden Angaben und es ist nicht möglich den Status des Datensatzes zu ändern. Das Fehlen notwendiger Informationen ist auch erkennbar an der aus Teilstrichen bestehenden Leiste unterhalb des Seitentitels in der zentralen Spalte. Mit jeder als notwendig erachteten Information ändern sich die entsprechenden Teilstriche nach Grün. Welche Informationen aktuell fehlen, dass zeigt der erste Block in der rechten Spalte "Missing Information". Als zwingend notwendige Informationen werden erachtet: Entitätenkodierung, Übersetzung und Beschreibung.
+
+***Entitätenkodierung***
+
+Der erste Block der linken Spalte ist mit "Entitätenkodierung" betitelt. Es handelt sich dabei um eine abgekürzte Angabe, worum es sich bei dem aufgerufenen Datensatz handelt. Die Kodierung hilft beispielsweise Firmeneinträge von Personeneinträgen zu trennen und doch die gleiche Eingabemaske zu verwenden. Die bei museum-digital verwendeten Abkürzungen sind eine Teilmenge der [GND Entitätenkodierung](https://wiki.dnb.de/download/attachments/90411323/entitaetenCodes.pdf). Die Bereiche Körperschaft, Familien und Personen sowie Schlagworte vergrößern sich beim Aufklappen und es kann das Passende gewählt werden. 
+![nodac: Akteure Einzelseite Entitätenkodierung](../assets/nodac/nodac_actors_entities.jpg)
+Sobald ein dreistelliger Buchstabencode gewählt wurde schließt sich das entsprechende Aufklappmenu, der Buchstabencode wird in der Titelzeile dieses Blocks hinter "Entitätencodierung" angezeigt und einer der Teilstriche im Kopfbereich der zentralen Spalte wird grün.
+
+***Beziehungen***
+
+Die in der linken Spalte folgenden drei Bereiche betreffen die Über- und Unterordnung sowie Synonyme. Mit Über- und Unterordnung ist eine instantielle Zuordnung und keinesfalls eine zeitliche gemeint. Es ist so z.B. möglich "Oswald Achenbach" der "Düsseldorfer Malerschule" zuzuordnen (als eine übergeordnete Instanz), womit dann im Datensatz zur "Düsseldorfer Malerschule" automatisch eingetragen ist, dass "Oswald Achenbach" ein Mitglied war (als untergeordnete Instanz). Vor allem aber ist es möglich die Beziehungen von Teilfirmen und Firmen zu erfassen. Mit "Synonymen" können alternative übliche Bezeichnungen für die jeweilige Person oder Institution erfasst werden, so ist z.B. "Luise von Mecklenburg-Strelitz" die gleiche Person wie "Luise von Preußen". Beziehungen zwischen Akteuren können, müssen aber nicht ausgefüllt werden.
+
+***Übersetzungen***
+
+nodac ist für multilinguale Vokabulare konzipiert. Erfolgt durch Import oder Eingabe die Neuanlage eines Akteur-Datensatzes, so ist nicht sicher, welcher Sprache der Datensatz zuzuordnen ist. Ein Beispiel: Ein Museum im deutschsprachigen Raum trägt "Franz List" in das Vokabular ein, ein ungarisches Museum dagegen "Liszt Ferenc". Für ein und dieselbe Person gibt es dann zwei voneinander unabhängige Datensätze. Die gewählte Lösung basiert auf einem "Default-Eintrag" und für jede Sprache jeweils "klassifiziertem Eintrag". Diese "klassifierten Einträge" sind mit "Übersetzungen" gemeint. Die Eingabeschlitze im oberen Teil beziehen sich allein auf den "Default-Eintrag" und es ist egal, in welcher Sprache dort etwas eingetragen wird. "Übersetzungen" können von Hand in beliebiger Sprache eingetragen werden oder sie werden durch Aufrufen des Wikidata-Fetchers (s.u.) automatisch aus den jeweils ersten Absätzen von bis zu 27 verschiedenen Sprachversionen von Wikipedia eingelesen. Im Falle von "Franz Liszt" ergibt das folgenden Eintrag.
+
+![nodac: Akteure Einzelseite Sprachboxen](../assets/nodac/nodac_actors_translations_example.jpg)
+Der Default-Eintrag ist in Deutsch gehalten - hätte aber auch in einer anderen Sprache eingetragen worden sein können. Für die Anzeige in museum-digital ist (sofern vorhanden) die entsprechende Sprachbox (in der Zeile "Übersetzungen") entscheidend. Ein User mit einem auf Griechisch eingestellten Browser bekommt die Inhalte aus der mit "el" betitelten Sprachbox angezeigt. Ein anderer User, dessen Browser auf Englisch eingestellt ist, bekommt die Inhalte aus der Sprachbox "en" angezeigt, usw. Sollte ein User seinen Browser eingestellt haben auf eine Sprache, für die es keinen Eintrag in der Übersetzungsleiste gibt, so wird ihm der Default-Eintrag angezeigt. Dennoch, für den mehrsprachigen Umgang mit Akteuren ist es sinnvoll eine Sprachauszeichnung zu haben.
+
+Zurück zum Beispiel "Hasso von Hugo": Ist eine Beschreibung in das Feld "Anmerkung" (im Default-Eingabebereich) eingetragen, dann wird - durch Klick auf den Schalter "Neue Übersetzung anfügen" (unterhalb von "Abschicken") der Inhalt von "Gebrächlicher Name" und "Anmerkung" automatisch in eine temporäre Sprachbox eingefügt, die angezeigt wird und mit Klicken auf "Submit" gespeichert werden kann. Die dabei vorgeschlagene Sprachkodierung ("de", "en", "uk", ...) ist die gespeicherte Arbeitssprache des nodac-Bearbeiters. Ist im Feld "Anmerkungen" des Default-Bereichs kein Eintrag vorhanden so erscheint bei Klicken auf "Neue Übersetzung anfügen" eine temporäre Sprachbox mit "Gebräuchlicher Name" und einer Sprachkodierung (wie gerade beschrieben) aber leerem Beschreibungsfeld. In jeder temporären Sprachbox lassen sich jederzeit Änderungen der Kodierung, der Schreibweise des Namens, der Beschreibung und der optional angegebenen Quelle für die Beschreibung vornehmen. Auf diese Weise kann jede beliebige Sprachbox, von denen es zu jedem Datensatz beliebig viele geben kann, erzeugt werden. Ist, wie im Beispiel zu "Franz Liszt" eine oder sind mehrere Sprachboxen vorhanden, so erscheint am rechten Rand der Sprachbox-Leiste (bei vielen vorhandenen Sprachboxen findet sich unterhalb derselben ein vertikaler Ziehbalken) eine leere Sprachbox, die mit beliebigen passenden Inhalten gefüllt werden kann.
+
+Ein Datensatz kann erst dann als "geprüft" markiert werden, wenn mindestens eine Sprachbox vorhanden ist. Ist das der Fall, wechselt ein weiterer der Teilstriche unterhalb des Namens des Default-Eintrags seine Farbe zu "grün".
+
+***Beschreibung***
+
+
+
+
+
+
+
+
+
 
 ## Erfassen
 
