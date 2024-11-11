@@ -23,7 +23,7 @@ darin ihre Kirchenschätze.
 Jede der genannten Versionen von museum-digital ist so aufgebaut, dass
 sie im Prinzip von allen anderen separiert werden kann. Allerdings
 nutzen die deutschsprachigen Versionen (regional und thematisch) das
-gleiche Normdatenreservoir während die anderssprachigen Versionen ihre
+gleiche Normdatenreservoir, während die anderssprachigen Versionen ihre
 jeweils eigenen Normdaten verwalten. Aus allen deutschsprachigen
 Versionen entsteht halb-automatisch die deutschlandweite Version,
 Eingaben- und Bearbeitungen können hier nicht direkt vorgenommen werden
@@ -61,7 +61,7 @@ Modul \"Groupit\" eingesetzt. Halb-automatisch werden hiermit täglich
 die in den Basis-Versionen aktualisierten Informationen in die
 deutschlandweite Version übertragen. Reizvoll ist dieses Modul aber vor
 allem, weil sich mit ihm auch jede beliebige Gruppierung von Museen
-(halb-) automatisch erstellen lässt. Eine eigene Plattform für alle
+(halb-)automatisch erstellen lässt. Eine eigene Plattform für alle
 Museen der Stadt Halle an der Saale oder eine Plattform für alle
 Feuerwehrmuseen wäre leicht umsetzbar. Die Möglichkeit wurde indes noch
 nicht genutzt.
@@ -76,7 +76,7 @@ Modul ["nodac"](../nodac/) zur Verfügung. Weil alle beteiligten Museen den glei
 Normdatenpool verwenden und es, dürften alle alles überschreiben,
 schnell zu widersprüchlichen Angaben käme, ist die Benutzung des Moduls
 für museum-digital der zentralen Normdatenredaktion vorbehalten (die
-internationalen Version haben stets eine eigene Redaktion). Das Modul
+internationalen Versionen haben stets eine eigene Redaktion). Das Modul
 \"nodac\" kann auch unabhängig von museum-digital benutzt werden, um
 z.B. Thesauri in koopertativer Umgebung zu erstellen.
 
@@ -116,5 +116,5 @@ Modul: \"themator\"
 
 Der [Themator](../Themator/README.md) ist ein Modul zum Erstellen von Themenportalen (oder digitaler Ausstellungen). Das Modul ist eigenständig, kann also auch
 unabhängig von museum-digital verwendet werden - am effektivsten ist es
-jedoch wenn die programmierten Querbezüge zu museum-digital genutzt
+jedoch, wenn die programmierten Querbezüge zu museum-digital genutzt
 werden.
