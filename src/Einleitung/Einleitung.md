@@ -4,11 +4,11 @@ Warum ein Handbuch für museum-digital? Webseiten, die ein Handbuch brauchen, um
 
 <img src="../assets/chapter_1-0/001-000-taeglicheshandbuch.jpg" style="float: left; margin-right: 1.2em;" />
 
-Im Anschluss an eine „Kleine Geschichte von museum-digital" werden die "Ziele" geschildert. Soviel vorweg: Alles bei museum-digital folgt einem "iterativen Prozess", d.h. ein Ziel wird definiert, ein Schritt zu seiner Verwirklichung unternommen, dabei werden Erfahrungen gesammelt, die dann dazu führen das Ziel genauer zu beschreiben, neu zu definieren oder fallen zu lassen. Ist das Ziel neu definiert wird wieder ein Schritt zur Umsetzung unternommen ...
+Im Anschluss an eine [„Kleine Geschichte von museum-digital"](Entstehung.md) werden die "Ziele" geschildert. Soviel vorweg: Alles bei museum-digital folgt einem "iterativen Prozess", d.h. ein Ziel wird definiert, ein Schritt zu seiner Verwirklichung unternommen, dabei werden Erfahrungen gesammelt, die dann dazu führen das Ziel genauer zu beschreiben, neu zu definieren oder fallen zu lassen. Ist das Ziel neu definiert wird wieder ein Schritt zur Umsetzung unternommen ...
 
-Entsprechend bleiben nur die allgemeinen Zielvorgaben bestehen, die konkreteren Zielformulierungen ändern sich. Die im Laufe der Zeit gesammelten Erfahrungen haben zur Formulierung von "Grundsätzen bei museum-digital" geführt, die ebenfalls vorgestellt werden.
+Entsprechend bleiben nur die allgemeinen Zielvorgaben bestehen, die konkreteren Zielformulierungen ändern sich. Die im Laufe der Zeit gesammelten Erfahrungen haben zur Formulierung von ["Grundsätzen bei museum-digital"](./Ziele-und-Grundsaetze.md) geführt, die ebenfalls vorgestellt werden.
 
-Der „Aufbau" von museum-digital, seine internationalen, nationalen, regionalen und thematischen Versionen, spiegelt den Verlauf des Vorhabens. Dieser Aufbau wird in einer eigenen Sektion erläutert. Bevor in einem zweiten Teil der Einleitung einige Grundkonzepte von museum-digital vorgestellt werden wird kurz erläutert, wie - ganz konkret - ein Museum bei museum-digital mitmachen kann.
+Der [„Aufbau"] von museum-digital, seine internationalen, nationalen, regionalen und thematischen Versionen, spiegelt den Verlauf des Vorhabens. Dieser Aufbau wird in einer eigenen Sektion erläutert. Bevor in einem zweiten Teil der Einleitung einige Grundkonzepte von museum-digital vorgestellt werden wird kurz erläutert, wie - ganz konkret - ein Museum bei museum-digital mitmachen kann.
 
 Den zweiten Teil der Einführung hätten wir auch "Grundkonzepte und Begriffe" nennen können. Hier sagen wir, was wir unter welchem Begriff verstehen. Dieser Teil ist zum Teil als Nachschlagewerk konzipiert. In ihm werden Benutzerrollen ebenso beschrieben wie die Orientierung an Ereignissen.
 
