@@ -27,3 +27,6 @@ Alle Beiträge im Handbuch sind unter [CC BY (4.0)](https://creativecommons.org/
 Zum Rendern des Handbuches in Form einer Webseite kommt `mdbook`  zum Einsatz. [`mdbook`](https://github.com/rust-lang/mdBook) steht unter der [Mozilla Public License 2.0](https://github.com/rust-lang/mdBook/blob/master/LICENSE).
 
 Zur Darstellung der mit OpenAPI beschriebenen Schnittstellen kommt [Swagger UI](https://github.com/swagger-api/swagger-ui) zum Einsatz. Swagger UI ist unter der [Apache License 2.0](https://github.com/swagger-api/swagger-ui/blob/master/LICENSE) lizensiert.
+
+
+Testzeile

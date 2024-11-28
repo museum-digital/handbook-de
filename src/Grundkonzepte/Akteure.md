@@ -7,14 +7,14 @@ Für eine "Anfangs-Individualisierung" reicht oft - aber nicht immer - eine Beru
 
 Allgemeine Amts- oder Berufsbezeichnungen, wie etwa "Bürgermeister" sind nicht individualisierbar und können deshalb nicht als Akteur erfasst werden. Auch übergeordnete Bezeichnungen wie beispielsweise 
 "Chemieindustrie" oder "Papierhersteller" sind als Akteure nicht erlaubt, sie lassen sich weder individualisieren noch handelt es sich hierbei um Körperschaften. Angaben zu "Akteuren" werden im Katalog
-"Personen-Institutionen" gespeichert, redaktionell überarbeitet und mit Verweisen zu Normdatenrepositorien (meist als Linked Open Data - LOD zugänglich) angereichert. Solche Anreicherungen können nur bei individualisierten Personen und Körperschaften geschehen. In Anreicherungen, wie in Namensformen orientiert sich museum-digital weitgehend an den in der Bibliothekswelt üblichen Standards.
+"Personen-Institutionen" gespeichert, redaktionell überarbeitet und mit Verweisen zu Normdatenrepositorien (meist als Linked Open Data - LOD zugänglich) angereichert. Solche Anreicherungen können nur bei individualisierten Personen und Körperschaften geschehen. In Anreicherungen wie in Namensformen orientiert sich museum-digital weitgehend an den in der Bibliothekswelt üblichen Standards.
 
 Akteure werden bei museum-digital gemäß der Entitätenkodierung der GND klassifiziert, d.h. sie werden eingeteilt als beispielsweise "KIF Firmen" oder "PIK Regierierende Fürsten, Mitglieder regierender
 Fürstenhäuser" oder "PXL Literarische Gestalten, Sagengestalten" oder ... . Es gibt dabei 8 Klassen von Körperschaften und weitere 8 Klassen von Personen.
 
-Akteursnamen können von der Normdatenredaktion synonym gesetzt werden. Wer nach einem Akteur mit einem Namen in einer bestimmten Form sucht, der findet auch Objekte zu denen der gleiche Akteur in einer synonymen Namensform in Beziehung gesetzt wurde.
+Akteursnamen können von der Normdatenredaktion synonym gesetzt werden. Wer nach einem Akteur mit einem Namen in einer bestimmten Form sucht, der findet auch Objekte, zu denen der gleiche Akteur in einer synonymen Namensform in Beziehung gesetzt wurde.
 
 Akteure können einem Ereignis zugeordnet werden (welches dann seinerseits einem Objekt zugeordnet wird), sie können aber auch in einer allgemeinen Beziehung zu einem Objekt stehen. Wann immer möglich sollte
-die Zuordnung über ein Ereignis gewählt werden, denn auf diese Weise wird die Art der Beziehung zwischen Objekt und Akteur festgehalten. Ist das Objekt beispielsweise ein Brief von Person A an Person B in welchem über Person C geredet wird, so sollten drei Ereignisse gebildet werden: "Verfasst - Person A", "Empfangen - Person B", "Wurde erwähnt - Person C" (Ereignisse soweit möglich ergänzt um Zeit- und Ortsangaben).
+die Zuordnung über ein Ereignis gewählt werden, denn auf diese Weise wird die Art der Beziehung zwischen Objekt und Akteur festgehalten. Ist das Objekt beispielsweise ein Brief von Person A an Person B, in welchem über Person C geredet wird, so sollten drei Ereignisse gebildet werden: "Verfasst - Person A", "Empfangen - Person B", "Wurde erwähnt - Person C" (Ereignisse soweit möglich ergänzt um Zeit- und Ortsangaben).
 
 Die Zuordnung eines Akteurs zu einem Ereignis und ebenso die (allgemeine) Zuordnung eines Akteur zu einem Objekt kann entweder "gewiss" oder "ungewiss" sein. Die Bandbreite von Unsicherheitsanzeigern ist sehr groß, "(?)", "?", "vielleicht", "möglicherweise", ... - für museum-digital gilt hier immer: "ungewiss".

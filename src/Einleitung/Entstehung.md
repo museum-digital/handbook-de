@@ -28,7 +28,7 @@ programmiert, um daraus eine Online-Platform zu speisen. Als Grundlage der Daten
 Das Eingabetool entsteht
 ------------------------
 
-Die ersten Objekte hatten einen holprigen Weg in die neue Datenbank. Die Kollegen in den Museen füllten in ihrem Textverarbeitungsprogramm ein Formular pro Objekt aus, schickten dieses mit dazugehörigen Bilddateien per E-Mail an die Kollegen, welche dann die Informationen in die Datenbank einfügten. Gut daran war, dass bei der Eingabe Tipp- und Verständnisfehler in Absprache mit den Kollegen in den Museen beseitigt werden konnten. Dennoch war es ein sehr aufwändiger Prozess. Eine kleine Förderung des Landes Sachsen-Anhalt (20.000 Euro) ermöglichte es weitere Recherchen zu betreiben. Drei "Redakteure" wurden eingestellt, um in die Museen zu gehen, sich mit deren Datenbanken und dem Stand der Einträge bekannt zu machen, Objektaufnahmen zu erstellen und diese - in Abstimmung mit den Museen - mit nachrecherchierten und vervollständigten Objektangaben an die Datenbankbetreuer zur Eingabe zu schicken.
+Die ersten Objekte hatten einen holprigen Weg in die neue Datenbank. Die Kollegen in den Museen füllten in ihrem Textverarbeitungsprogramm ein Formular pro Objekt aus, schickten dieses mit dazugehörigen Bilddateien per E-Mail an die Kollegen, welche dann die Informationen in die Datenbank einfügten. Gut daran war, dass bei der Eingabe Tipp- und Verständnisfehler in Absprache mit den Kollegen in den Museen beseitigt werden konnten. Dennoch war es ein sehr aufwändiger Prozess. Eine kleine Förderung des Landes Sachsen-Anhalt (20.000 Euro) ermöglichte es, weitere Recherchen zu betreiben. Drei "Redakteure" wurden eingestellt, um in die Museen zu gehen, sich mit deren Datenbanken und dem Stand der Einträge bekannt zu machen, Objektaufnahmen zu erstellen und diese - in Abstimmung mit den Museen - mit nachrecherchierten und vervollständigten Objektangaben an die Datenbankbetreuer zur Eingabe zu schicken.
 
 Auch das Land Rheinland-Pfalz förderte die Einrichtung einer regionalen Instanz von museum-digital für Rheinland-Pfalz mit 10.000 €.
 
@@ -37,8 +37,8 @@ Weitere technische Entwicklungen
 
 In den Folgejahren gab es zahlreiche weitere Entwicklungen:
 
--   Eingabetool „musdb" für Museen: Heutet bietet das Eingabetool mehr als die Erfassung der Basisdaten (Pflichtfelder: Inventarnummer, Objektart, Objektname, Objektbeschreibung) sowie einer Abbildung für die Veröffentlichung. Es bietet zahlreiche vertiefende     Inventarisierungsfunktionen in eigenen Reitern, die je nach gewünschter Erfassungstiefe an- oder abgeschaltet werden können. musdb ist browserbasiert.
--   nodac und md:term: Mit der Software "nodac" wird das     Normvokabular, d.h. Personen und Körperschaften, Geographie und Gebäude, Zeitbegriffe und Schlagworte, bearbeitet. Über "md:term" kann es öffentlich eingesehen werden.
+-   Eingabetool „musdb" für Museen: Heute bietet das Eingabetool mehr als die Erfassung der Basisdaten (Pflichtfelder: Inventarnummer, Objektart, Objektname, Objektbeschreibung) sowie einer Abbildung für die Veröffentlichung. Es bietet zahlreiche vertiefende Inventarisierungsfunktionen in eigenen Reitern, die je nach gewünschter Erfassungstiefe an- oder abgeschaltet werden können. musdb ist browserbasiert.
+-   nodac und md:term: Mit der Software "nodac" wird das Normvokabular, d.h. Personen und Körperschaften, Geographie und Gebäude, Zeitbegriffe und Schlagworte, bearbeitet. Über "md:term" kann es öffentlich eingesehen werden.
 -   Themator: Der "Themator" ist eine einfache Möglichkeit für Museen und deren externe Partner, Online-Ausstellungen oder Themenportale zu erstellen. Objekte, die mit museum-digital inventarisiert wurden und öffentlich sichtbar sind, können verknüpft werden.
 -   Modernisierung der Gestaltung und Nutzerfreundlichkeit: Regelmäßig wurden sowohl die Eingabetools als auch die Ausgabe überarbeitet.
 -   Umsetzung von Mehrsprachigkeit. Ungarn-Instanz (md:hu), Österreich-Instanz (md:at)
