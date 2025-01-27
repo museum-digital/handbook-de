@@ -54,8 +54,8 @@ Mehrfachnutzung
 museum-digital ist keine Einbahnstraße und kein Selbstzweck! Museen, die Informationen zu ihren Objekten bei museum-digital publizieren haben von hier aus zahlreiche einfach nutzbare Möglichkeiten:
 
 - museum-digital verfügt einen leicht zu bedienenden Exportmechanismus mit dem sich jedes Museum eine Exportdatei für ausgewählte Objekte erstellen kann. Diese Exportdatei ist im LIDO-Datenaustauschformat   gehalten und kann einfach an Portale weitergegeben werden. Etliche Museen haben auf diese Weise bereits ihre Informationen an die "europeana" oder die "ddb" (Deutsche Digitale Bibliothek) weitergereicht. Mehr zu den Exportmöglichkeiten finden Sie unter [Ausgabe/Export](../musdb/Objektsuche/Export.md).
--   Jedes Museum kann seine eigenen Objektinformationen auch in die eigene Internetseite einbinden. Dafür gibt es den einfachen Weg über einen iframe oder über eine [API](../Ausgabe/API/README.md).
--   Eine weitere Möglichkeit, die eigenen Daten selbst zu nutzen, bietet das einfache [Themen-Erstellungsprogramm von museum-digital](../Themator/README.md). Hiermit können die Objekte in Form einer kleinen digitalen Ausstellung gruppiert, annotiert und (als Gruppe) beschrieben, vor allem aber präsentiert werden.
+-   Jedes Museum kann seine eigenen Objektinformationen auch in die eigene Internetseite einbinden. Dafür gibt es den einfachen Weg über einen iframe oder über eine [API](../Ausgabe/API/).
+-   Eine weitere Möglichkeit, die eigenen Daten selbst zu nutzen, bietet das einfache [Themen-Erstellungsprogramm von museum-digital](../Themator/). Hiermit können die Objekte in Form einer kleinen digitalen Ausstellung gruppiert, annotiert und (als Gruppe) beschrieben, vor allem aber präsentiert werden.
 
 Transparenz
 -----------

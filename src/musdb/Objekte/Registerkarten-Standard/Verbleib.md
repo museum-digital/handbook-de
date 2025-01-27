@@ -13,6 +13,6 @@ Mit einem Rechtsklick auf das Auswahlfeld "Aktueller Standort" kann ein Log der 
 
 ## Transportvorgänge verknüpfen
 
-Am unteren Ende des Reiters "Verbleib" können [Transporte](../../Transporte/README.md) verknüpft werden.
+Am unteren Ende des Reiters "Verbleib" können [Transporte](../../Transporte/) verknüpft werden.
 
 ![Transporte verknüpfen](../../../assets/musdb/objects-edit/Reiter/Reiter-Verbleib-Transporte.avif)

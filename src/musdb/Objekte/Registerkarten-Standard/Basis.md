@@ -29,7 +29,7 @@ ihr Museum erfassten Sammlungen, die beispielsweise so aussehen kann:
 
 (Sollte die Sammlung, der das Objekt zugeordnet werden soll noch nicht
 existieren muss diese zunächst angelegt werden. Das wird
-[hier](../../Sammlungen/README.md) erklärt.)
+[hier](../../Sammlungen/) erklärt.)
 
 Durch einfaches Anklicken des Namens einer Sammlung erstellen Sie eine
 Zuordnung zwischen dem Objekt und der ausgewählten Sammlung. Sie

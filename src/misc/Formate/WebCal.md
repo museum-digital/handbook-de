@@ -8,6 +8,6 @@ Weitere Informationen auf Wikipedia zu [WebCal (Englisch)](https://en.wikipedia.
 
 ## Verwendung von WebCal bei museum-digital
 
-WebCal wird bei museum-digital vor allem in der [Ausgabe](../../Ausgabe/README.md) verwendet, um abonnierbare Kalender - z.B. für [Ausstellungen](../../Ausgabe/Ausstellungen/Uebersicht.md) - anzubieten.
+WebCal wird bei museum-digital vor allem in der [Ausgabe](../../Ausgabe/) verwendet, um abonnierbare Kalender - z.B. für [Ausstellungen](../../Ausgabe/Ausstellungen/Uebersicht.md) - anzubieten.
 
-In [musdb](../../musdb/README.md) werden WebCal-Kalender gebündelt über die [Kalender-Funktion](../../musdb/Weiteres/Kalender.md) bereitgestellt, damit auch nicht öffentliche, datumsbezogene Informationen im üblichen Kalender-Programm angezeigt werden können.
+In [musdb](../../musdb/) werden WebCal-Kalender gebündelt über die [Kalender-Funktion](../../musdb/Weiteres/Kalender.md) bereitgestellt, damit auch nicht öffentliche, datumsbezogene Informationen im üblichen Kalender-Programm angezeigt werden können.

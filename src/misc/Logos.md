@@ -80,7 +80,7 @@ Logo für musdb
 ![](../assets/logos/musdbLogoBrown.svg)
 
 Auch [musdb, das Eingabetool von
-museum-digital](../musdb/README.md), hat ein
+museum-digital](../musdb/), hat ein
 eigenes Logo. Dieses wird nicht Instanz-spezifisch angepasst und findet
 bisher nur auf Offline-Seiten und als Logo der Progressive Web App
 Anwendung.

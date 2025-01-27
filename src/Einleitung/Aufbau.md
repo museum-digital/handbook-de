@@ -98,7 +98,7 @@ der \"[Thesaurus des Technikmuseums in
 Wien](https://term.museum-digital.de/technikthesaurus/tag/tag.php?nodac_version=technikthesaurus&tagnum=7002)\"
 oder die
 \"[Hornbostel-Sachs-Systematik](https://term.museum-digital.de/hornbostel/tag/tag.php?nodac_version=hornbostel&tagnum=84)\".
-Mehr über \"md:term\" findet sich [hier](../md-term/README.md).
+Mehr über \"md:term\" findet sich [hier](../md-term/).
 
 Modul: \"importer\"
 -------------------
@@ -109,12 +109,12 @@ können Museen (noch) nicht direkt importieren. Das Import-Modul gibt
 ihnen aber die Möglichkeit die zu importierenden Daten vorzubereiten um
 den eigentliche Import zu erleichtern. Mehr zu den Möglichkeiten des
 Datenimports findet sich
-[hier](../import/README.md).
+[hier](../import/).
 
 Modul: \"themator\"
 -------------------
 
-Der [Themator](../Themator/README.md) ist ein Modul zum Erstellen von Themenportalen (oder digitaler Ausstellungen). Das Modul ist eigenständig, kann also auch
+Der [Themator](../Themator/) ist ein Modul zum Erstellen von Themenportalen (oder digitaler Ausstellungen). Das Modul ist eigenständig, kann also auch
 unabhängig von museum-digital verwendet werden - am effektivsten ist es
 jedoch wenn die programmierten Querbezüge zu museum-digital genutzt
 werden.
