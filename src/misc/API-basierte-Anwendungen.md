@@ -4,6 +4,12 @@ Hier sind verschiedene Anwendungen, die auf Basis der APIs von museum-digital ar
 
 ## Ausgabe
 
+### Übergreifende Ausspielungen
+
+#### Brandenburg sammelt
+
+<https://www.brandenburg-sammelt.de/>
+
 ### Ausspielung der Objekte auf der Museumsseite
 
 #### SaOn des Landesmuseum Württembergs (LMW)

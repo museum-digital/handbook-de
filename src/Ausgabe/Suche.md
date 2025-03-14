@@ -147,7 +147,7 @@ folgenden Sortiermöglichkeiten zur verfügung:
 - Aesthetics score
 - Inventarnummer
 - Objektbezeichnung
-- [Metadatenqualität](../../musdb/Objekte/Qualitaet/PuQI.md)
+- [Metadatenqualität](../musdb/Objekte/Qualitaet/PuQI.md)
 - Zuletzt bearbeitet am
 
 Mehr, siehe [Blog](https://blog.museum-digital.org/2025/03/06/sort-by-beauty/).

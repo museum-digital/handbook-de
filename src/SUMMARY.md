@@ -301,3 +301,6 @@
 [Förderung](./misc/Förderung.md)
 [Icons](./misc/Icons.md)
 [Logos](./misc/Logos.md)
+
+[Andere Online-Sammlungen und Portale](./misc/andere/Online-Sammlungen.md)
+[Andere Sammlungsmanagement-Systeme](./misc/andere/cms.md)
