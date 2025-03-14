@@ -125,6 +125,10 @@
     - [Angaben wiederholen / Eingabehilfen](./musdb/Objekte/Angaben-wiederholen.md)
     - [Zeitleiste zum Objekt](./musdb/Objekte/Objekt-Zeitleiste.md)
     - [Suchergebnisse analysieren](./musdb/Objekte/Objekt-Ergebnisse-analysieren.md)
+    - [Checks für Objekt-Datenqualität]()
+      + [PuQI](./musdb/Objekte/Qualitaet/PuQI.md)
+      + [Plausibilitäts-Check für Ereignisse](./musdb/Objekte/Qualitaet/Plausi.md)
+      + [Plausibilitäts-Check für Rechteangaben](./musdb/Objekte/Qualitaet/Plausi-Rechte.md)
   - [Mehrere Objekte]() <!-- (./musdb/Objektsuche/README.md) -->
     - [Objekte suchen](./musdb/Objektsuche/Filtern.md)
       - [Schnellzugriffe: Suche nach Objekt-ID und Inventarnummer](./musdb/Objektsuche/Schnellzugriffe-ID-Invno.md)
@@ -230,13 +234,15 @@
   - [Technischer Aufbau](./import/Aufbau.md)
   - [Automatische Bereinigung der Daten](./import/Automatische-Bereinigung.md)
   - [Importe selbst durchführen](./import/importe-selbst-durchfuehren.md)
+      - [Datenabgleich automatisieren](./import/datennabgleich-automatisieren.md)
   - [FAQ](./import/FAQ.md)
 
 -----------
 
 # Weitere Tools
 
-- [museum-digital:qa](./misc/md-qa/README.md)
+- [museum-digital:quality](./misc/md-qa/README.md)
+- [Concordance Checker](./misc/md-concordance-checker/README.md)
 
 -----------
 
@@ -244,6 +250,7 @@
 
 - [Dateiformate und Protokolle](./misc/Formate/README.md)
   - [BEACON](./misc/Formate/BEACON.md)
+  - [CSV](./misc/Formate/CSV.md)
   - [iCalendar](./misc/Formate/iCalendar.md)
   - [JSON](./misc/Formate/JSON.md)
   - [Markdown](./misc/Formate/Markdown.md)

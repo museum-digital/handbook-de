@@ -136,3 +136,18 @@ dieser kombinierbar - ist die Volltextsuche, die ganz absichtlich die
 Kataloge aus kontrollierten Begriffen ignoriert und statt des Begriffes
 \"Hammer\" die Buchstabenkombination \"h\"  gefolgt von \"a\" gefolgt
 von \"m\" etc. in allen Feldern des Objektdatensatzes sucht.
+
+### Sortieroptonen
+
+Mit der öffentlichen Objekt-Suchfunktion von museum-digital stehen die
+folgenden Sortiermöglichkeiten zur verfügung:
+
+- ID / Erfassungszeitpunkt
+- Übereinstimmung mit Suchbegriff (nur bei Volltextsuchen)
+- Aesthetics score
+- Inventarnummer
+- Objektbezeichnung
+- [Metadatenqualität](../../musdb/Objekte/Qualitaet/PuQI.md)
+- Zuletzt bearbeitet am
+
+Mehr, siehe [Blog](https://blog.museum-digital.org/2025/03/06/sort-by-beauty/).

@@ -20,10 +20,10 @@ command = "mdbook-admonish"
 assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
 
 [output.html]
-additional-js = ["register-sw.js"]
+additional-js = ["custom.js", "register-sw.js"]
 git-repository-url = "https://github.com/museum-digital/handbook-de"
 edit-url-template = "https://github.com/museum-digital/handbook-de/tree/master/{path}"
-additional-css = ["./mdbook-admonish.css"]
+additional-css = ["./mdbook-admonish.css", "custom.css"]
 
 [output.html.print]
 enable = true
