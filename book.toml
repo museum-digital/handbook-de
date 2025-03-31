@@ -4,7 +4,7 @@ language = "de"
 multilingual = false
 src = "src"
 title = "museum-digital:handbuch"
-description = "Deutschsprachiges Hanbuch zu museum-digital"
+description = "Deutschsprachiges Handbuch zu museum-digital"
 
 [preprocessor.index]
 
