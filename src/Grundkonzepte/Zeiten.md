@@ -53,48 +53,48 @@ Zeiten ohne festes Ende oder ohne festen Anfang werden bei museum-digital in gen
 Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (halb-)automatisch interpretiert werden.
 
 ### Ebene: Jahrhundert
-Anfang          01-15   – Bsp.: Anfang des 20. Jahrhunderts -> 1901-1915
-Mitte           40-60   – Bsp.: Mitte des 20. Jahrhunderts  1940-1960
-Ende            -15-00  – Bsp.: Ende des 19. Jahrhunderts  1885-1900
-Wende           -15-15  – Bsp.: Wende 19.-20. Jahrhundert  1885-1915
-Erstes Drittel  01-36   – Bsp.: 1. Drittel 18. Jh.  1701-1736
-Zweites Drittel 37-66   – Bsp.: 2. Drittel 18. Jh.  1737-1766
-Drittes Drittel 67-00   – Bsp.: 3. Drittel 18. Jh.  1767-1800
-Erstes Viertel  01-25   – Bsp.: 1. Viertel 6. Jh.  501-525 n. Chr.
-Zweites Viertel 26-50   – Bsp.: 2. Viertel 6. Jh.  526-550 n. Chr.
-Drittes Viertel 51-75   – Bsp.: 3. Viertel 6. Jh.  551-575 n. Chr.
-Viertes Viertel 76-00   – Bsp.: 4. Viertel 6. Jh.  576-600 n. Chr.
+Anfang          01-15   – Bsp.: Anfang des 20. Jahrhunderts -> 1901-1915  
+Mitte           40-60   – Bsp.: Mitte des 20. Jahrhunderts  1940-1960  
+Ende            -15-00  – Bsp.: Ende des 19. Jahrhunderts  1885-1900  
+Wende           -15-15  – Bsp.: Wende 19.-20. Jahrhundert  1885-1915  
+Erstes Drittel  01-36   – Bsp.: 1. Drittel 18. Jh.  1701-1736  
+Zweites Drittel 37-66   – Bsp.: 2. Drittel 18. Jh.  1737-1766  
+Drittes Drittel 67-00   – Bsp.: 3. Drittel 18. Jh.  1767-1800  
+Erstes Viertel  01-25   – Bsp.: 1. Viertel 6. Jh.  501-525 n. Chr.  
+Zweites Viertel 26-50   – Bsp.: 2. Viertel 6. Jh.  526-550 n. Chr.  
+Drittes Viertel 51-75   – Bsp.: 3. Viertel 6. Jh.  551-575 n. Chr.  
+Viertes Viertel 76-00   – Bsp.: 4. Viertel 6. Jh.  576-600 n. Chr.  
 
 ### Ebene: Jahrzehnt
-Anfang          01-03   – Bsp.: Anfang der 1980er Jahre  1981-1983
-Frühe           01-03   – Bsp.: Frühe 1980er Jahre  1981-1983
-Mitte           64-66   – Bsp.: Mitte 1960er Jahre  1964-1966
-Ende            47-49   – Bsp.: Ende der 1940er Jahre 1947-1949
-Späte           47-49   – Bsp.: Späte 1940er Jahre 1947-1949
-Erste Hälfte    51-55   – Bsp.: Erste Hälfte 1950er Jahre  1951-1955
-Zweite Hälfte   56-59   – Bsp.: Zweite Hälfte 1950er Jahre  1956-1959
-Erstes Drittel  80-83   – Bsp.: Erstes Drittel 1980er Jahre 1980-1983
-Zweites Drittel 84-86   – Bsp.: Zweites Drittel 1980er Jahre 1984-1986
-Drittes Drittel 87-89   – Bsp.: Drittes Drittel 1980er Jahre 1987-1989
+Anfang          01-03   – Bsp.: Anfang der 1980er Jahre  1981-1983  
+Frühe           01-03   – Bsp.: Frühe 1980er Jahre  1981-1983  
+Mitte           64-66   – Bsp.: Mitte 1960er Jahre  1964-1966  
+Ende            47-49   – Bsp.: Ende der 1940er Jahre 1947-1949  
+Späte           47-49   – Bsp.: Späte 1940er Jahre 1947-1949  
+Erste Hälfte    51-55   – Bsp.: Erste Hälfte 1950er Jahre  1951-1955  
+Zweite Hälfte   56-59   – Bsp.: Zweite Hälfte 1950er Jahre  1956-1959  
+Erstes Drittel  80-83   – Bsp.: Erstes Drittel 1980er Jahre 1980-1983  
+Zweites Drittel 84-86   – Bsp.: Zweites Drittel 1980er Jahre 1984-1986  
+Drittes Drittel 87-89   – Bsp.: Drittes Drittel 1980er Jahre 1987-1989  
 
 ### Ebene: Jahr
-Anfang          01-03   – Bsp.: Anfang 1907  01.01.1907-31.03.1907
-Mitte           05-07   – Bsp.: Mitte 1907  01.05.1907-31.07.1907
-Ende            09-12   – Bsp.: Ende 1907  01.09.1907-31.12.1907
-1. Halbjahr     01-06   – Bsp.: 1. Halbjahr 1955  01.01.1955-30.06.1955
-2. Halbjahr     07-12   – Bsp.: 2. Halbjahr 1955  01.07.1955-31.12.1955
-Frühjahr        01-03   – Bsp.: Frühjahr1966  01.01.1966-31.03.1966
+Anfang          01-03   – Bsp.: Anfang 1907  01.01.1907-31.03.1907  
+Mitte           05-07   – Bsp.: Mitte 1907  01.05.1907-31.07.1907  
+Ende            09-12   – Bsp.: Ende 1907  01.09.1907-31.12.1907  
+1. Halbjahr     01-06   – Bsp.: 1. Halbjahr 1955  01.01.1955-30.06.1955  
+2. Halbjahr     07-12   – Bsp.: 2. Halbjahr 1955  01.07.1955-31.12.1955  
+Frühjahr        01-03   – Bsp.: Frühjahr1966  01.01.1966-31.03.1966  
 
 ### Ebene: Jahreszeiten
-Frühling        03-05   – Bsp.: Frühling 1944  01.03.1944-31.05.1944
-Sommer          06-08   – Bsp: Sommer 1944  01.06.1944-31.08.1944
-Herbst          09-11   – Bsp: Herbst 1944  01.09.1944-30.11.1944
-Winter  12.XX/02.XX+1   – Bsp: Winter 1944/45  01.12.1944-28.02.1945
+Frühling        03-05   – Bsp.: Frühling 1944  01.03.1944-31.05.1944  
+Sommer          06-08   – Bsp: Sommer 1944  01.06.1944-31.08.1944  
+Herbst          09-11   – Bsp: Herbst 1944  01.09.1944-30.11.1944  
+Winter  12.XX/02.XX+1   – Bsp: Winter 1944/45  01.12.1944-28.02.1945  
 
 ### Ebene: Monat
-Anfang          01-10   – Bsp: Anfang Dezember 1922  01.12.1922-10.12.1922
-Mitte           11-19   – Bsp: Mitte Dezember 1922  11.12.1922-19.12.1922
-Ende            12-max  – Bsp: Ende Dezember 1922  20.12.1922-31.12.1922
+Anfang          01-10   – Bsp: Anfang Dezember 1922  01.12.1922-10.12.1922  
+Mitte           11-19   – Bsp: Mitte Dezember 1922  11.12.1922-19.12.1922  
+Ende            12-max  – Bsp: Ende Dezember 1922  20.12.1922-31.12.1922  
 
 ### Ebene: Feste
 Weihnachten     25-26   – Bsp: Weihnachten 1915  25.12.1915-26.12.1915
