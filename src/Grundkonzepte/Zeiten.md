@@ -21,7 +21,7 @@ Um Einheitlichkeit und Eindeutigkeit der Zeitangaben zu erreichen werden nicht o
 |---|---|---|---|
 |   1|um 1903|1903 \[≡\|˜\]|Welcher Zeitraum mit \"um 1903\" (oder "circa 1903" oder "gegen 1903", ...) tatsächlich gemeint sein soll, das läßt sich nicht vereinheitlichen. Für das eine Museum bedeutet "um 1903" möglicherweise "1900-1906" für ein anderes aber "1898-1908". Bei museum-digital gibt es deshalb nur "1903" (in der Bedeutung "scharf/exakt") und "1903" \[≡\|˜\] (in der Bedeutung "unscharf/ungefähr"). Den Scharf/Unscharf-Schalter findet man nach der Erfassung des Zeitbegriffs in der Ereignisanzeige. Man tut also zunächst so, als meine man "1903" ("scharf") und fügt anschließend in der Ereignisanzeige "unscharf" (durch Drücken des \[≡\|˜\] - Schalters) hinzu.|
   
-### Schreibweisen \...
+### Schreibweisen ...
 
 |Nr.|Nicht optimal|Besser so:|Anmerkung|
 |---|---|---|---|
@@ -53,6 +53,7 @@ Zeiten ohne festes Ende oder ohne festen Anfang werden bei museum-digital in gen
 Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (halb-)automatisch interpretiert werden.
 
 ### Ebene: Jahrhundert
+
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-15|Bsp.: Anfang des 20. Jahrhunderts| -> 1901-1915|
@@ -68,6 +69,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Viertes Viertel|76-00|Bsp.: 4. Viertel 6. Jh.| -> 576-600 n. Chr.|
 
 ### Ebene: Jahrzehnt
+
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-03|Bsp.: Anfang der 1980er Jahre| -> 1981-1983|
@@ -82,6 +84,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Drittes Drittel|87-89|Bsp.: Drittes Drittel 1980er Jahre| -> 1987-1989|
 
 ### Ebene: Jahr
+
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-03|Bsp.: Anfang 1907| -> 01.01.1907-31.03.1907|
@@ -92,6 +95,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Frühjahr|01-03|Bsp.: Frühjahr 1966| -> 01.01.1966-31.03.1966|
 
 ### Ebene: Jahreszeiten
+
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Frühling|03-05|Bsp.: Frühling 1944| -> 01.03.1944-31.05.1944|
@@ -100,6 +104,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Winter|12.XX/02.XX+1|Bsp.: Winter 1944/45| -> 01.12.1944-28.02.1945|
 
 ### Ebene: Monat
+
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-10|Bsp.: Anfang Dezember 1922| -> 01.12.1922-10.12.1922|
@@ -107,6 +112,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Ende|12-max|Bsp.: Ende Dezember 1922| -> 20.12.1922-31.12.1922|
 
 ### Ebene: Feste
+
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Weihnachten|25-26|Bsp.: Weihnachten 1915| -> 25.12.1915-26.12.1915|
