@@ -82,23 +82,31 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Drittes Drittel|87-89|Bsp.: Drittes Drittel 1980er Jahre| -> 1987-1989|
 
 ### Ebene: Jahr
-Anfang          01-03   – Bsp.: Anfang 1907  01.01.1907-31.03.1907  
-Mitte           05-07   – Bsp.: Mitte 1907  01.05.1907-31.07.1907  
-Ende            09-12   – Bsp.: Ende 1907  01.09.1907-31.12.1907  
-1. Halbjahr     01-06   – Bsp.: 1. Halbjahr 1955  01.01.1955-30.06.1955  
-2. Halbjahr     07-12   – Bsp.: 2. Halbjahr 1955  01.07.1955-31.12.1955  
-Frühjahr        01-03   – Bsp.: Frühjahr1966  01.01.1966-31.03.1966  
+|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|---|---|---|---|
+|Anfang|01-03|Bsp.: Anfang 1907| -> 01.01.1907-31.03.1907|
+|Mitte|05-07|Bsp.: Mitte 1907| -> 01.05.1907-31.07.1907|
+|Ende|09-12|Bsp.: Ende 1907| -> 01.09.1907-31.12.1907|
+|1. Halbjahr|01-06|Bsp.: 1. Halbjahr 1955| -> 01.01.1955-30.06.1955|
+|2. Halbjahr|07-12|Bsp.: 2. Halbjahr 1955| -> 01.07.1955-31.12.1955|
+|Frühjahr|01-03|Bsp.: Frühjahr 1966| -> 01.01.1966-31.03.1966|
 
 ### Ebene: Jahreszeiten
-Frühling        03-05   – Bsp.: Frühling 1944  01.03.1944-31.05.1944  
-Sommer          06-08   – Bsp.: Sommer 1944  01.06.1944-31.08.1944  
-Herbst          09-11   – Bsp.: Herbst 1944  01.09.1944-30.11.1944  
-Winter  12.XX/02.XX+1   – Bsp.: Winter 1944/45  01.12.1944-28.02.1945  
+|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|---|---|---|---|
+|Frühling|03-05|Bsp.: Frühling 1944| -> 01.03.1944-31.05.1944|
+|Sommer|06-08|Bsp.: Sommer 1944| -> 01.06.1944-31.08.1944|
+|Herbst|09-11|Bsp.: Herbst 1944| -> 01.09.1944-30.11.1944|
+|Winter|12.XX/02.XX+1|Bsp.: Winter 1944/45| -> 01.12.1944-28.02.1945|
 
 ### Ebene: Monat
-Anfang          01-10   – Bsp.: Anfang Dezember 1922  01.12.1922-10.12.1922  
-Mitte           11-19   – Bsp.: Mitte Dezember 1922  11.12.1922-19.12.1922  
-Ende            12-max  – Bsp.: Ende Dezember 1922  20.12.1922-31.12.1922  
+|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|---|---|---|---|
+|Anfang|01-10|Bsp.: Anfang Dezember 1922| -> 01.12.1922-10.12.1922|
+|Mitte|11-19|Bsp.: Mitte Dezember 1922| -> 11.12.1922-19.12.1922|
+|Ende|12-max|Bsp.: Ende Dezember 1922| -> 20.12.1922-31.12.1922|
 
 ### Ebene: Feste
-Weihnachten     25-26   – Bsp.: Weihnachten 1915  25.12.1915-26.12.1915
+|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|---|---|---|---|
+|Weihnachten|25-26|Bsp.: Weihnachten 1915| -> 25.12.1915-26.12.1915|
