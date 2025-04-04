@@ -68,16 +68,18 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Viertes Viertel|76-00|Bsp.: 4. Viertel 6. Jh.| -> 576-600 n. Chr.|
 
 ### Ebene: Jahrzehnt
-Anfang          01-03   – Bsp.: Anfang der 1980er Jahre  1981-1983  
-Frühe           01-03   – Bsp.: Frühe 1980er Jahre  1981-1983  
-Mitte           64-66   – Bsp.: Mitte 1960er Jahre  1964-1966  
-Ende            47-49   – Bsp.: Ende der 1940er Jahre 1947-1949  
-Späte           47-49   – Bsp.: Späte 1940er Jahre 1947-1949  
-Erste Hälfte    51-55   – Bsp.: Erste Hälfte 1950er Jahre  1951-1955  
-Zweite Hälfte   56-59   – Bsp.: Zweite Hälfte 1950er Jahre  1956-1959  
-Erstes Drittel  80-83   – Bsp.: Erstes Drittel 1980er Jahre 1980-1983  
-Zweites Drittel 84-86   – Bsp.: Zweites Drittel 1980er Jahre 1984-1986  
-Drittes Drittel 87-89   – Bsp.: Drittes Drittel 1980er Jahre 1987-1989  
+|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|---|---|---|---|
+|Anfang|01-03|Bsp.: Anfang der 1980er Jahre| -> 1981-1983|
+|Frühe|01-03|Bsp.: Frühe 1980er Jahre| -> 1981-1983|
+|Mitte|64-66|Bsp.: Mitte 1960er Jahre| -> 1964-1966|
+|Ende|47-49|Bsp.: Ende der 1940er Jahre| -> 1947-1949|
+|Späte|47-49|Bsp.: Späte 1940er Jahre| -> 1947-1949|
+|Erste Hälfte|51-55|Bsp.: Erste Hälfte 1950er Jahre| -> 1951-1955|
+|Zweite Hälfte|56-59|Bsp.: Zweite Hälfte 1950er Jahre| -> 1956-1959|
+|Erstes Drittel|80-83|Bsp.: Erstes Drittel 1980er Jahre| -> 1980-1983|
+|Zweites Drittel|84-86|Bsp.: Zweites Drittel 1980er Jahre| -> 1984-1986|
+|Drittes Drittel|87-89|Bsp.: Drittes Drittel 1980er Jahre| -> 1987-1989|
 
 ### Ebene: Jahr
 Anfang          01-03   – Bsp.: Anfang 1907  01.01.1907-31.03.1907  
