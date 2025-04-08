@@ -27,7 +27,7 @@ gruppenweise ändern.
 Um mehr über die einzelnen Rechtsformen zu erfahren, klicken Sie in der
 unten stehenden Tabelle auf die entsprechende Abkürzung.
 
-| Lizenz                                                                     | Bedeutung / berechtigt zu / verlangt                                      |
+| Lizenz                              | Bedeutung / berechtigt zu verlangt|
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------|
   [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)   | Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen |
   [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)   | Namensnennung - Nicht kommerziell - Keine Bearbeitungen                   |

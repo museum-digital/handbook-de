@@ -1,8 +1,6 @@
-Zeiten
-======
+# Zeiten
 
-Der Kontext, oder: Was ist ein guter Zeitbegriff?
--------------------------------------------------
+## Der Kontext, oder: Was ist ein guter Zeitbegriff?
 
 Es gibt Wissensdisziplinen, wie beispielsweise Palöontologie, Klassische Archäologie, Vor- und Frühgeschichte ... in denen eigene Namen für "Zeiten" (Epochen, Zeitabschnitte, ...) gebräuchlich sind. Die Definitionen dieser eigenen Begriffe werden je nach Stand der Forschung geändert oder von den Einen anerkannt und von den Anderen verschmäht - sie stehen nicht wirklich fest. Außerhalb solcher Wissensdisziplinen gibt es bisweilen eine lockere Verwendung von Zeitbegriffen. Museum-digital ist kein spezifisches Fachportal für eine einzelne Wissensdisziplin, es wendet sich an Wissenschaftler aus allen Bereichen, denen nicht ohne weiteres jedes Zeitvokabular jeder anderen Disziplin vertraut ist. Es wendet sich auch an Laien. Um für alle von Nutzen (und verständlich) zu sein, sind Kompromisse bei der Benennung von Zeiten nötig.
 
@@ -72,8 +70,8 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 |Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
-|Anfang|01-03|Bsp.: Anfang der 1980er Jahre| -> 1981-1983|
-|Frühe|01-03|Bsp.: Frühe 1980er Jahre| -> 1981-1983|
+|Anfang|00-03|Bsp.: Anfang der 1980er Jahre| -> 1980-1983|
+|Frühe|00-03|Bsp.: Frühe 1980er Jahre| -> 1980-1983|
 |Mitte|64-66|Bsp.: Mitte 1960er Jahre| -> 1964-1966|
 |Ende|47-49|Bsp.: Ende der 1940er Jahre| -> 1947-1949|
 |Späte|47-49|Bsp.: Späte 1940er Jahre| -> 1947-1949|
