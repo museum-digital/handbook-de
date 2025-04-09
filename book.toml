@@ -1,7 +1,6 @@
 [book]
 authors = ["museum-digital"]
 language = "de"
-multilingual = false
 src = "src"
 title = "museum-digital:handbuch"
 description = "Deutschsprachiges Handbuch zu museum-digital"
