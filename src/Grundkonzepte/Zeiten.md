@@ -75,7 +75,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Mitte|64-66|Bsp.: Mitte 1960er Jahre| -> 1964-1966|
 |Ende|47-49|Bsp.: Ende der 1940er Jahre| -> 1947-1949|
 |Späte|47-49|Bsp.: Späte 1940er Jahre| -> 1947-1949|
-|Erste Hälfte|51-55|Bsp.: Erste Hälfte 1950er Jahre| -> 1951-1955|
+|Erste Hälfte|50-55|Bsp.: Erste Hälfte 1950er Jahre| -> 1950-1955|
 |Zweite Hälfte|56-59|Bsp.: Zweite Hälfte 1950er Jahre| -> 1956-1959|
 |Erstes Drittel|80-83|Bsp.: Erstes Drittel 1980er Jahre| -> 1980-1983|
 |Zweites Drittel|84-86|Bsp.: Zweites Drittel 1980er Jahre| -> 1984-1986|
