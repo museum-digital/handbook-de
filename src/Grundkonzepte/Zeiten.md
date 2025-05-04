@@ -107,7 +107,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |---|---|---|---|
 |Anfang|01-10|Bsp.: Anfang Dezember 1922| -> 01.12.1922-10.12.1922|
 |Mitte|11-19|Bsp.: Mitte Dezember 1922| -> 11.12.1922-19.12.1922|
-|Ende|12-max|Bsp.: Ende Dezember 1922| -> 20.12.1922-31.12.1922|
+|Ende|20-max|Bsp.: Ende Dezember 1922| -> 20.12.1922-31.12.1922|
 
 ### Ebene: Feste
 
