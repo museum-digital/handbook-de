@@ -1,14 +1,12 @@
-Normdaten
-=========
+# Normdaten
 
-Warum \"Normdaten\"?
---------------------
+## Warum \"Normdaten\"?
 
 Unter \"Normdaten\" werden bei museum-digital Begriffe und Konzepte verstanden, die von einer Redaktion (\"Normdaten-Redaktion\") kontrolliert und angereichert werden. Diese Begriffe und Konzepte werden in einer eigenen Datenbank zusammengefasst und mit einem eigens dafür programmierten Werkzeug (\"nodac\") bearbeitet. Alle Versionen von museum-digital greifen auf diese zentrale Datenbank zu. Die Normdaten-Datenbank besteht aus vier Sektionen: Orte, Akteure, Zeitbegriffe und Schlagworte. Die Datenbank ist - gemeinsam mit weiteren Vokabularen - für die Öffentlichkeit über [md:term](https://term.museum-digital.de/) zugänglich.
 
 Die Kontrolle der Begriffe und Konzepte erlaubt wesentlich bessere Suchergebnisse, sie erlaubt eine Hierarchisierung (\"München liegt in Bayern\", \"ein Dachdeckerhammer ist ein Hammer\", ...) und sie erlaubt vor allem die zentralisierte Anreicherung mit mehrsprachigen Varianten, Hintergrundinformationen und Querverweisen in Normdatenrepositorien wie geonames, viaf, aat, \... . Die Anreicherungen stehen dann auch bei Exporten zu Fachportalen oder etwa der Deutschen Digitalen Bibliothek oder europeana zur Verfügung.
 
-![](../assets/chapter_2/normdatendatenbank.jpg)
+![Grafik: Normdaten-Datenbank](../assets/chapter_2/normdatendatenbank.jpg)
 
 Die Zentralisierung der Begriffe und Konzepte hat Vorteile: Jeder Begriff muss nur einmal übersetzt, angereichert und in eine Hierarchie eingepasst werden. Es wird vermieden, dass es zur Bildung mehrerer, sich möglicherweise widersprechender, Hierarchien kommt. Mit den Begriffen und Konzepten wird auch die Bearbeitung zentralisiert und von Personen außerhalb der jeweiligen Museen (\"Normdaten-Redaktion\") übernommen.
 
@@ -24,8 +22,7 @@ Die Bearbeitung von Importen und Eingaben ist recht zeitaufwändig, wenngleich s
 
 Generell gilt: Solange ein Begriff oder Konzept aus der Normdaten-Datenbank nur von einem einzigen Museum verwendet wird, haben die Mitarbeiter dieses Museums die \"Hoheit\" über diesen Begriff. Sobald ein weiteres Museum ebenfalls eines seiner Objekte mit diesem Begriff verknüpft hat übernimmt die Normdatenredaktion. Die Schreibweise des Begriffs kann dann von keinem der Museen mehr geändert werden (man würde ja sozusagen in die Darstellung der Datensätze des jeweils anderen Museums eingreifen). Zu jedem Begriff gibt es im Eingabe- und Bearbeitungstool die Möglichkeit Annotationen als Nachricht an die Normdatenredaktion zu speichern.
 
-Erfassung von kontrollierten Begriffen
---------------------------------------
+## Erfassung von kontrollierten Begriffen
 
 Die Erfassung von kontrollierten Begriffen geschieht durch Einträge der Nutzer beim Anlegen von objektbezogenen Ereignissen im Zusammenhang mit der Objektbearbeitung. Soll beispielsweise zu einer Skulptur vermerkt werden, sie sei von \"Andreas Niedermeyer\" erstellt worden und sollte dabei diese Personen noch nicht im Personenkatalog von museum-digital verzeichnet sein, so bittet das Programm die Eingebenden um einige weitere Angaben zur Person, damit auf dieser Grundlage die Normdatenredaktion die Person identifizieren und den entsprechenden Personendatensatz anreichern kann. In ähnlicher Weise gelangen bisher nicht erfasste Ortsnamen in den Ortskatalog.
 
@@ -45,8 +42,7 @@ Wichtig: Nur individualisierbare Orte über Ereignisse erfassen.
 
 Hier wird das Erfassen bisher unbekannter Zeiteinheiten erläutert.
 
-Die Normdatenredaktion
-----------------------
+## Die Normdatenredaktion
 
 Die Redaktion der Normdaten kann nicht von jedem übernommen werden. Ein hoher Grad an \"Pingeligkeit\" ist nötig. Bisweilen sind importierte oder von Museen eingetragene Begriffe schwer zu deuten und es sind Rückfragen nötig. Oft hilft es, wenn die NormdatenbearbeiterInnen bereits in Museen tätig waren und so ein Verständis dafür haben, was wohl mit Begriffen wie \"Klassische Zeit\" gemeint sein könnte. Ein wenig Universalismus ist ebenfalls hilfreich, denn es erkennt nicht jeder, dass es eine \"Klassische Zeit\" sowohl für die \"Klassischen Archäologen\" als auch für \"Maya-Forscher\" gibt. Mehrsprachigkeit ist ebenfalls sehr nützlich, denn die kontrollierten Begriffe werden ja in bis zu 27 verschiedene Sprachen übertragen. Die Mitarbeiter der Normdatenredaktion sind entweder ehrenamtlich Tätige oder sie werden von
 den museum-digital tragenden Landesverbänden und -beratungsstellen mit dieser Aufgabe betraut. Oft kommt es auch dazu, dass im Rahmen eines Digitalisierungsprojektes Mittel für die  redaktionelle Bearbeitung der entsprechenden Datensätze mitbeantragt werden. Die Arbeit wird dann von geübten Normdatenredakteuren übernommen. Die Normdatenkontrolle und -anreicherung von Datensätzen aus Museen in Sachsen-Anhalt wird von den Museen und vom Land Sachsen-Anhalt finanziell unterstützt.

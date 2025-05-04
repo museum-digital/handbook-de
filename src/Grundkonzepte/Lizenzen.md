@@ -29,15 +29,14 @@ unten stehenden Tabelle auf die entsprechende Abkürzung.
 
 | Lizenz                              | Bedeutung / berechtigt zu verlangt|
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------|
-  [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)   | Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen |
-  [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)   | Namensnennung - Nicht kommerziell - Keine Bearbeitungen                   |
-  [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.de)         | Namensnennung - Nicht kommerziell                                         |
-  [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.de)         | Namensnennung - Keine Bearbeitungen                                       |
-  [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.de)         | Namensnennung - Weitergabe unter gleichen Bedingungen                     |
-  [CC BY](https://creativecommons.org/licenses/by/4.0/deed.de)               | Namensnennung                                                             |
-  [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)           | Public Domain                                                             |
-  [RR-F](https://www.europeana.eu/portal/de/rights/rr-f.html)                | Rechte vorbehalten - Freier Zugang                                        |
-  [RR-P](https://www.europeana.eu/portal/en/rights/rr-p.html)                | Rechte vorbehalten - Bezahlter Zugang                                     |
-  [RR-R](https://www.europeana.eu/portal/en/rights/rr-r.html)                | Rechte vorbehalten - Eingeschränkter Zugang                               |
-  [Orphan Work](https://de.wikipedia.org/wiki/Verwaistes_Werk)               | Verwaistes Werk                                                           |
-  
+|  [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)   | Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen |
+|  [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)   | Namensnennung - Nicht kommerziell - Keine Bearbeitungen                   |
+|  [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.de)         | Namensnennung - Nicht kommerziell                                         |
+|  [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.de)         | Namensnennung - Keine Bearbeitungen                                       |
+|  [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.de)         | Namensnennung - Weitergabe unter gleichen Bedingungen                     |
+|  [CC BY](https://creativecommons.org/licenses/by/4.0/deed.de)               | Namensnennung                                                             |
+|  [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)           | Public Domain                                                             |
+|  [RR-F](https://www.europeana.eu/portal/de/rights/rr-f.html)                | Rechte vorbehalten - Freier Zugang                                        |
+|  [RR-P](https://www.europeana.eu/portal/en/rights/rr-p.html)                | Rechte vorbehalten - Bezahlter Zugang                                     |
+|  [RR-R](https://www.europeana.eu/portal/en/rights/rr-r.html)                | Rechte vorbehalten - Eingeschränkter Zugang                               |
+|  [Orphan Work](https://de.wikipedia.org/wiki/Verwaistes_Werk)               | Verwaistes Werk                                                           |
