@@ -40,5 +40,4 @@ unten stehenden Tabelle auf die entsprechende Abkürzung.
   [RR-P](https://www.europeana.eu/portal/en/rights/rr-p.html)                | Rechte vorbehalten - Bezahlter Zugang                                     |
   [RR-R](https://www.europeana.eu/portal/en/rights/rr-r.html)                | Rechte vorbehalten - Eingeschränkter Zugang                               |
   [Orphan Work](https://de.wikipedia.org/wiki/Verwaistes_Werk)               | Verwaistes Werk                                                           |
-
- 
+  

@@ -52,7 +52,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 ### Ebene: Jahrhundert
 
-|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|Wert|&alpha;-&Omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-15|Bsp.: Anfang des 20. Jahrhunderts| -> 1901-1915|
 |Mitte|40-60|Bsp.: Mitte des 20. Jahrhunderts| -> 1940-1960|
@@ -68,7 +68,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 ### Ebene: Jahrzehnt
 
-|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|Wert|&alpha;-&Omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|00-03|Bsp.: Anfang der 1980er Jahre| -> 1980-1983|
 |Frühe|00-03|Bsp.: Frühe 1980er Jahre| -> 1980-1983|
@@ -83,7 +83,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 ### Ebene: Jahr
 
-|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|Wert|&alpha;-&Omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-03|Bsp.: Anfang 1907| -> 01.01.1907-31.03.1907|
 |Mitte|05-07|Bsp.: Mitte 1907| -> 01.05.1907-31.07.1907|
@@ -94,7 +94,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 ### Ebene: Jahreszeiten
 
-|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|Wert|&alpha;-&Omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Frühling|03-05|Bsp.: Frühling 1944| -> 01.03.1944-31.05.1944|
 |Sommer|06-08|Bsp.: Sommer 1944| -> 01.06.1944-31.08.1944|
@@ -103,7 +103,7 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 ### Ebene: Monat
 
-|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|Wert|&alpha;-&Omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Anfang|01-10|Bsp.: Anfang Dezember 1922| -> 01.12.1922-10.12.1922|
 |Mitte|11-19|Bsp.: Mitte Dezember 1922| -> 11.12.1922-19.12.1922|
@@ -111,6 +111,6 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 
 ### Ebene: Feste
 
-|Wert|&alpha;-&omega;|Beispiel: Aus ...|wird ...|
+|Wert|&alpha;-&Omega;|Beispiel: Aus ...|wird ...|
 |---|---|---|---|
 |Weihnachten|25-26|Bsp.: Weihnachten 1915| -> 25.12.1915-26.12.1915|
