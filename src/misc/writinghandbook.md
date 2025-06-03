@@ -1,6 +1,6 @@
 # Dieses Handbuch schreiben
 
-Ein Handbuch zu verfassen ist nicht leicht, vor allem dann, wenn sich das Beschriebene immer weiter entwickelt und es so viel zu beschreiben gibt wie bei museum-digital. Wir setzten deshalb auf Kollaboration und haben uns entschieden dieses Handbuch transparent und für alle potentiellen Autoren offen über GitHub zu schreiben. Zur Gestaltung der entstehenden Seiten greifen wir auf das einfach Markdown zurück. Die darin möglichen Gestaltungsanweisungen finden sich im Internet, bei der Suche nach Markdown cheat sheet [z.B. hier](https://www.collectiveray.com/de/Markdown-Spickzettel).
+Ein Handbuch zu verfassen ist nicht leicht, vor allem dann, wenn sich das Beschriebene immer weiter entwickelt und es so viel zu beschreiben gibt wie bei museum-digital. Wir setzten deshalb auf Kollaboration und haben uns entschieden dieses Handbuch transparent und für alle potentiellen Autoren offen über GitHub zu schreiben. Zur Gestaltung der entstehenden Seiten greifen wir auf das einfach Markdown zurück. Die darin möglichen Gestaltungsanweisungen finden sich im Internet, bei der Suche nach Markdown cheat sheet [z.B. hier](https://www.markdownguide.org/cheat-sheet/).
 
 ## Vorbereitung
 
