@@ -19,6 +19,7 @@ Eine Abhilfe kann hierbei eine eingebaute Vollständigkeitsprüfung liefern, die
 | imdas pro (lmw)            | XML         | Nein      | Parser für die Export-Daten des [Landesmuseums Württemberg](https://www.landesmuseum-stuttgart.de/). Ob sich der Parser auch für die Exporte aus anderen Instanzen von Imdas Pro benutzen lässt, ist bisher unbekannt |
 | Johann@Hilf                | CSV         | Ja        | Johann@Hilf war der Vorgänger von Primus und arbeitete auf Basis von MS-Access. Der Johann@Hilf-Parser arbeitet mit einem CSV-Export der Access-Datenbank. |
 | Primus                     | XML         | Ja        | Parser für die aus [Primus](https://www.landesstelle.de/service/primus/) exportierten Daten. Deckt die Felder eines Gesamt-Exports ab. |
+| Robotron Daphne            | CSV         | Ja        | Parser für Daten aus dem Standard-Export von Robotron Daphne. |
 | LIDO                       | XML         | Teilweise | Parser für nach dem Austauschstandard [LIDO](../misc/Formate/XML/LIDO.md) geformte Daten. Es werden sowohl LIDO 1.0 als auch LIDO 1.1 unterstützt. Der gerade in Entwicklung befindliche [EODEM-Standard](../misc/Formate/XML/EODEM.md) wird als Erweiterung von LIDO ebenfalls vom LIDO-Parser abgedeckt (derzeit funktional mit EODEM 0.08). |
 
 Dazu gibt es generische Parser, die für jeden Import neu angepasst werden müssen, aber eine gute Grundlage für sehr einfache Importe - wie zum Beispiel einfache, zuvor in Excel gepflegte Standortlisten - bieten:
