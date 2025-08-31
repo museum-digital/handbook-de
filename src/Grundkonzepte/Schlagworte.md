@@ -1,7 +1,7 @@
 Schlagworte
 ===========
 
-Schlagworte erleichtern das Auffinden von Objekten. Bei museum-digital kann jedes Objekt mit einer beliebigen Anzahl von Schlagworten belegt werden. Objekte sollten mit jenen Begriffen belegt werden, unter denen das Objekt gefunden werden soll. Der Umgang mit Schlagworten unterliegt bei museum-digital der Normdatenkontrolle, die sich - um eine effektive Weitergabe der Objektinformationen zu ermöglichen - woimmer möglich an den im Bibliotheksbereich üblichen Gepflogenheiten orientiert. Schlagworte werden bei museum-digital als Bezeichnungen für gedankliche Konzepte behandelt und mit Verknüpfungen zu allgemein genutzten Vokabularen (GND, AAT, LCSH, ...) angereichert, sie werden hierarchisiert und mit einer kurzen Beschreibung versehen. Die Hierarchisierung ermöglicht es z.B. bei der Suche nach "Spielzeug" auch ein "Schaukelpferd" zu finden.
+Schlagworte erleichtern das Auffinden von Objekten. Bei museum-digital kann jedes Objekt mit einer beliebigen Anzahl von Schlagworten verknüpft werden. Objekte sollten mit jenen Begriffen belegt werden, unter denen das Objekt gefunden werden soll. Der Umgang mit Schlagworten unterliegt bei museum-digital der Normdatenkontrolle, die sich - um eine effektive Weitergabe der Objektinformationen zu ermöglichen - woimmer möglich an den im Bibliotheksbereich üblichen Gepflogenheiten orientiert. Schlagworte werden bei museum-digital als Bezeichnungen für gedankliche Konzepte behandelt und mit Verknüpfungen zu allgemein genutzten Vokabularen (GND, AAT, LCSH, ...) angereichert, sie werden hierarchisiert und mit einer kurzen Beschreibung versehen. Die Hierarchisierung ermöglicht es z.B. bei der Suche nach "Spielzeug" auch ein "Schaukelpferd" zu finden.
 
 Um die Schlagworte möglichst erfolgreich bei Suchen und Weitergaben einsetzen zu können und um die Arbeit der Anreicherung und Hierarchisierung gering zu halten sollten folgende Regeln eingehalten werden.
 
@@ -10,10 +10,15 @@ Ein gutes Schlagwort bezeichnet ein allgemeines Konzept
 
 Bei museum-digital sind kontrollierte Begriffe in vier verschiedene Bereiche unterteilt: Ortsnamen, Namen von Personen oder Institutionen, Zeitangaben und Schlagworte. Die entsprechenden Einträge haben jeweils eigene Qualitäten - ein Ort hat kein Geburtsjahr und ein Zeitraum hat keine Koordinaten. Es ist deshalb wichtig Orts-, Personen-, und Zeitbezeichnungen nicht als Schlagwort einzutragen. Schlagworte sind Bezeichnungen allgemeiner gedanklicher Konzepte. Für museum-digital gilt: Als Schlagworte sind nur allgemeine Begriffe (keine Orte, Akteure oder Zeiten) zulässig.
 
-Ein gutes Schlagwort kommt allein
+Ein gutes Schlagwort kommt (zumeist) allein
 ---------------------------------
 
 Ein einzelnes Schlagwort, etwa "Armbrust", lässt sich in eine Hierarchie als "Art von" "Schusswaffe" einordnen. Eine Schlagwortkette wie beispielsweise "Armburst, Schild, Helm, Rüstung" ist dagegen schwer zu hierarchisieren oder mit Einträgen in allgemein genutzten Vokabularen zu verknüpfen. Manche anderen Datenbanksysteme zur Inventarisierung von Museumsobjekten verfügen über nur ein einziges Feld für Schlagworte. Sollen Objektinformationen aus solchen Systemen korrekt importiert werden, müssen im entsprechenden Feld eines solchen Datenbanksystems stets die gleichen Trennzeichen verwendet worden sein. Für museum-digital selbst gilt: Schlagwortketten unbedingt vermeiden !
+
+Ein gutes Schlagwort darf höchstens ein Attribut haben
+-----------------------------------
+
+Manche Schlagworte sind sehr allgemein oder kommen recht häufig vor. Für Fälle, in denen eine Objekterfassung und/oder -präsentation im Sinne der Ikonographie bevorzugt wird sind Attributvergaben möglich. Für museum-digital gilt: Statt einfach nur "Pullover" kann also auch feiner gegliedert werden in: "Gelber Pullover", "Gestrickter Pullover", "Karierter Pullover" etc.. Ein "Gelber karierter Pullover" hingegen ist überspezifisch. Es ist zu bedenken, dass die Verwendung von Schlagwortattributen, die Möglichkeit verringert eine Entsprechung in allgemein genutzten Vokabularen zu finden.
 
 Ein gutes Schlagwort ist "singulär"
 -----------------------------------
@@ -43,7 +48,7 @@ Wenn ein Museumsobjekt in seiner Form eine "Birne" nachahmt, dann steht hinter d
 Ein gutes Schlagwort ist ein Nomen
 ----------------------------------
 
-Ganz generell eignen sich Adjektive ("gestanzt", "lakiert", "gepunzt",...) nicht als Schlagworte. Häufig beschreiben Adjektive zusätzliche Qualitäten ("Gepunztes Silber") und lassen sich besser in der allgemeinen Objektbeschreibung unterbringen - als Alternative lassen sie sich durch entsprechende Hauptworte ersetzen (im Beispiel: "Punzierung" und "Silber".) Für museum-digital gilt: Adjektive sind als Schlagworte zu meiden.
+Ganz generell eignen sich alleinstehende Adjektive ("gestanzt", "lakiert", "gepunzt",...) nicht als Schlagworte. Häufig beschreiben Adjektive zusätzliche Qualitäten ("Gepunztes Silber") und lassen sich als Schlagwortattribut verwenden oder in der allgemeinen Objektbeschreibung unterbringen - als Alternative lassen sie sich durch entsprechende Hauptworte ersetzen (im Beispiel: "Punzierung" und "Silber".) Für museum-digital gilt: Adjektive sind nur als Attribute zu einem Schlagwort zulässig.
 
 Ein gutes Schlagwort kennt kein "Motiv"
 ---------------------------------------
