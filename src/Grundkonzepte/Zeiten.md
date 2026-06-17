@@ -58,8 +58,8 @@ Die nachfolgenden Angaben zeigen, wie verbale Zeitbegriffe bei museum-digital (h
 |Mitte|40-60|Bsp.: Mitte des 20. Jahrhunderts| -> 1940-1960|
 |Ende|-15-00|Bsp.: Ende des 19. Jahrhunderts| -> 1885-1900|
 |Wende|-15-15|Bsp.: Wende 19.-20. Jahrhundert| -> 1885-1915|
-|Erstes Drittel|01-36|Bsp.: 1. Drittel 18. Jh.| -> 1701-1736|
-|Zweites Drittel|37-66|Bsp.: 2. Drittel 18. Jh.| -> 1737-1766|
+|Erstes Drittel|01-33|Bsp.: 1. Drittel 18. Jh.| -> 1701-1733|
+|Zweites Drittel|34-66|Bsp.: 2. Drittel 18. Jh.| -> 1734-1766|
 |Drittes Drittel|67-00|Bsp.: 3. Drittel 18. Jh.| -> 1767-1800|
 |Erstes Viertel|01-25|Bsp.: 1. Viertel 6. Jh.| -> 501-525 n. Chr.|
 |Zweites Viertel|26-50|Bsp.: 2. Viertel 6. Jh.| -> 526-550 n. Chr.|
