@@ -64,7 +64,7 @@ Die Schalter im Einzelnen:
 
 - (3) Dieser Schalter führt in den Sortiermodus für Ressourcen, in welchem man eine Ressource wählt und diese leicht an eine andere Stelle der Reihung bringt.
 
-- (4) Um die IPTC-Daten aller Abbildungen neu schreiben genügt ein Klick auf diesen Schalter.
+- (4) <del>Um die IPTC-Daten aller Abbildungen neu schreiben genügt ein Klick auf diesen Schalter.</del>
 
 - (5) Durch KI der Bilderkennung wird versucht aus den Abbildungen Schlagworte zu extrahieren, die dann zur Übernahme als Schlagworte zum Objekt angeboten werden.
 
@@ -121,6 +121,10 @@ und/oder Höhe), in der Ausrichtung (durch Verändern der Drehung), in der Tonal
 - (14) Mit vier Schaltern können Sie entweder alle Versionen einer Abbildung austauschen oder nur die große, nur die mittlere oder nur die kleine gespeicherte Version. Auf diese Weise kann, auch wenn es nötig sein sollte, die große Abbildung mit Wasserzeichen versehen sein während die anderen Versionen ohne Wasserzeichen bleiben.
 
 - (15) Die Anzahl vorhandener Navigationen dient hier als Schalter zum Anbringung und Verwalten von Annotationen.
+
+### IPTC-Metadaten
+
+Bei jeder Änderung der Abbildungsmetadaten in musdb werden die [Exif](https://en.wikipedia.org/wiki/Exif)- und [IPTC](https://iptc.org/)-Metadaten von intern und unmittelbar in musdb vorliegenden Bilddateien automatisch neu geschrieben. Dies geschieht zeitverzögert im Hintergrund.
 
 ## Annotationen
 
