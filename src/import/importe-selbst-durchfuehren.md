@@ -45,5 +45,6 @@ parser: Csvxml
 ## Der Import
 
 Der Server prüft selbstständig in regelmäßigen Intervallen, ob ein neuer Import vorbereitet und hochgeladen wurde. Ist das der Fall, werden die Daten importiert. Sollte es dabei zu Fehlern kommen, wird eine Fehlermeldung an die zuvor in der Konfigurationsdatei angegebene Mailadresse und das Entwicklerteam versendet. Ist der Import erfolgreich, wird man ebenso per Mail darüber benachrichtigt.
+Das Intervall beträgt aktuell 4 h. Kann aber nach Bedarf herab- oder heraufgesetzt werden.
 
 Damit der Import nicht immer wieder durchgeführt wird, werden die Importdaten im Anschluss in einen neuen Ordner `IMPORTS_FAILED` bzw. `IMPORTS_SUCCESS` verschoben und dort mittelfristig gelöscht.
