@@ -49,7 +49,7 @@ maschinell in die deutschlandweite Version übertragen.
 -   hat Eingabe- und Bearbeitungswerkzeug
 -   hat eigene Normdatenverwaltung
 
-Zusammengenommen gibt es akutell (Mitte 2017) 23 Versionen von
+Zusammengenommen gibt es aktuell (Mitte 2017) 23 Versionen von
 museum-digital.
 
 Modul: \"Groupit\"
@@ -78,7 +78,7 @@ schnell zu widersprüchlichen Angaben käme, ist die Benutzung des Moduls
 für museum-digital der zentralen Normdatenredaktion vorbehalten (die
 internationalen Version haben stets eine eigene Redaktion). Das Modul
 \"nodac\" kann auch unabhängig von museum-digital benutzt werden, um
-z.B. Thesauri in koopertativer Umgebung zu erstellen.
+z.B. Thesauri in kooperativer Umgebung zu erstellen.
 
 Modul: \"md:term\"
 ------------------

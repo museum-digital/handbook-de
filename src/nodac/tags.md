@@ -21,7 +21,7 @@ Die Navigationsspalte von nodac: Schlagworte wird auf der Startseite und bei den
 Das Symbolmenu am oberen Rand der Navigationsspalte enthält folgende Schalter:
 
 - Die Pagode führt zur Startseite von nodac: Schlagworte. Sie hat damit die gleiche Funktion wie ein Anklicken von "Schlagworte" im Auswahlmenu für die Vokabulare.
-- Der Schalter, welcher Personen mit rotem Verbindungspfeil zeigt führt zu einer Suche nach Dublikaten. Es wird nach Schlagworten gleicher Benennung gesucht.
+- Der Schalter, welcher Personen mit rotem Verbindungspfeil zeigt führt zu einer Suche nach Duplikaten. Es wird nach Schlagworten gleicher Benennung gesucht.
 - Die "liegende Stimmgabel" führt zu einer Suche nach mehrfach gespeicherten Beziehungen.
 - Der "schrägstehende Hufeisenmagnet" führt zu einer Suche nach hierarchischen Beziehungen erster Generation, d.h. Begriffen, die sich selbst unter- oder übergeordnet sind.
 - Der "Mann mit dem Krückstock" führt zu einer Suche nach hierarchischen Beziehungen zweiter Generation, d.h. ein Begriff ist einem anderen Begriff über- oder untergeordnet und zugleich dessen über- oder untergeordneter Begriff.

@@ -6,4 +6,4 @@ Mit dem Concordance Checker können User alle in einem Feld verfügbaren Werte g
 
 Das Tool ist erreichbar unter <https://concordance.museum-digital.org>.
 
-Der Source Code des Tools ist unter <https://gitea.armuli.eu/museum-digital/concordance-checker> MIT-lizensiert verfügbar.
+Der Source Code des Tools ist unter <https://gitea.armuli.eu/museum-digital/concordance-checker> MIT-lizenziert verfügbar.

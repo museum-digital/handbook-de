@@ -31,7 +31,7 @@ Mit dem gleichnamigen Feature lassen sich Objekte für eine bestimmte Zeit reser
 
 Deakzession
 
-- Zur Erfassung der Deakzession eines Objektes muss zuerst eingetragen werden, von wem und wann die Deakzessionierung des Objektes authorisiert wurde. In der Folge können Detailinformationen zur Deakzession erfasst werden.
+- Zur Erfassung der Deakzession eines Objektes muss zuerst eingetragen werden, von wem und wann die Deakzessionierung des Objektes autorisiert wurde. In der Folge können Detailinformationen zur Deakzession erfasst werden.
 
 ![](../../../assets/musdb/objects-edit/Reiter/Reiter-Objektverwaltung-Deakzession-bearbeiten.avif)
 

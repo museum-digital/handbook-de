@@ -13,7 +13,7 @@ Abbildungsverwaltung
 --------------------
 
 Um die Menüführung bei museum-digital nicht zu überfrachten ist die
-Abbildungsverwaltung nicht standardsmäßig in der Navigationsleiste
+Abbildungsverwaltung nicht standardmäßig in der Navigationsleiste
 (Menü) aktiviert.  Die Abbildungsverwaltung kann auf zwei Weisen
 erreicht werden:
 
