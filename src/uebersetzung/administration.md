@@ -17,4 +17,4 @@ Klickt man auf den Button zum Freischalten der Übersetzungen in einem "Reposito
 
 ## Übersetzungen verteilen
 
-Um die so festgestellten Übersetzungen nun tatsächlich in die Programme zu bringen braucht es die Kommandozeile. Im Ordner des Übersetzungstools finden sich als einzelne Unterordner die Übersetzungen für die verschienenen Werkzeuge. Jeder dieser Ordner ist ein einzelnes Git Repository, das im nächsten Schritt zur zentralen Versionierung synchronisiert werden muss (`git push`). In den jeweiligen Tools sind die Übersetzungen dann wiederum als `git submodules` eingebunden und müssen entsprechend aktualisiert werden.`
+Um die so festgestellten Übersetzungen nun tatsächlich in die Programme zu bringen braucht es die Kommandozeile. Im Ordner des Übersetzungstools finden sich als einzelne Unterordner die Übersetzungen für die verschiedenen Werkzeuge. Jeder dieser Ordner ist ein einzelnes Git Repository, das im nächsten Schritt zur zentralen Versionierung synchronisiert werden muss (`git push`). In den jeweiligen Tools sind die Übersetzungen dann wiederum als `git submodules` eingebunden und müssen entsprechend aktualisiert werden.`

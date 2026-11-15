@@ -16,7 +16,7 @@ Wichtig zu beachten ist, dass Ereignisse bei einer Veröffentlichung des Objekte
 
 ## Nuancen beschreiben: "Ausführliche Beschreibung" und "Objektgeschichte"
 
-Sollen kurze, schriftliche Provenienzvermerke zu einzelnen Objekten in Sätzen statt als strukturierte Daten erfasst und gegebenenfalls veröffentlicht werden, bieten sich dafür die Felder "Ausführliche Beschreibung" und "Objektgeschichte" auf den Reitern "[Zusatz](../../Objekte/Registerkarten-Standard/Zusatz.md)" bzw. "[Verwaltung](../../Objekte/Registerkarten-Standard/Verwaltung.md)" an. Die Erfassung in Textform erlaubt eine nuanciertere Ausdrucksweise als es die Ereignisform zuliese. Andererseits sind die Felder "Ausführliche Beschreibung" und "Objektgeschichte" reine Textfelder, die sich nur mit Volltextsuchen durchsuchen lassen.
+Sollen kurze, schriftliche Provenienzvermerke zu einzelnen Objekten in Sätzen statt als strukturierte Daten erfasst und gegebenenfalls veröffentlicht werden, bieten sich dafür die Felder "Ausführliche Beschreibung" und "Objektgeschichte" auf den Reitern "[Zusatz](../../Objekte/Registerkarten-Standard/Zusatz.md)" bzw. "[Verwaltung](../../Objekte/Registerkarten-Standard/Verwaltung.md)" an. Die Erfassung in Textform erlaubt eine nuanciertere Ausdrucksweise als es die Ereignisform zuließe. Andererseits sind die Felder "Ausführliche Beschreibung" und "Objektgeschichte" reine Textfelder, die sich nur mit Volltextsuchen durchsuchen lassen.
 
 Der zentrale Unterschied zwischen den beiden Feldern liegt in ihrer Veröffentlichbarkeit. Während das Feld "Objektgeschichte" ein rein intern ausgespieltes Feld ist, kann das Feld "Ausführliche Beschreibung" gezielt veröffentlicht werden.
 
@@ -28,7 +28,7 @@ Mithilfe des Reiters "Provenienzforschung" lassen sich ganze mehrseitige Bericht
 
 Vor allem für die Verwaltung ist der direkte Vorbesitzer und sind die direkten Umstände des Erwerbs eines Objektes von Interesse, auch abseits der Provenienzforschung. Besonders das Zusammenfassen mehrerer Objekte in einen Erwerbungsvorgang kann allerdings auch für die Provenienzforschung nützlich sein - etwa bei Konvolutankäufen, bei denen es keinen gesondert ausgeschriebenen Preis für die einzelnen Objekte gab.
 
-Über den Reiter "Verwaltung" lassen sich Objekte mit solchen [Erwerbungsvorgängen](../../Erwerbungen/) verknüpfen. Ebenfalls hier lassen sich auf Objektebene Vorbesitzer, Erwerbungsort, etc. eintragen. Gerade, wenn Erwerbungen im Konvolut im Museum vorgekommen sind, ist die Erfassung als gesonderter Erwerbungsvorgang jedoch unbedingt empfelenswert.
+Über den Reiter "Verwaltung" lassen sich Objekte mit solchen [Erwerbungsvorgängen](../../Erwerbungen/) verknüpfen. Ebenfalls hier lassen sich auf Objektebene Vorbesitzer, Erwerbungsort, etc. eintragen. Gerade, wenn Erwerbungen im Konvolut im Museum vorgekommen sind, ist die Erfassung als gesonderter Erwerbungsvorgang jedoch unbedingt empfehlenswert.
 
 Wie das Feld "Objektgeschichte" lassen sich Erwerbungsvorgänge nicht veröffentlichen.
 

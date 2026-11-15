@@ -31,7 +31,7 @@
   - [Veranstaltungen / Termine]() <!-- (./Ausgabe/README.md) -->
     - [Übersicht der Termine (_WIP_)](./Ausgabe/Veranstaltungen/Uebersicht.md)
     - [Einzelansicht (_WIP_)](./Ausgabe/Veranstaltungen/Einzelne-Veranstaltung.md)
-  - [Objektgruppen](./Ausgabe/Objektgruppe/README.md) -->
+  - [Objektgruppen](./Ausgabe/Objektgruppe/README.md)
   - [Objekte]() <!-- (./Ausgabe/README.md) -->
     - [Einzelnes Objekt (_WIP_)](./Ausgabe/Objekt/Readme.md)
       - [Abbildungen des Objektes (_WIP_)](./Ausgabe/Objekt/Einzelbild.md)
@@ -153,11 +153,11 @@
     - [Objektgruppen hinzufügen](./musdb/Objektgruppen/Objektgruppe-eingeben.md)
     - [Objektgruppen bearbeiten](./musdb/Objektgruppen/Objektgruppe-bearbeiten.md)
     - [HTML-Katalog]() <!-- (./musdb/Objektgruppen/HTML-Katalog/README.md) -->
-  - [Literatur]() <!-- (./musdb/Veranstaltungen/README.md) -->
+  - [Literatur]() <!-- (./musdb/Literatur/Uebersicht.md) -->
     - [Literatur suchen](./musdb/Literatur/Uebersicht.md)
     - [Literatureinträge hinzufügen](./musdb/Literatur/Literatur-eingeben.md)
     - [Literatur bearbeiten](./musdb/Literatur/Literatur-bearbeiten.md)
-  - [Leihverkehre](./musdb/Leihverkehr/README.md) -->
+  - [Leihverkehre](./musdb/Leihverkehr/README.md)
     - [Leihverkehre suchen](./musdb/Leihverkehr/Uebersicht.md)
     - [Leihverkehre eingeben](./musdb/Leihverkehr/Leihverkehr-eingeben.md)
     - [Leihverkehre bearbeiten](./musdb/Leihverkehr/Leihverkehr-bearbeiten.md)

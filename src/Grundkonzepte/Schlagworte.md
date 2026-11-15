@@ -13,7 +13,7 @@ Bei museum-digital sind kontrollierte Begriffe in vier verschiedene Bereiche unt
 Ein gutes Schlagwort kommt (zumeist) allein
 ---------------------------------
 
-Ein einzelnes Schlagwort, etwa "Armbrust", lässt sich in eine Hierarchie als "Art von" "Schusswaffe" einordnen. Eine Schlagwortkette wie beispielsweise "Armburst, Schild, Helm, Rüstung" ist dagegen schwer zu hierarchisieren oder mit Einträgen in allgemein genutzten Vokabularen zu verknüpfen. Manche anderen Datenbanksysteme zur Inventarisierung von Museumsobjekten verfügen über nur ein einziges Feld für Schlagworte. Sollen Objektinformationen aus solchen Systemen korrekt importiert werden, müssen im entsprechenden Feld eines solchen Datenbanksystems stets die gleichen Trennzeichen verwendet worden sein. Für museum-digital selbst gilt: Schlagwortketten unbedingt vermeiden !
+Ein einzelnes Schlagwort, etwa "Armbrust", lässt sich in eine Hierarchie als "Art von" "Schusswaffe" einordnen. Eine Schlagwortkette wie beispielsweise "Armbrust, Schild, Helm, Rüstung" ist dagegen schwer zu hierarchisieren oder mit Einträgen in allgemein genutzten Vokabularen zu verknüpfen. Manche anderen Datenbanksysteme zur Inventarisierung von Museumsobjekten verfügen über nur ein einziges Feld für Schlagworte. Sollen Objektinformationen aus solchen Systemen korrekt importiert werden, müssen im entsprechenden Feld eines solchen Datenbanksystems stets die gleichen Trennzeichen verwendet worden sein. Für museum-digital selbst gilt: Schlagwortketten unbedingt vermeiden !
 
 Ein gutes Schlagwort darf höchstens ein Attribut haben
 -----------------------------------
@@ -48,7 +48,7 @@ Wenn ein Museumsobjekt in seiner Form eine "Birne" nachahmt, dann steht hinter d
 Ein gutes Schlagwort ist ein Nomen
 ----------------------------------
 
-Ganz generell eignen sich alleinstehende Adjektive ("gestanzt", "lakiert", "gepunzt",...) nicht als Schlagworte. Häufig beschreiben Adjektive zusätzliche Qualitäten ("Gepunztes Silber") und lassen sich als Schlagwortattribut verwenden oder in der allgemeinen Objektbeschreibung unterbringen - als Alternative lassen sie sich durch entsprechende Hauptworte ersetzen (im Beispiel: "Punzierung" und "Silber".) Für museum-digital gilt: Adjektive sind nur als Attribute zu einem Schlagwort zulässig.
+Ganz generell eignen sich alleinstehende Adjektive ("gestanzt", "lackiert", "gepunzt",...) nicht als Schlagworte. Häufig beschreiben Adjektive zusätzliche Qualitäten ("Gepunztes Silber") und lassen sich als Schlagwortattribut verwenden oder in der allgemeinen Objektbeschreibung unterbringen - als Alternative lassen sie sich durch entsprechende Hauptworte ersetzen (im Beispiel: "Punzierung" und "Silber".) Für museum-digital gilt: Adjektive sind nur als Attribute zu einem Schlagwort zulässig.
 
 Ein gutes Schlagwort kennt kein "Motiv"
 ---------------------------------------

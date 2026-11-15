@@ -4,7 +4,7 @@ Ist, wie gerade beschrieben, der GitHub-Desktop installiert und eingerichtet, da
 
 ![Show in Explorer](../assets/writinghandbook/github_show_in_explorer.jpg)
 
-Rufen Sie im handbook-de-Ordner den Unterordner "src" auf, so werden weitere Unterordner sichbar, ebenso eine Datei namens SUMMARY.md. In den einzelnen Unterordnern finden sich Dateien, die auf "md" enden. Eine Ausnahme bildet der Unterordner "assets", in welchem Illustrationen abgelegt werden.
+Rufen Sie im handbook-de-Ordner den Unterordner "src" auf, so werden weitere Unterordner sichtbar, ebenso eine Datei namens SUMMARY.md. In den einzelnen Unterordnern finden sich Dateien, die auf "md" enden. Eine Ausnahme bildet der Unterordner "assets", in welchem Illustrationen abgelegt werden.
 
 Das Handbuch ist also keine einzelne Datei sondern setzt sich aus vielen kleinen Dateien zusammen. Diese Dateien sind ganz einfache Text-Dateien, d.h. ohne programmspezifische Steuerzeichen und versteckte Kommandos, wie sie Textbearbeitungsprogramme üblicherweise im Text platzieren. Diese kleinen Textdateien enden auf "md", weil sie in der Auszeichnungssprache Markdown verfasst sind. Markdown kennt nur wenige Befehle zur Gestaltung des jeweiligen Textes. Diese Befehle werden direkt in den Text geschrieben. Bei einer Suche nach Markdown CheatSheet lässt sich schnell eine Übersicht finden, z.B. [hier](https://www.heise.de/downloads/18/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf).
 

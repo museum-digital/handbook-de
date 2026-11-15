@@ -48,7 +48,7 @@ Je nach Dateityp kann musdb Voransichten für die heraufgeladenen Abbildungen ge
 - *Audio- und Videodateien*: Bei `.mp3` und `.mp4`-Dateien kann ein Thumbnail in den Metadaten der Datei angegeben werden. Bei in musdb hochgeladenen (statt nur verknüpften) Dateien werden so angegebene Thumbnails aus den Metadaten extrahiert und für die Voransicht verwendet. Ist kein Thumbnail in den Metadaten angegeben wird ein Platzhalter verwendet.
 - *3D*: 3D-Repräsentationen eines Objektes werden als ZIP-Archiv hochgeladen. Liegt im hochgeladenen ZIP-Archiv eine Datei `thumb.jpg` auf der Haupt-Ebene des Archivs vor, wird diese aus dem Archiv extrahiert und zur Generierung der Voransichten verwendet. Danach wird sie aus dem ZIP-Archiv gelöscht um später beim Betrachten der Bilder Bandbreite auf Seiten der Nutzer zu sparen. Liegt keine Datei `thumb.jpg` vor, wird ein Platzhalter verwendet.
 
-Voransichten werden in den Dateiformated JPG und WEBP generiert in den Größen 100 px Höhe, 200 px Breite und 500 px Breite generiert.
+Voransichten werden in den Dateiformaten JPG und WEBP generiert in den Größen 100 px Höhe, 200 px Breite und 500 px Breite generiert.
 
 ## Ressourcen verwalten
 

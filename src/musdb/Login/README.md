@@ -45,7 +45,7 @@ Um solche zeit-basierten Angriffe allgemein verhindern zu können ist beim Valid
 
 ### Nicht-Anzeige des falschen Aspekts beim Login
 
-Früher war es üblich, dass bei einem fehlgeschlagenen Login eine Nachricht erschien, die darüber Auskunft gab, ob das Login wegen eines unbekannten Benutzernamens oder wegen eines unbekannten Passworts abgeleht wurde. Dies ist mit der Zeit - und mit der steigenden Zahl von Angriffen auf Login-Formulare - immer unüblicher geworden, weil eine solche Meldung auch Angreifenden die Information gibt, ob der erratene, eingegebene Benutzername korrekt ist.
+Früher war es üblich, dass bei einem fehlgeschlagenen Login eine Nachricht erschien, die darüber Auskunft gab, ob das Login wegen eines unbekannten Benutzernamens oder wegen eines unbekannten Passworts abgelehnt wurde. Dies ist mit der Zeit - und mit der steigenden Zahl von Angriffen auf Login-Formulare - immer unüblicher geworden, weil eine solche Meldung auch Angreifenden die Information gibt, ob der erratene, eingegebene Benutzername korrekt ist.
 
 Auch musdb gibt dementsprechend _keine_ solche Meldung. Stattdessen wird nur darauf hingewiesen, dass die eingegebenen Logindaten falsch waren.
 
@@ -83,4 +83,4 @@ Unten rechts auf der Login-Seite findet sich eine Kachel, die Auskunft über die
 
 ### Hintergrundbild
 
-Ist der Bildschirm groß genug, wird ein Hintergrundbild auf der Login-Seite angezeigt. Dieses Hintergrundbild wird automatisch aus den veröffentlichten Bildern ausgewählt. Hierzu werden in regelmäßigen Abständen die größten veröffentlichten Objekt-Abbildungen, die mit einer CC-Lizenz lizensiert sind oder als Gemeinfrei ausgezeichnet sind, in eine Liste zwischengespeichert. Das angezeigte Hintergrundbild ist ein zufällig ausgewähltes aus dieser Liste.
+Ist der Bildschirm groß genug, wird ein Hintergrundbild auf der Login-Seite angezeigt. Dieses Hintergrundbild wird automatisch aus den veröffentlichten Bildern ausgewählt. Hierzu werden in regelmäßigen Abständen die größten veröffentlichten Objekt-Abbildungen, die mit einer CC-Lizenz lizenziert sind oder als Gemeinfrei ausgezeichnet sind, in eine Liste zwischengespeichert. Das angezeigte Hintergrundbild ist ein zufällig ausgewähltes aus dieser Liste.

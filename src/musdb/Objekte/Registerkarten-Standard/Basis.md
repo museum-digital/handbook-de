@@ -5,7 +5,7 @@ Registerkarte Basis
 Wenn alle anderen Registerkarten abgewählt wurden, dann erscheint die
 Registerkarte \"Basis\" als eine Anreihung von Anweisungen in
 dunkelroter Fettschrift - ergänzt durch eine Leiste zum Heraufladen oder
-Verknüpfen von Abbildungen oder ähnlichen Ressoucen.
+Verknüpfen von Abbildungen oder ähnlichen Ressourcen.
 
 ![](../../../assets/musdb/objects-edit/registerbasis1.jpg)
 
@@ -166,7 +166,7 @@ Symbolspalte findet sich der Ereignistyp angegeben. Ein Klick darauf
 führt, wie das \"Stift\"-Symbol der linken Spalte, zur
 Ereignisbearbeitung. Unter dem Ereignistyp stehen die einzelnen
 Einträge. Auch hier handelt es sich um Schalter. So führt ein Klicken
-auf \"Wer:\" dazu, dass Sie einen änderen Akteur eintragen können, ein
+auf \"Wer:\" dazu, dass Sie einen anderen Akteur eintragen können, ein
 Klicken auf \"Wo:\" gibt Ihnen Gelegenheit einen anderen Ereignisort
 einzutragen. Analog dazu führt ein Klicken auf \"Wann:\" zu jener
 Stelle, an der Sie einen anderen Zeiteintrag eintragen können. Zum
