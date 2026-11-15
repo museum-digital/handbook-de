@@ -21,7 +21,7 @@ Wozu Filter?
 ------------
 
 Ist ein Filter aktiv, dann beziehen sich einige der Navigations- und
-Bearbeitungs-Operationen auf die dem Filter entspechende Treffermenge.
+Bearbeitungs-Operationen auf die dem Filter entsprechende Treffermenge.
 Beispielsweise führt der "Nächstes Objekt"-Schalter bei aktivem Filter
 zum nächsten Objekt, welches den Filterbedingungen entspricht und führt
 nicht einfach nur zum nächsten folgenden Objekt der Gesamtmenge. Eine

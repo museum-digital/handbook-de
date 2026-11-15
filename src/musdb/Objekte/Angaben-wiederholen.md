@@ -33,7 +33,7 @@ Auch diese Liste ist an die laufende Sitzung gebunden. Nach einem Logout wird di
 
 ### Overlay: "Zuletzt benutzte Einträge verknüpfen"
 
-Analog zur gruppenweisen Wiederholung der Vokabularbezüge auf der Seite für das Verknüpfen von Schlagworten und Akteurs-, Orts- und Zeitbezügen lassen sich die jeweils letzten zehn innerhalb der laufenden Sitzung benutzten Einträge der jeweiligen Kategorien über ein Overlay wiederholen. Dieses Overlay lässt sich mit einem Klick auf den Menüpunkt "Zuletzt benutzte Einträge verknüpfen" in der Toolbar am linken Bildschirmrand öffenen.
+Analog zur gruppenweisen Wiederholung der Vokabularbezüge auf der Seite für das Verknüpfen von Schlagworten und Akteurs-, Orts- und Zeitbezügen lassen sich die jeweils letzten zehn innerhalb der laufenden Sitzung benutzten Einträge der jeweiligen Kategorien über ein Overlay wiederholen. Dieses Overlay lässt sich mit einem Klick auf den Menüpunkt "Zuletzt benutzte Einträge verknüpfen" in der Toolbar am linken Bildschirmrand öffnen.
 
 Mit einem Klick auf die zu verknüpfenden Einträge lassen sich diese auswählen. Mit einem Klick auf "Abschicken" werden sie dann gesammelt mit dem Objekt verknüpft.
 

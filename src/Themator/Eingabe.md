@@ -36,7 +36,7 @@ Themator-Modus angezeigt.
 
 *Vorschau im Scrollytelling-Modus\
 *Hier wird in einem neuen Browser-Tab die Voransicht der Themenseite im
-Scrollytelling-Modus angezeig
+Scrollytelling-Modus angezeigt
 
 *CSS für Scrollytelling-Modus\
 *Über diesen Menüpunkt gelangen Sie zum Stylesheet der Ausstellung. Hier
@@ -49,7 +49,7 @@ Anlage einer Hauptabbildung
 
 Die Anlage einer Hauptabildung ist nur für das Themator-Modus relevant.
 In der Ausstellung ragt die Hauptabbildung vom linken Rand in den
-Bildschirm hinein. Führt man den Mauszeiger zum linken Bildschrimrand,
+Bildschirm hinein. Führt man den Mauszeiger zum linken Bildschirmrand,
 schiebt sich das Bild über den Bildschirm.
 
 *Abbildung heraufladen*\
@@ -138,7 +138,7 @@ speichern, drücken Sie bitte stets den *Abschicken*-Button!
 * ?-Zeichen neben dem Abschicken-Button*\
 Bei einem Klick auf dieses Zeichen, können Sie die Inhalte der
 Themenseite in einer weiteren Sprache anlegen. In der aufgerufenen
-Eingabemaske müssen Sie zunächts die gewünschte Sprache auswählen. Dann,
+Eingabemaske müssen Sie zunächst die gewünschte Sprache auswählen. Dann,
 füllen Sie analog zur deutschen Eingabemaske die Felder *Kutztitel*,
 *Langtitel*, *Abstract* und *Text zum Thema* in der gewählten Sprache
 aus. Im Feld *Text zum Thema* müssen neben dem übersetzten Text auch
@@ -220,7 +220,7 @@ in dem Übersichtsfenster angezeigt wird.
 Die Themenseite, mit der Sie gerade arbeiten, wird in der
 Strukturansicht blau dargestellt. Die zu diesem Thema zugehörigen
 Unterthemen werden darunter aufgelistet. Sollte die Themenseite selbst
-einerm Oberthema zugeordnet sein, so wird dieses Oberthema darüber
+einem Oberthema zugeordnet sein, so wird dieses Oberthema darüber
 angezeigt. Die Reihenfolge der dem Thema untergeordneten Seiten kann mit
 den rechts befindlichen Pfeilen verändert werden. Mit dem vor dem Thema
 befindlichen Stift gelangt man zur Bearbeitungsseite des Themas. Mit
@@ -294,7 +294,7 @@ erscheint später als Quellennachweis beim Objekt. Unter
 *Objektbezeichnung* haben Sie bis zu 200 Zeichen Platz, um das Objekt zu
 benennen. Zwingend notwendig ist auch *(Alternative)
 Objektbeschreibung*, die idealerweise um die 500 Zeichen umfasst und aus
-ganzen Stätzen besteht. Dieses Feld kann aber auch dazu genutzt werden,
+ganzen Sätzen besteht. Dieses Feld kann aber auch dazu genutzt werden,
 bei Objektverknüpfungen über museum-digital, alternative
 Objektbeschreibungen anzulegen. Diese Objektbeschreibung erscheint dann
 anstelle der Beschreibung, die bei museum-digital bei dem Objekt

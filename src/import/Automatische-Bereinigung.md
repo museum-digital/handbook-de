@@ -6,7 +6,7 @@ Bei Feldern wie Längeneinheiten oder Lizenzangaben kann das über einfache Korr
 
 Ganz anders verhält es sich mit importierten Akteuren, Orten, Zeiten und Schlagworten. Hier wird museum-digital mit Sicherheit niemals Vollständig sein, und viele bisher unbekannte Einträge sind korrekt und sinnvoll.
 
-Und doch sind es eben auch viele nicht - oder sie sind tatsächlich eigentlich schon bekannt. Um doch die richtigen Zuordnungen zu finden und die Einträge gleich so korrekt wie möglich zu importieren, werden verschiedene Methoden zur (halb-)automatischen Bereinigung eingetzt, von denen viele mittlerweile auch Einzug in musdb gehalten haben.
+Und doch sind es eben auch viele nicht - oder sie sind tatsächlich eigentlich schon bekannt. Um doch die richtigen Zuordnungen zu finden und die Einträge gleich so korrekt wie möglich zu importieren, werden verschiedene Methoden zur (halb-)automatischen Bereinigung eingesetzt, von denen viele mittlerweile auch Einzug in musdb gehalten haben.
 
 ## Importieren nach Linked-Open-Data-IDs
 

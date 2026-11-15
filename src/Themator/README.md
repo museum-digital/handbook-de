@@ -5,7 +5,7 @@ Baukastenmodul bereit. Über dieses Modul können Ausstellungen in zwei
 verschiedenen Anzeigeformaten erstellt werden: im Themator-Format
 (Themator) oder im Scrollytelling-Format (md/story). Um eine
 Online-Ausstellung bei museum-digital zu erstellen, benötigen Sie einen
-seperaten Login für die Eingabeoberfläche des Baukastenmoduls. Die
+separaten Login für die Eingabeoberfläche des Baukastenmoduls. Die
 Zugangsdaten vergeben die
 [Regionaladministratoren](https://nat.museum-digital.de/index.php?t=kontakt).
 Der Login erfolgt

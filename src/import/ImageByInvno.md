@@ -112,9 +112,9 @@ Unter diesen Bedingungen würden die Dateien den Objekten `Hs-1234` und `Hs-1235
 
 Werden in den Inventarnummern des Museums Zeichen eingesetzt, die in den Dateinamen nicht auftauchen sollen und stattdessen ersetzt werden - weil sie nicht im Dateinamen verzeichnet werden können, wie Schrägstriche, oder, weil sie mittelfristig zu Problemen führen könnten wie Leerzeichen oder Umlaute - verhindert das eine Zuordnung unter der einfachen Verwendung der oben aufgeführten Modi. Dasselbe Problem besteht, wenn im Dateinamen zusätzliche Informationen neben der Inventarnummer vertreten sind. Die hier aufgeführten Optionen können in vielen solchen Fällen eine Abhilfe schaffen.
 
-### Vorrangehende Zeichen ignorieren ("strip_first_chars")
+### Vorangehende Zeichen ignorieren ("strip_first_chars")
 
-Beginnen die Dateinamen eines Uploads mit zusätzlichen Informationen, die nicht für die Ermittlung der Inventarnummer genutzt werden können, aber immer mit der gleichen Anzahl von Zeichen ausgedrückt werden, können diese vor der Ermittlung der zugehörigen Inventarnummern / Objekte weggeschnitten werden. Hierzu wird die Einstellung `strip_first_chars` genutzt (Beispielweise: `strip_first_chars: 7`).
+Beginnen die Dateinamen eines Uploads mit zusätzlichen Informationen, die nicht für die Ermittlung der Inventarnummer genutzt werden können, aber immer mit der gleichen Anzahl von Zeichen ausgedrückt werden, können diese vor der Ermittlung der zugehörigen Inventarnummern / Objekte weggeschnitten werden. Hierzu wird die Einstellung `strip_first_chars` genutzt (Beispielsweise: `strip_first_chars: 7`).
 
 **Beispiel-Dateistruktur**
 

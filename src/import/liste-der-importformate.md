@@ -37,5 +37,5 @@ Einige Parser sind spezifisch für sehr selten benutzte Import-Formate geschrieb
 | First Rumos (CSV)     | CSV         | Ja        | Ein Parser für die über den CSV-Export von [First Rumos](https://www.firstrumos.de) exportierten Daten. |
 | Google Arts & Culture | CSV         | Ja        | Parser für CSV-Daten, wie sie von [Google Arts & Culture](https://artsandculture.google.com/) exportiert werden. |
 | GOS                   | XML         | Nein      | Ein Parser für einen XML-Export der Daten des [Deutsch Russischen Museums in Berlin-Karlshorst](https://www.museum-karlshorst.de/). Inwiefern der Parser für andere Importe von GOS-Daten genutzt werden kann ist bisher unbekannt. |
-| Museo                 | SQL         | Nein      | Parser für die seinerzeit für die Museen der Lausitz enwickelte Datenbank "Museo". |
+| Museo                 | SQL         | Nein      | Parser für die seinerzeit für die Museen der Lausitz entwickelte Datenbank "Museo". |
 | SRU-MODS              | XML         | Ja        | Parser, der die Daten eines Hauses über eine externe SRU-Schnittstelle ausließt und importiert. Unterstützt bisher nur Metadaten. Entwickelt auf Basis von und optimiert für die SRU-Schnittstelle von [Kalliope](https://kalliope-verbund.info/). |
