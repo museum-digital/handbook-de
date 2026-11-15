@@ -297,6 +297,8 @@
 [FAQ](./misc/FAQ.md)
 [Weitere Anleitungen und Handreichungen](./misc/Weitere-Anleitungen.md)
 [API-basierte Anwendungen](./misc/API-basierte-Anwendungen.md)
+[Libraries](./misc/Libraries.md)
+[musdb in Deutschland: Nutzungsbedingungen für registrierte Nutzer](./misc/nutzungsbedingungen-musdb-deutschland.md)
 [Dependencies](./misc/Dependencies.md)
 [Förderung](./misc/Förderung.md)
 [Icons](./misc/Icons.md)
